@@ -1,33 +1,33 @@
-ddss.quest.0.10.name=Добро пожаловать!
-ddss.quest.0.10.desc=§l§1§0§0§2§2§1§2§2§1§2§3§4§5§6§7§8§9§a§c§d§d§e§f§f§k§l§r§0§1§3§4§5§6§0§1§2§lДобро пожаловать Подземелья, Драконы и Космические шаттлы!
+ddss.quest.0.10.name=Welcome!
+ddss.quest.0.10.desc=§l§1§0§0§2§2§1§2§2§1§2§3§4§5§6§7§8§9§a§c§d§d§e§f§f§k§l§r§0§1§3§4§5§6§0§1§2§lWelcome to Dungeons, Dragons & Space Shuttles!
 
-Эта книга квестов предлагает пошаговую инструкцию по использованию различных модов вместе. Благодаря этому вы Like that you learn quickly and efficiently. Сложность квеста зависит от награды, которую вы получите при выполнении: сложнее квест - лучше награда. 
+This Questbook provides step-by-step instructions on how to use all the diffrent Mods. Like that you learn quickly and efficiently. The difficulty determines the reward you get for completing a Quest - the more difficult the Quest, the better the reward, of course. 
 
-В моей сборке большинIn my Modpack, most recipes are changed in order to make you use every mod there is to get to your goal. It is of course not only for professional players, but also for rookies. 
+In my Modpack, most recipes are changed in order to make you use every mod there is to get to your goal. It is of course not only for professional players, but also for rookies. 
 
 §o§d§e§o§b§a§9§d§e§f§k§o§r§o§7§6§5§4§3§7§4§3§oDD&SS has a very special reward system where each player automatically earns Thermal Expansion Coins while questing. Use this Coins to Buy some Stuff in the (Questbook) Shop or use it later to create RF/FE Power.
 
-Обзор:
+Overview:
 
-§7§6T1- Медные монеты  -  (могут быть найдены в подземелье)
-§8§4§3§2§1§9§b§d§e§e§fT2- Серебряные монеты - (могут быть найдены в подземелье)
-§6§eT3- Золотые монеты - (могут быть найдены в подземелье)
-§3T4- Платиновые монеты
-§6§6§8§9§a§9§9§a§b§c§d§d§e§f§c§dT5- Монеты из люмиума
-§2§f§a§a§2T6- Монеты из эндериума
-ddss.quest.1.10.name=Нарубили дерева? Нет =)
+§7§6T1- Copper Coins  -  (can also be found in dungeons)
+§8§4§3§2§1§9§b§d§e§e§fT2- Silver Coins - (can also be found in dungeons)
+§6§eT3- Gold Coins - (can also be found in dungeons)
+§3T4- Platinum Coins
+§6§6§8§9§a§9§9§a§b§c§d§d§e§f§c§dT5- Lumium Coins
+§2§f§a§a§2T6- Enderium Coins
+ddss.quest.1.10.name=Punching Wood? Nope =)
 ddss.quest.1.10.desc=Stop punching wood with your (Mike Tyson) fist and use that Copper Axe in your Inventory :D
 
-§1§2- 5x древесины (Любое дерево)
-- 2x палки (Любые палки)
-ddss.quest.2.10.name=Лучше, чем верстак!
+§1§2- 5x Wood (Any Wood)
+- 2x Sticks (Any Stick)
+ddss.quest.2.10.name=Better then a Craftingtable!
 ddss.quest.2.10.desc=Lets build a Crafting-Station and some wooden Tools. Using a Crafting-Station instead of a Crafting-Table, allows items inside the table to stay there even when leaving its inventory.
 
 §1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x Crafting-Station
 - 1x Wooden Pickaxe
 - 1x Wooden Shovel
-ddss.quest.3.10.name=Basic Ressources 
-ddss.quest.3.10.desc=Lets collect different ressources for a Shelter and other important steps.
+ddss.quest.3.10.name=Basic Resources 
+ddss.quest.3.10.desc=Lets collect different resources for a Shelter and other important steps.
 
 §1§2- 16x Dirt
 §1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 16x Cobblestone (Any Cobble)
@@ -35,7 +35,7 @@ ddss.quest.3.10.desc=Lets collect different ressources for a Shelter and other i
 - 16x Clay
 - 16x Gravel
 ddss.quest.4.10.name=Stone Age!
-ddss.quest.4.10.desc=Gathering materials from all our supplies was pretty rough with wooden tools. Lets craft a Frunace and better Tools.
+ddss.quest.4.10.desc=Gathering materials from all our supplies was pretty rough with wooden tools. Lets craft a Furnace and better Tools.
 
 §1§2- 1x Furnace
 §1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x Stone Pickaxe
@@ -100,10 +100,10 @@ ddss.quest.16.10.desc=Craft Iron Plates with your Artisan Hammer.
 ddss.quest.17.10.name=Advanced Crafting?
 ddss.quest.17.10.desc=Advanced Crafting Tables are used to build Tools, Components and Machines in a 5x5 Grid.
 
-§1§2- 1x Advanced Craftin Table
+§1§2- 1x Advanced Crafting Table
 
 ddss.quest.18.10.name=Iron Chests!
-ddss.quest.18.10.desc=Expand your Storage to the next Level. Craft an Iron Chest.
+ddss.quest.18.10.desc=Expand your Storage to the next Level. 
 
 §1§2- 1x Iron Chest
 ddss.quest.19.10.name=How to Bonemeal
@@ -121,7 +121,9 @@ ddss.quest.21.10.desc=Irrigate Farmland and speeds up plant growth.
 
 §1§2- 1x Basic Watering Can
 ddss.quest.22.10.name=Charcoal Briquette
-ddss.quest.22.10.desc=Charcoal is been made by a simple method. Smelt Logs in a Frunace to obtain pieces of Tiny Charcoal and press 2 of them to Charcoal Briquette.
+ddss.quest.22.10.desc=Charcoal is been made by a simple method. Smelt Logs in a Furnace to obtain pieces of Tiny Charcoal and press 2 of them to Charcoal Briquette.
+
+§a§n§o§r§o§a§oHint: 1x Tiny Charcoal smetls 4 Items
 
 §1§2- 4x Tiny Charcoal
 - 2x Charcoal
@@ -232,8 +234,8 @@ ddss.quest.42.10.name=Silicon Plates
 ddss.quest.42.10.desc=Silicon Plates are used in a lot of recipes. Craft 2 of them.
 
 §1§2- 2x Silicon Plates
-ddss.quest.43.10.name=Saw Dust
-ddss.quest.43.10.desc=For Tinker's Construct Patterns we need a bunch of sawdust. Use a Mortar to obtain sawdast from wooden planks.
+ddss.quest.43.10.name=Sawdust
+ddss.quest.43.10.desc=For Tinker's Construct Patterns we need a bunch of sawdust. Use a Mortar to obtain sawdust from wooden planks.
 
 §1§2- 27x Sawdust
 ddss.quest.44.10.name=Move your Chests!
@@ -357,7 +359,7 @@ ddss.quest.81.10.desc=The Compost is a block added by Actually Additions. It is 
 
 §1§2- 4x Compost Block
 ddss.quest.82.10.name=Squeezing Gas? Lol?
-ddss.quest.82.10.desc=The easiest way to obtain Methane Gas ist to put Biomass in a squeezer and jump of it! It is not very efficient but at the same time, this process dont need a source of energy. In the longer term, however, its annoying. :D
+ddss.quest.82.10.desc=The easiest way to obtain Methane Gas is to put Biomass in a squeezer and jump of it! It is not very efficient but at the same time, this process dont need a source of energy. In the longer term, however, its annoying. :D
 Use a Redstone Signal to reset the position of the Squeezer.
 
 §a§oHint: The Squeezer can also be used to double ores!
@@ -567,11 +569,11 @@ ddss.quest.122.10.desc=Craft a Steel Boots.
 §a§oHint: Mob drops are not recognized!
 
 §2- 1x Steel Boots
-ddss.quest.123.10.name=Sprinkler
+ddss.quest.123.10.name=Openblocks Sprinkler
 ddss.quest.123.10.desc=This block is used to speed up the crop growing process and hydrate soil. Bonemeal can be put in the Sprinkler for an even faster rate of growth. It uses water to spray 4 blocks in each direction. Water is required to use the machine, which can be input directly from a liquid storage device, or a liquid transport device. Water must be input through the bottom face of the block. 
 
 
-§1§2- 1x Sprinkler
+§1§2- 1x Sprinkler (Openblocks)
 ddss.quest.124.10.name=Kitchenware #1
 ddss.quest.124.10.desc=Every component of a meal can be put on the Kitchen Workshop before cooking - water, oil, wheat, pasta, rice, cheese, vegetables etc. but it does not make sense without Kitchewares^^
 
@@ -602,8 +604,8 @@ ddss.quest.130.10.name=Tuna Potatos!
 ddss.quest.130.10.desc=Use your Kitchen Workshop to craft Tuna Poatatos.
 
 §1§2- 3x Tuna Potatos
-ddss.quest.131.10.name=Raw Potatos
-ddss.quest.131.10.desc=Gather some Potatos.
+ddss.quest.131.10.name=Raw Potatoes
+ddss.quest.131.10.desc=Gather some Potateos.
 
 §1§2- 10x Potato
 ddss.quest.132.10.name=Fries!
@@ -639,7 +641,7 @@ ddss.quest.139.10.desc=To Craft Bricks you need tons of clay. It might be useful
 
 §1§2- 2x Bricks
 ddss.quest.140.10.name=Sandstone
-ddss.quest.140.10.desc=To press Paper we need first Sandstone.  
+ddss.quest.140.10.desc=There are many possible applications for sandstone. One of them is the press of paper.
 
 §1§2- 4x Sandstone (red or white)
 ddss.quest.141.10.name=Butter
@@ -661,7 +663,7 @@ ddss.quest.144.10.desc=How can you have a feast without sugar? No sugar means no
 
 §1§2- 10x Sugar
 ddss.quest.145.10.name=Crispy Puff!
-ddss.quest.145.10.desc=Whether comfortable, delicious or cosy, Crispy Rice Puff Bars are the answer.
+ddss.quest.145.10.desc=Whether comfortable, delicious or cozy, Crispy Rice Puff Bars are the answer.
 
 §1§2- 3x Crispy Rice Puff Bars
 ddss.quest.146.10.name=Dough
@@ -802,7 +804,7 @@ ddss.quest.178.10.desc=Due to the smooth surface of sandstone-slabs, you can pre
 
 §1§2- 4x Paper
 ddss.quest.179.10.name=Unlock: Kitchen Workshop!
-ddss.quest.179.10.desc=A Lunchbag can store 3 different food items at the same time. You need a bunch of paper for this.
+ddss.quest.179.10.desc=A Lunch bag can store 3 different food items at the same time. You need a bunch of paper for this.
 
 §3§1§0§3§4§5§6§4§7§8§a§9§a§b§c§9§8§9§o§m§l§r§l§o§b§9§o§l§l§r§9§lUpon completion of this quest you will unlock the chapter: "Kitchen Workshop"
 
@@ -822,13 +824,13 @@ ddss.quest.184.10.desc=Cheese Slices can be made into cheese sandwiches, various
 
 §1§2- 8x Cheese Slice
 ddss.quest.185.10.name=Unlock: White Magic Tier 1
-ddss.quest.185.10.desc=Mystical flowers are a set of 16 flowers from Botania. They are created by standard world generation. Collect some Flowers.
+ddss.quest.185.10.desc=The Flower Pouch is a type of storage bag featured in Botania that carries Mystical Flowers. The pouch can only hold a stack each of Mystical Flowers, and will automatically be filled with them as the player picks them up.
 
-§1§l§o§r§l§b§1§9§lUpon completion of this quest you will unlock the chapter: "White Magic [T1]"
+§a§oHint: Autopickup does not put the flowers directly into the pouch!
 
-§a§a§a§a§2- 4x Mystical White Flowers
-- 2x Mystical Cyan Flowers
-- 2x Mystical Blue Flowers
+§1§l§o§r§l§b§1§9§lUpon completion of this quest you will unlock the chapter: "White Magic [T1§a§a§a§a§2
+
+§a§a§a§a§2- 1x Flower Pouch
 
 
 
@@ -840,10 +842,15 @@ ddss.quest.186.10.desc=Mystical Petals are used as crafting components in many r
 - 4x Blue Petal
 
 
-ddss.quest.187.10.name=Flower Pouch 
-ddss.quest.187.10.desc=The Flower Pouch is a type of storage bag featured in Botania that carries Mystical Flowers. The pouch can only hold a stack each of Mystical Flowers, and will automatically be filled with them as the player picks them up.
+ddss.quest.187.10.name=Mystical Flowers!
+ddss.quest.187.10.desc=Mystical flowers are a set of 16 flowers from Botania. They are created by standard world generation. Collect some Flowers.
 
-§a§a§a§a§2- 1x Flower Pouch
+§a§oHint: The flowers must not be in the pouch otherwise the book will not recognize the quest.
+
+§a§a§a§a§2- 4x Mystical White Flowers
+- 2x Mystical Cyan Flowers
+- 2x Mystical Blue Flowers
+
 
 
 
@@ -883,7 +890,7 @@ ddss.quest.193.10.name=Livingwood & Livingrock
 ddss.quest.193.10.desc=The Pure Daisy can be used to make Livingwood and Livingrock by placing wood Logs and/or Stone respectively around it; it will take one minute for the conversion to happen. However, it can also convert Netherrack into Cobblestone, Blaze Mesh into Obsidian, Soul Sand into Sand, Ice into Packed Ice and Water into Snow. 
 
 §a§a§a§a§2- 16x Livingrock
-- 16x Liningwood
+- 16x Livingwood
 
 
 
@@ -1022,7 +1029,7 @@ ddss.quest.215.10.desc=The first thing you will need to do in order to get start
 
 
 ddss.quest.216.10.name=Aquamarine
-ddss.quest.216.10.desc=Aquamarine gems can't be found in rivers and lakes. These gems must be processed in a magic workshop!
+ddss.quest.216.10.desc=Aquamarine gems §6§r§l§l§rcan't be found in rivers and lakes. These gems must be processed in a magic workshop!
 
 §2- 5x Aquamarine
 
@@ -1197,11 +1204,11 @@ ddss.quest.242.10.desc=Buy some Dyes.
 ddss.quest.243.10.name=Tinker Time! #1
 ddss.quest.243.10.desc=The Part Builder is used to shape most non-metallic tool parts by using wooden patterns and raw materials.
 
-§2- 1x Oak Part Builder
+§2- 1x Part Builder
 ddss.quest.244.10.name=Tinker Time! #2
 ddss.quest.244.10.desc=The Stencil Table is needed for crafting all specific patterns out of Blank Pattern, which are required for crafting the castings and the tool/weapon parts produced therefrom. For crafting a specific pattern the player must place a Blank Pattern in the left slot and select the button of the desired tool/weapon part in the GUI.
 
-§2- 1x Oak Stencil Table
+§2- 1x Stencil Table
 ddss.quest.245.10.name=Pattern Chest
 ddss.quest.245.10.desc=The Pattern Chest can store tool part casts and patterns. A single Pattern Chest can only store either casts or patterns—if it contains a cast, patterns cannot be put into it, and vice versa. It dynamically adds slots to itself when anything is added to it, so it only ever shows a single empty slot. It is accessible from adjacent Part Builders and Stencil Tables.
 
@@ -1236,7 +1243,7 @@ ddss.quest.249.10.desc=You need mooore Copper Ingots!
 ddss.quest.250.10.name=Smeltery #1
 ddss.quest.250.10.desc=The Smeltery is a multi-block structure used in the creation of higher tier weapons and tools using metal and alloys. It is used to smelt ores, ingots or blocks of almost any metal as well as Obsidian. Alloys include Manyullyn, Bronze, Alumite, Aluminum Brass, Pig Iron and much more!
 
-First of all we need a lot of ressources to craft Grout. It is used to create Seared Brick.
+First of all we need a lot of resources to craft Grout. It is used to create Seared Brick.
 
 §2- 34x Clay Blocks
 - 136x Sand (2 Stacks, 8 Sand)
@@ -1277,7 +1284,7 @@ ddss.quest.257.10.desc=Smelt your Bronze Blend to Ingots and craft it subsequent
 §2
 
 ddss.quest.258.10.name=Electrotin?
-ddss.quest.258.10.desc=Mix Redstone with Sawdust and Pulverzied Copper to obtain Electrotin.
+ddss.quest.258.10.desc=Mix Redstone with Sawdust and Pulverized Copper to obtain Electrotin.
 
 §2- 10x Electrotin
 ddss.quest.259.10.name=Electrotin Iron Compound
@@ -1376,7 +1383,7 @@ Now its time to mine a lot of Stuff! You need more iron, more copper, more tin, 
 ddss.quest.271.10.name=Copper!
 ddss.quest.271.10.desc=Copper ore is slightly more common than iron ore, but it occurs at higher levels. Veins of copper ore are also slightly smaller. Below oceans, copper ore less commonly occurs at deeper levels.
 
-§2- 64x Copper Inogts
+§2- 64x Copper Ingots
 §2
 
 §2
@@ -1419,7 +1426,7 @@ ddss.quest.276.10.desc=Continue with mining Obsidian to create a Nether Portal.
 ddss.quest.277.10.name=From hell and back; then back again...
 ddss.quest.277.10.desc=In other words, the time has come to travel to the Nether. Build a Nether Portal.
 
-§a§oCAUTION: If you are building portals on the surface you should block the access or install the portal in buildings. Because of "Zombie-Awarness" a lot of zombies wander around at night and get lost in the portals. When you enter you may be instant R.I.P
+§a§oCAUTION: If you are building portals on the surface you should block the access or install the portal in buildings. Because of "Zombie-Awareness" a lot of zombies wander around at night and get lost in the portals. When you enter you may be instant R.I.P
 
 §2- Travel to the Nether
 
@@ -1576,7 +1583,7 @@ ddss.quest.300.10.name=Platinum Ore!
 ddss.quest.300.10.desc=Platinum Ore is very very rare! They're more rare than Diamonds! It is used for tools, armor and some hig-end tier machines.
 
 
-§2- 64x Platin Ingots
+§2- 64x Platinum Ingots
 §2
 
 §2
@@ -2671,7 +2678,7 @@ ddss.quest.488.10.desc=Well, you can really get your first start as soon as you 
 §2- 5x Iron
 - 5x Gold
 - 5x Redstone
-- 2x Lapis
+- 12x Lapis
 - 1x Diamond
 ddss.quest.489.10.name=The Rudimentary Snare
 ddss.quest.489.10.desc=The Rudimentary Snare is a tool added by Blood Magic and is the earliest method to collect Demonic Will. Right-click to throw it at a mob. If the Snare connects, it is bewitched for a few seconds (displayed by white particles). Killing the mob under this condition causes the mob to drop Demonic Will. 
@@ -2698,7 +2705,7 @@ ddss.quest.494.10.desc=The Arcane Ashes can be used to create the Alchemy Array,
 
 §2- 1x Arcane Ashes
 ddss.quest.495.10.name=Alchemy Array
-ddss.quest.495.10.desc=The Alchemy Array is needed to craft the sigils from Blood Magic about the new way. It can be created with Arcane Ashes by holding them in the hand and right-clicking on the ground. For the use, for example to create a sigil, the player must place the needed items with a right-click in the sign and the sign is consumed by the process. Items must be placed in a specific order.
+ddss.quest.495.10.desc=The Alchemy Array is needed to craft a few lower sigils from Blood Magic about the new way. It can be created with Arcane Ashes by holding them in the hand and right-clicking on the ground. For the use, for example to create a sigil, the player must place the needed items with a right-click in the sign and the sign is consumed by the process. Items must be placed in a specific order.
 
 §2- Create an Alchemy Array on the ground
 ddss.quest.496.10.name=The Blood Altar 
@@ -2717,7 +2724,7 @@ ddss.quest.499.10.name=Blank Slates
 ddss.quest.499.10.desc=Blank Slates are a crafting ingredient in Blood Magic that are primarily used in rune and sigil creation. And you're going to need LOTS of these. This is where this mod gets its (somewhat deserved) reputation for being "grindy." Blank slates are used in the creation of the Divination Sigil, Water Sigil, Lava Sigil, Sigil of Holding, Blood Rune, and Speed Rune. 
 
 §2- 2x Blank Slates
-ddss.quest.500.10.name=Wate Reagent
+ddss.quest.500.10.name=Water Reagent
 ddss.quest.500.10.desc=Reagents are used to craft Sigils and ohther important Suff. Only craftable in the Hellfire Forge. Lets tart with the Water Reagent.
 
 §2- 1x Water Reagent
@@ -2940,10 +2947,10 @@ ddss.quest.553.10.desc=The Iron Spikes damages mobs that touch any side of it ot
 
 §2- 8x Iron Spikes
 ddss.quest.554.10.name=Basic Drawer
-ddss.quest.554.10.desc=The Basic Drawer is a block added by Storage Drawers. It can hold 32 stacks of a single item, though it can be upgraded to hold more with Storage Drawers upgrades. Shift right-clicking on it with an empty hand will open the Drawer's GUI.
+ddss.quest.554.10.desc=The Basic Drawer is a block added by Storage Drawers. It can hold 64 stacks of a single item, though it can be upgraded to hold more with Storage Drawers upgrades. Shift right-clicking on it with an empty hand will open the Drawer's GUI.
 
 
-§2- 2x Basic Drawer (Oak Drawer)
+§2- 2x Basic Drawer (Any)
 ddss.quest.555.10.name=Filter Module?
 ddss.quest.555.10.desc=The Filter Module is used in various recipes. Later it has some more features for configuring machines.
 
@@ -3037,10 +3044,11 @@ ddss.quest.570.10.desc=The Upgrade Mining allows Transfer Nodes to mine Cobblest
 §a§2- 1x Upgrade Mining
 
 
-ddss.quest.571.10.name=Pulverized Obsidian!
-ddss.quest.571.10.desc=Pulverized Obsidian is mainly used to create Hardened Glass.
+ddss.quest.571.10.name=Pulverized Obsidian & Vanadium
+ddss.quest.571.10.desc=The mixing of pulverized obsidian and vanadium is required to produce hardened glass. This is the easiest way to do it.
 
-§a§2- 4x Pulverized Obsidian
+§a§2- 8x Pulverized Obsidian
+§a§2- 1x Vanadium Dust
 
 
 ddss.quest.572.10.name=Furnace Generator
@@ -3382,7 +3390,7 @@ Ok, let's go on with ..... Celery!
 §1§2- 10x Celery Seeds 
 - 64x Celery
 ddss.quest.638.10.name=Enriched Alloy
-ddss.quest.638.10.desc=The Enriched Alloy is used in the crafting of many devices and is required for the production of Reinforced Alloy. Enriched Alloy is created by infusing an Iron Ingot with Redstone in a Metallurgic Infuser.
+ddss.quest.638.10.desc=The Enriched Alloy is used in the crafting of many devices and is required for the production of Reinforced Alloy. Enriched Alloy is created by infusing an Steel Ingot with Redstone in a Metallurgic Infuser.
 
 §a§2- 2x Enriched Alloy
 
@@ -4261,7 +4269,7 @@ ddss.quest.823.10.desc=The Chemical Reactor is used to combine two Fluids or spe
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Chemical Reactor
 ddss.quest.824.10.name=Metal Blocks (Manual Welding)
-ddss.quest.824.10.desc=All metal blocks are manufactured in the Blacksmit's Workshop as long as no machines are available.
+ddss.quest.824.10.desc=All metal blocks are manufactured in the Blacksmit's Workshop as long as no machines (or a smeltery) are available.
 
 
 §1§2- 1x Iron Block
@@ -4638,7 +4646,7 @@ Before that, there are a few other steps to be taken.
 ddss.quest.895.10.name=Cupronickel Heating Coil
 ddss.quest.895.10.desc=The Cupronickel Heating Coil is a component item added by TechReborn, used in the crafting of the Industrial Blast Furnace. Although its name has 'Heating Coil', it can't be used for increasing heat capacity of Industrial Blast Furnace.
 
-You need the Master Assembler to craft this.
+You need the rolling machine to craft this.
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 3x Cupronickel Heating Coil
 ddss.quest.896.10.name=Onion Seeds
@@ -4941,9 +4949,9 @@ ddss.quest.965.10.desc=Sulfur is a non-metal added by various mods. Find some su
 
 §a§oHint: (Y Level = 55 to 80) Sulfur ore looks like yellow andesite. See below in the rewards.
 
-§1§2- 8x Sulfur (Any Sulfur)
+§1§2- 4x Sulfur (Any Sulfur)
 ddss.quest.966.10.name=Gunpowder
-ddss.quest.966.10.desc=Gunpowder is an item that is used for explosive-related actions. Creepers have a chance of dropping up to 2 pieces of gunpowder upon death. But there are also many ways to craft it.
+ddss.quest.966.10.desc=Gunpowder is an item that is used for explosive-related actions. Creepers have a chance of dropping up to 2 pieces of gunpowder upon death. Combine sulfur + saltpeter to craft it.
 
 §1§2- 6x Gunpowder
 ddss.quest.967.10.name=Grenades!
@@ -5755,6 +5763,8 @@ ddss.quest.1139.10.desc=The Arc Furnace is a 5x5x5 Multiblock machine. It is use
 
 This great furnace can melt like anything except titanium, chrome and tungsteen. This has to be done in the Industrial Blust Furnace.
 
+§a§21x Engineer's Blueprint (Arc Furnace Electrodes)
+
 §a§r§a§oIf you decide to build one I will guide you through the preparations with a questline. But you have to be aware that you need TONS of steel and other stuff for this giant machine!
 
 ddss.quest.1140.10.name=Light Engineering Block
@@ -5889,13 +5899,13 @@ ddss.quest.1161.10.desc=Entering the Twilight Forest is done by creating a Twili
 
 
 ddss.quest.1162.10.name=Glass Pipes
-ddss.quest.1162.10.desc=Use the profiling bench to craft some glass pipe.
+ddss.quest.1162.10.desc=Use the profiling bench to craft some glass pipes.
 
 §2- 4x Glass Pipe
 ddss.quest.1163.10.name=Fluid Pipes
 ddss.quest.1163.10.desc=Craft some fluid pipes in the Engineer's workshop.
 
-§2- 8x Flui Pipe
+§2- 8x Fluid Pipes
 ddss.quest.1164.10.name=Important materials!
 ddss.quest.1164.10.desc=Get the following items:
 
@@ -5953,7 +5963,7 @@ ddss.quest.1173.10.desc=Mix liquid magma and osram in a smeltery or fluid mixer 
 
 §a§2- 1x Nitronite Cell
 ddss.quest.1174.10.name=Crystalline
-ddss.quest.1174.10.desc=You probably already know this process. Nevertheless I show it again because it is important. Smelt any thaumcraft crystals in a smeltery or melter to obtain liquid crystalline.
+ddss.quest.1174.10.desc=You probably already know this process. Nevertheless I show it again because it is important. Smelt any crystals (ruby, peridot, sapphire) in a smeltery or melter to obtain liquid crystalline.
 
 §a§2- 1x Liquid Crystalline Cell
 ddss.quest.1175.10.name=Yrdeen!
@@ -6070,6 +6080,68 @@ ddss.quest.1201.10.desc=There's a way to set your home where you can teleport ba
 
 §a/sethome or /createhome - to set spawnpoint
 /back - to teleport back
+ddss.quest.1202.10.name=Cyclic Sprinkler
+ddss.quest.1202.10.desc=This sprinkler runs only when water in directly below. It will water nearby crops and increase their growing speed. Stack multiple sprinkler in the same area to increase to increase growing speed even more! Costs a bit more then the Openblocks Sprinkler.
+
+§1§2- 1x Sprinkler (Cyclic)
+ddss.quest.1203.10.name=Wood Casing
+ddss.quest.1203.10.desc=Wood casings have many uses. For example chest upgrades.
+
+§1§2- 1x Wood Casing
+
+ddss.quest.1204.10.name=Wood to Iron Upgrade
+ddss.quest.1204.10.desc=The Wood to Iron Chest Upgrade is used to turn wooden Chests into Iron Chests. The Chest can be upgraded by right clicking it with the item. The Chest's inventory will be retained.
+
+§1§2- 1x Wood to Iron Chest Upgrade
+
+ddss.quest.1205.10.name=Chisel!
+ddss.quest.1205.10.desc=This item allows obtainability of the different designs of decorative block. Right clicking while holding the tool will open an interface. 
+
+§1§2- 1x Chisel
+ddss.quest.1206.10.name=Fancy Fences!
+ddss.quest.1206.10.desc=Use your chisel to convert "vanilla" fence to willow fence from natura. It'll give you some practice.
+
+§1§2- 10x Willow Fence (Natura)
+ddss.quest.1207.10.name=Shulker Box Upgrade!
+ddss.quest.1207.10.desc=You got a very valuable shulker box. Time to upgrade it too! You don't need iron plates for that.
+
+§1§2- 1x Light Blue Shulker Box
+ddss.quest.1208.10.name=Flower Pot
+ddss.quest.1208.10.desc=A flower pot is a decorative block that can contain flowers, saplings, mushrooms or plants. We don't need this for flowers right now.... You'll see.
+
+
+§1§2- 1x Flower Pot
+ddss.quest.1209.10.name=Saltpeter
+ddss.quest.1209.10.desc=It's time to find saltpeter. If you mix it with sulfur you can create gunpowder.
+
+§a§oHint: (Y Level = 50 to 80) 
+
+§1§2- 4x Saltpeter (Any)
+ddss.quest.1210.10.name=Throwing Torch!
+ddss.quest.1210.10.desc=Throwing Torches are very useful for exploring caves. Right-click to throw the torch, which will be placed wherever it lands.
+
+§1§2- 2x Throwing Torches
+ddss.quest.1211.10.name=Rice Slimeballs!
+ddss.quest.1211.10.desc=The Rice Slimeball can be used to create anything a Slimeball can.
+
+§1§2- 2x Rice Slimeball
+ddss.quest.1212.10.name=Master Infusion Crystal!
+ddss.quest.1212.10.desc=The Master Infusion Crystal does the same as the infusion crystal only with the difference that it is indestructible!
+
+§2- 1x Master Infusion Crystal
+ddss.quest.1213.10.name=Oxygen Compressor
+ddss.quest.1213.10.desc=The Oxygen Compressor is a machine used to fill empty or depleted oxygen tanks. Connect a fluid or gas Pipe to the blue ring input side and a power source to the grey square input side. Place an Oxygen Tank in the bottom right slot and it will take oxygen from the input and place it into the tank. 
+
+§a§2- 1x Oxygen Compressor
+ddss.quest.1214.10.name=Standard Wrench
+ddss.quest.1214.10.desc=The Standard Wrench is used to rotate the orientation of galacticraft machines.
+
+
+§a§2- 1x Standard Wrench
+ddss.quest.1215.10.name=Rough Brownstone
+ddss.quest.1215.10.desc=Rough Brownstone is a block, that can be processed to several other types of Bronwnstone, on which you can walk faster! Its speed increase makes it suitable for long distance roads.
+
+§1§2- 4x Rough Brownstone
 ddss.lines.0.10.name=Tier 0 - Main Questline
 ddss.lines.0.10.desc=In the first training block, a lot is still produced by hand in order to learn the fundamentals, and the training course becomes increasingly technical and magical as it progresses. 
 ddss.lines.1.10.name=Kitchen Workshop
