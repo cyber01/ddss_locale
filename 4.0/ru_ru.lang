@@ -1,151 +1,150 @@
-ddss.quest.0.10.name=Welcome!
-ddss.quest.0.10.desc=§l§1§0§0§2§2§1§2§2§1§2§3§4§5§6§7§8§9§a§c§d§d§e§f§f§k§l§r§0§1§3§4§5§6§0§1§2§lWelcome to Dungeons, Dragons & Space Shuttles!
+ddss.quest.0.10.name=Добро пожаловать!
+ddss.quest.0.10.desc=§l§1§0§0§2§2§1§2§2§1§2§3§4§5§6§7§8§9§a§c§d§d§e§f§f§k§l§r§0§1§3§4§5§6§0§1§2§lДобро пожаловать в Подземелья, Драконы и Космические шаттлы(DDSS)!
 
-This Questbook provides step-by-step instructions on how to use all the diffrent Mods. Like that you learn quickly and efficiently. The difficulty determines the reward you get for completing a Quest - the more difficult the Quest, the better the reward, of course. 
+Эта книга квестов предоставляет пошаговую инструкцию по использованию всех модов вместе. С помощью нее вы быстро и эффективности изучите возможности различных модов и взаимодействие между ними. Сложность квеста определяет награду, которую вы получите за его выполнение - больше сложность, лучше награда. 
 
-In my Modpack, most recipes are changed in order to make you use every mod there is to get to your goal. It is of course not only for professional players, but also for rookies. 
+В моей сборке, большинство рецептов изменено с целью использования множества модов для достижения цели. Квесты подходят как для новичков, так и для опытных игроков. 
 
-§o§d§e§o§b§a§9§d§e§f§k§o§r§o§7§6§5§4§3§7§4§3§oDD&SS has a very special reward system where each player automatically earns Thermal Expansion Coins while questing. Use this Coins to Buy some Stuff in the (Questbook) Shop or use it later to create RF/FE Power.
+§o§d§e§o§b§a§9§d§e§f§k§o§r§o§7§6§5§4§3§7§4§3§oDD&SS использует своеобразную систему наград, где за выполнение квеста игрок получает монеты Thermal Expansion. Эти монеты могут быть использованы для покупки различных предметов в магазине (в Книге квестов) или для создания RF/FE энергии.
 
-Overview:
+Обзор:
 
-§7§6T1- Copper Coins  -  (can also be found in dungeons)
-§8§4§3§2§1§9§b§d§e§e§fT2- Silver Coins - (can also be found in dungeons)
-§6§eT3- Gold Coins - (can also be found in dungeons)
-§3T4- Platinum Coins
-§6§6§8§9§a§9§9§a§b§c§d§d§e§f§c§dT5- Lumium Coins
-§2§f§a§a§2T6- Enderium Coins
-ddss.quest.1.10.name=Punching Wood? Nope =)
-ddss.quest.1.10.desc=Stop punching wood with your (Mike Tyson) fist and use that Copper Axe in your Inventory :D
+§7§6T1- Медные монеты  -  (также могут быть найдены в подземельях)
+§8§4§3§2§1§9§b§d§e§e§fT2- Серебряные монеты- (также могут быть найдены в подземельях)
+§6§eT3- Золотые монеты - (также могут быть найдены в подземельях)
+§3T4- Платиновые монеты
+§6§6§8§9§a§9§9§a§b§c§d§d§e§f§c§dT5- Люмиумовые монеты
+§2§f§a§a§2T6- Эндериумные монеты
+ddss.quest.1.10.name=Побили дерево?
+ddss.quest.1.10.desc=Хватит бить дерево кулаком (прямо как Майк Тайсон), используй Медный топор в своем инвентаре :D
 
-§1§2- 5x Wood (Any Wood)
-- 2x Sticks (Any Stick)
-ddss.quest.2.10.name=Better then a Craftingtable!
-ddss.quest.2.10.desc=Lets build a Crafting-Station and some wooden Tools. Using a Crafting-Station instead of a Crafting-Table, allows items inside the table to stay there even when leaving its inventory.
+§1§2- 5x деревесины (Любая древесина)
+- 2x палки (Любые палки)
+ddss.quest.2.10.name=Лучше, чем верстак!
+ddss.quest.2.10.desc=Теперь сделайте Инженерный верстак и немного деревянных инструментов. Использование Инженерного верстака вместо обычного позволяет предметам внутри верстака оставаться, даже, если отойдете от него.
 
-§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x Crafting-Station
-- 1x Wooden Pickaxe
-- 1x Wooden Shovel
-ddss.quest.3.10.name=Basic Ressources 
-ddss.quest.3.10.desc=Lets collect different ressources for a Shelter and other important steps.
+§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x инженерный верстак
+- 1x деревянная кирка
+- 1x деревянная лопата
+ddss.quest.3.10.name=Простые ресурсы 
+ddss.quest.3.10.desc=Теперь соберите различные ресурсы для убежища и выживания.
 
-§1§2- 16x Dirt
-§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 16x Cobblestone (Any Cobble)
-- 16x Sand (Any Sand)
-- 16x Clay
-- 16x Gravel
-ddss.quest.4.10.name=Stone Age!
-ddss.quest.4.10.desc=Gathering materials from all our supplies was pretty rough with wooden tools. Lets craft a Frunace and better Tools.
+§1§2- 16x земли
+§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 16x булыжника (Любой булыжник)
+- 16x песка (Любой песок)
+- 16x глины
+- 16x гравия
+ddss.quest.4.10.name=Каменный век!
+ddss.quest.4.10.desc=Сбор ресурсов с помощью деревянных инструментов долгий и скучный, пора развиваться. Теперь сделайте Печь и улучшенные инструменты.
 
-§1§2- 1x Furnace
-§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x Stone Pickaxe
-- 1x Stone Shovel
-- 1x Stone Sword
-- 1x Stone Hoe
-ddss.quest.5.10.name=Basic Metals #1
-ddss.quest.5.10.desc=The very first Basic Ingots in the whole game. Collect some Copper ore.
+§1§2- 1x печь
+§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x каменная кирка
+- 1x каменная лопата
+- 1x каменный меч
+- 1x каменная мотыга
+ddss.quest.5.10.name=Простые металлы #1
+ddss.quest.5.10.desc=Самые первые слитки в игре. Соберите немного Медной руды.
 
-§1§2- 10x Copper Ingot
-ddss.quest.6.10.name=Handsaw
-ddss.quest.6.10.desc=In woodworking and carpentry, hand saws, are used to cut pieces of wood into different planks or shapes. The hand saw is a bit like a tenon saw, but with one flat, sharp edge.
+§1§2- 10x медных слитков
+ddss.quest.6.10.name=Ручная пила
+ddss.quest.6.10.desc=В плотничестве и обработке дерева, ручные пилы используются для резки древесины на доски и прочие части. Ручная пила похожа на обычную пилу для распила, но с одним острым краем.
 
-§1§2- 1x Copper Handsaw
-ddss.quest.7.10.name=Gas Burner!
-ddss.quest.7.10.desc=A gas burner is a device that produces a controlled flame by mixing a fuel gas such as methane, syngas, or argon with an oxidizer such as the ambient air or supplied oxygen, and allowing for ignition and combustion.
+§1§2- 1x медная ручная пила
+ddss.quest.7.10.name=Газовая горелка!
+ddss.quest.7.10.desc=Газовая горелка это устройство, которое делает контролируемое пламя с помощью смешивания газа, вроде метана, сингаза или аргона с окислителем вроде воздуха или чистого кислорода.
 
-§o§3§4§6§7§8§9§b§d§e§d§k§f§5§3§2§3§oBurners works only with Methane, Argon or Syngas in a Blacksmith Workshop.
+§o§3§4§6§7§8§9§b§d§e§d§k§f§5§3§2§3§oГорелки работают только с Метаном, Аргоном или Сингазом в Кузнечной мастерской.
 
-§1§2- 1x Burner (Any Material)
-ddss.quest.8.10.name=Mortar & Pestle
-ddss.quest.8.10.desc=Mortar and pestle are used since ancient times to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, medicine and pharmacy.
+§1§2- 1x горелка (Любой материал)
+ddss.quest.8.10.name=Ступка и пестик
+ddss.quest.8.10.desc=Ступка и пестик издавна используются для подготовки размалывания различных ингридиентов в порошок, обычно используется на кухне или в фармацевтике.
 
-§1§2- 1x Copper Mortar & Pestle
+§1§2- 1x медная ступка и пестик
 
-ddss.quest.9.10.name=Copper Chests!
-ddss.quest.9.10.desc=Wooden chests are History. Time for a fancy Copper Chest!
+ddss.quest.9.10.name=Медные сундуки!
+ddss.quest.9.10.desc=Деревянные сундуки это прошлый век, время для новых Медных сундуков!
 
-§1§2- 1x Copper Chest
-ddss.quest.10.10.name=Hammer Time!
-ddss.quest.10.10.desc=This sledgehammer is a tool with a large, flat, metal head, attached to a short handle. The size of its head allows a sledgehammer to apply more force than other hammers of similar size. Can be used to craft ingots into plates.
+§1§2- 1x медный сундук
+ddss.quest.10.10.name=Используй молот!
+ddss.quest.10.10.desc=Молот это инструмент с большой, плоской металлической головкой и короткой ручкой. Размер головки позволяет молоту воздействовать на предметы сильнее, чем обычный молоток. Может быть использован для создания пластин из слитков.
 
-§1§2- 1x Copper Hammer
+§1§2- 1x медный молот
 
-ddss.quest.11.10.name=Basic Plates #1
-ddss.quest.11.10.desc=Craft a few Copper Plates with your new sledgehammer (Artisan Hammer). Later you can use machines or a smeltery to save material.
+ddss.quest.11.10.name=Простые пластины #1
+ddss.quest.11.10.desc=Сделайте несколько медных пластин с вашим новеньким молотом (Artisan Hammer). Позже вы сможете использовать машины или плавильню, чтобы экономить ресурсы.
 
-§1§2- 4x Copper Plates
+§1§2- 4x медные пластины
 
-ddss.quest.12.10.name=More Efficiency!
-ddss.quest.12.10.desc=Cutting logs with a handsaw, increases the ouptut of wooden planks! (+100%)
+ddss.quest.12.10.name=Еще эффективнее!
+ddss.quest.12.10.desc=Распил древесины с помощью ручной пилы увеличивает количество досок! (+100%)
 
-§1§2- 10x Wooden Planks (Any Planks)
-ddss.quest.13.10.name=Sifter
-ddss.quest.13.10.desc=Sieving is a simple technique for separating particles of different sizes. For example you can use Sifters to separate flint from gravel. 
+§1§2- 10x деревянные доски (Любые доски)
+ddss.quest.13.10.name=Сито
+ddss.quest.13.10.desc=Просеивание это простая техника для отделения частиц других размеров. Например, вы можете использовать Сито для просеивания гравия, получив при этом Кремень. 
 
-§1§2- 1x Copper Sifter
-ddss.quest.14.10.name=Gravel to Flint
-ddss.quest.14.10.desc=Put gravel in a Sifter to get flint.
+§1§2- 1x медное сито
+ddss.quest.14.10.name=Гравий в кремень
+ddss.quest.14.10.desc=Поместите гравий в сито, чтобы получить кремень.
 
-§1§2- 5x Flint
-ddss.quest.15.10.name=Basic Metals #2
-ddss.quest.15.10.desc=During the game you will need a huge amount of Iron! Collect Iron Ore and produce Ingots.
+§1§2- 5x кремня
+ddss.quest.15.10.name=Простые металлы #2
+ddss.quest.15.10.desc=В процессе игры вам понадобится огромное количество железа! Соберите Железную руду и сделайте слитки.
 
-§1§2- 10x Iron Ingots
+§1§2- 10x железных слитков
 
-ddss.quest.16.10.name=Basic Plates #2
-ddss.quest.16.10.desc=Craft Iron Plates with your Artisan Hammer. 
+ddss.quest.16.10.name=Простые пластины #2
+ddss.quest.16.10.desc=Сделайте Железные пластины с помощью вашего молота (Artisan Hammer). 
 
-§1§2- 4x Iron Plates
+§1§2- 4x железные пластины
 
-ddss.quest.17.10.name=Advanced Crafting?
-ddss.quest.17.10.desc=Advanced Crafting Tables are used to build Tools, Components and Machines in a 5x5 Grid.
+ddss.quest.17.10.name=Продвинутый верстак?
+ddss.quest.17.10.desc=Продвинутый верстак используется для создания инструментов, компонентов и машин в сетке 5x5.
 
-§1§2- 1x Advanced Craftin Table
+§1§2- 1x продвинутый верстак
 
-ddss.quest.18.10.name=Iron Chests!
-ddss.quest.18.10.desc=Expand your Storage to the next Level. Craft an Iron Chest.
+ddss.quest.18.10.name=Железные сундуки!
+ddss.quest.18.10.desc=Улучшите ваше хранилище до нового уровня. Сделайте Железный сундук.
 
-§1§2- 1x Iron Chest
-ddss.quest.19.10.name=How to Bonemeal
-ddss.quest.19.10.desc=Use a Mortar to get bonemeal out of bones.
+§1§2- 1x железный сундук
+ddss.quest.19.10.name=Как сделать костную муку
+ddss.quest.19.10.desc=Используйте ступку для получения костной муки из костей.
 
-§1§2- 3x Bonemal
-ddss.quest.20.10.name=Copper Upgrade!
-ddss.quest.20.10.desc=Its time to craft Copper Tools!
+§1§2- 3x костных муки
+ddss.quest.20.10.name=Медное улучшение!
+ddss.quest.20.10.desc=Настало время сделать медные инструменты!
 
-§1§2- 1x Copper Pickaxe
-§1§2- 1x Copper Shovel
-§1§2- 1x Copper Sword
-ddss.quest.21.10.name=Watering Cans!
-ddss.quest.21.10.desc=Irrigate Farmland and speeds up plant growth.
+§1§2- 1x медная кирка
+§1§2- 1x медная лопата
+§1§2- 1x медный меч
+ddss.quest.21.10.name=Лейки!
+ddss.quest.21.10.desc=Полейте почву и ускорьте рост растений.
 
-§1§2- 1x Basic Watering Can
-ddss.quest.22.10.name=Charcoal Briquette
-ddss.quest.22.10.desc=Charcoal is been made by a simple method. Smelt Logs in a Frunace to obtain pieces of Tiny Charcoal and press 2 of them to Charcoal Briquette.
+§1§2- 1x простая лейка
+ddss.quest.22.10.name=Древесный уголь
+ddss.quest.22.10.desc=Древесный уголь делается простым методом. Сжигая доски в печи вы получите угольки, а сжав два уголька вы получите древесный уголь.
 
-§1§2- 4x Tiny Charcoal
-- 2x Charcoal
-ddss.quest.23.10.name=Natural Fuel
-ddss.quest.23.10.desc=Coal is a combustible black or brownish-black sedimentary rock usually occurring in rock strata in layers or veins.
-Mine 10 pieces of Coal.
+§1§2- 4x кусочка древесного угля
+- 2x древесных угля
+ddss.quest.23.10.name=Натуральное топливо
+ddss.quest.23.10.desc=Уголь это горючая черная или коричнево-черная порода, обычно встречается в виде слоев или жил.
+Добудьте 10 угля.
 
-§1§2- 10x Coal
-ddss.quest.24.10.name=
-The Slightly Different Torch
-ddss.quest.24.10.desc=A torch is a stick with combustible material at one end, which is ignited and used as a light source.
+§1§2- 10x угля
+ddss.quest.24.10.name=Немного другой факел
+ddss.quest.24.10.desc=Палка с горючим материалом на одном конце, при зажигании используется как источник света.
 
-So what happens when you run out of wood? Then craft Stone Torches ;D
+У вас кончилась древесина? Тогда сделайте каменные факелы ;D
 
-§1§2- 4x Stone Torch
-ddss.quest.25.10.name=All About Silicon #2
-ddss.quest.25.10.desc=Go ahead with Sandy-Coal Compound.
+§1§2- 4x каменных факела
+ddss.quest.25.10.name=Все о силиконе #2
+ddss.quest.25.10.desc=Сделайте песочно-угольную смесь.
 
-§1§2- 2x Sandy-Coal Compound
-ddss.quest.26.10.name=All About Silicon #3
-ddss.quest.26.10.desc=Smelt your Sandy-Coal Compound in the Furnace to obtain a Silicon Boule. 
-Cut it with a saw to get silicone slices.
+§1§2- 2x песочно-угольных смеси
+ddss.quest.26.10.name=Все о силиконе #3
+ddss.quest.26.10.desc=Расплавьте песочно-угольную смесь в печи и получите Силиконовое Буле. 
+Разрежьте его, для получения силиконовых кусочков.
 
-§1§2- 2x Silicon Boule
+§1§2- 2x силиконовых буле
 - 6x Silicon
 ddss.quest.27.10.name=Clay What?
 ddss.quest.27.10.desc=The Clay Shears is a tool from Ceramics. They function like normal Vanilla Shears, except that they have less durability, and break blocks faster. Used against Cobweb, Wool, or any leaf block, the Clay Shears is 18% faster than the normal Shears.
@@ -6073,36 +6072,36 @@ ddss.quest.1201.10.desc=There's a way to set your home where you can teleport ba
 
 §a/sethome or /createhome - to set spawnpoint
 /back - to teleport back
-ddss.lines.0.10.name=Tier 0 - Main Questline
-ddss.lines.0.10.desc=In the first training block, a lot is still produced by hand in order to learn the fundamentals, and the training course becomes increasingly technical and magical as it progresses. 
-ddss.lines.1.10.name=Kitchen Workshop
-ddss.lines.1.10.desc=Cooking, Farming, Fishing and more!
-ddss.lines.2.10.name=Blacksmith's Workshop
-ddss.lines.2.10.desc=Learn everything about the Blacksmith's Workshop!
-ddss.lines.3.10.name=Shop Rewards!
-ddss.lines.3.10.desc=Buy some Stuff!
-ddss.lines.4.10.name=Tier 1 - Main Questline
-ddss.lines.4.10.desc=That is the first challenge to be overcome in order to develop new technology; this is not always easy in the course of everyday operations.
-ddss.lines.5.10.name=White Magic [Tier 1]
-ddss.lines.5.10.desc=When you are interested in the Mystery Tradition, you have now the opportunity to experience the beauty of white spiritual magic around Flowers and the Stars ;0
-ddss.lines.6.10.name=Ores, Alloys & Smeltery [Tier 1]
-ddss.lines.6.10.desc=Here you will find almost anything around ores, alloys, Tinker Tools and the Smeltery!
-ddss.lines.7.10.name=Mystical Agriculture [Tier 1]
-ddss.lines.7.10.desc=Mystical Agriculture is a mod that allows you to grow crops for resources as an alternative to quarries and mob farms. This chapter is very important for securing future resources!
-ddss.lines.8.10.name=Black Magic [Tier 1]
-ddss.lines.8.10.desc=If we give up our knowledge of the black arts, we will doom all humanity....
-ddss.lines.9.10.name=Tier 2 - Main Questline
-ddss.lines.9.10.desc=This Chapter helps to capitalise on your development and engineering know-how and take your technology to the next level!
-ddss.lines.10.10.name=Ores, Alloys & Smeltery [Tier 2]
-ddss.lines.10.10.desc=You have made it to the next round!
-ddss.lines.11.10.name=Tier 3 - Main Questline
-ddss.lines.11.10.desc=And now i have another surprise in store for you! Are you ready to reach IRIDIUM Age?
-ddss.lines.12.10.name=Wild Hunt
-ddss.lines.12.10.desc=I know what you miss, a forest, a horse and a wild hunt.
-ddss.lines.13.10.name=Protectors Of The Earth
-ddss.lines.13.10.desc=Are you the defender of the secret castle?
-ddss.lines.14.10.name=Mystical Agriculture [Tier 2]
-ddss.lines.14.10.desc=No Description
-ddss.lines.15.10.name=Tier 4 - Main Questline
-ddss.lines.15.10.desc=The Sky is the Limit! ...do you think so?^^
-ddss.settings.pack_name=§2§1§4§5§6§7§8§aDungons, Dragons & Space Shuttles!
+ddss.lines.0.10.name=Уровень 0 - Основной квест
+ddss.lines.0.10.desc=В первом обучающем блоке большинство предметов производятся руками, это сделано для изучения модов и взаимодействия между ними. Позже сложность будет увеличиваться как в техническом, так и в магическом плане. 
+ddss.lines.1.10.name=Кухня
+ddss.lines.1.10.desc=Приготовление еды, фермерство, рыбалка и многое другое!
+ddss.lines.2.10.name=Кузнечная мастерская
+ddss.lines.2.10.desc=Изучите все, что связано с кузнечным делом!
+ddss.lines.3.10.name=Игровой магазин!
+ddss.lines.3.10.desc=Купите различные предметы!
+ddss.lines.4.10.name=Уровень 1 - Основной квест
+ddss.lines.4.10.desc=Это первые задачи, которые нужно выполнить, чтобы приступить к работе с новыми технологиями; это не всегда просто в ходе ежедневных операций.
+ddss.lines.5.10.name=Белая магия [Уровень 1]
+ddss.lines.5.10.desc=Если вы интересуетесь белой магией и модом Botania, то здесь вы сможете ощутить всю красоту белой магии среди Цветов и Звезд ;0
+ddss.lines.6.10.name=Руды, Сплавы и Плавильня [Уровень 1]
+ddss.lines.6.10.desc=Здесь вы найдете почти все, что связано с рудами, сплавами, инструментами Tinkers Construct и плавильней!
+ddss.lines.7.10.name=Мистические растения [Уровень 1]
+ddss.lines.7.10.desc=В данной главе вы познакомитесь с модом Mystical Agriculture, научитесь получать ресурсы из растений, как альтернативу карьерами и фермам мобов. Эта часть очень важна для защиты будущих ресурсов!
+ddss.lines.8.10.name=Темная магия [Уровень 1]
+ddss.lines.8.10.desc=Если мы откажемся от наших знаний о черной магии, мы обречем все человечество ....
+ddss.lines.9.10.name=Уровень 2 - Основной квест
+ddss.lines.9.10.desc=Эта часть помогает получить выгоду от ваших разработов и инженерных ноу-хау и вывести ваши технологии на новый уровень!
+ddss.lines.10.10.name=Руды, Сплавы и Плавильня [Уровень 2]
+ddss.lines.10.10.desc=Вы готовы к следующему этапу!
+ddss.lines.11.10.name=Уровень 3 - Основной квест
+ddss.lines.11.10.desc=И сейчас у меня для вас сюрприз! Вы готовы перейти в век Ирридия?
+ddss.lines.12.10.name=Дикая охота
+ddss.lines.12.10.desc=Я знаю, что вы забыли: лес, лошадь и дикую охоту.
+ddss.lines.13.10.name=Защитники земли
+ddss.lines.13.10.desc=Вы защитник секретного замка?
+ddss.lines.14.10.name=Мистические растения [Уровень 2]
+ddss.lines.14.10.desc=Без описания
+ddss.lines.15.10.name=Уровень 4 - Основной квест
+ddss.lines.15.10.desc=Небо это предел! ... ты так думаешь? ^^
+ddss.settings.pack_name=§2§1§4§5§6§7§8§aПодземелья, Драконы и Космические шаттлы!
