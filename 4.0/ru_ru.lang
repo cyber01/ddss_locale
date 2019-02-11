@@ -1,7 +1,7 @@
 ddss.quest.0.10.name=Добро пожаловать!
 ddss.quest.0.10.desc=§l§1§0§0§2§2§1§2§2§1§2§3§4§5§6§7§8§9§a§c§d§d§e§f§f§k§l§r§0§1§3§4§5§6§0§1§2§lДобро пожаловать в Подземелья, Драконы и Космические шаттлы(DDSS)!
 
-Эта книга квестов предоставляет пошаговую инструкцию по использованию всех модов вместе. С помощью нее вы быстро и эффективности изучите возможности различных модов и взаимодействие между ними. Сложность квеста определяет награду, которую вы получите за его выполнение - больше сложность, лучше награда. 
+Эта книга квестов предоставляет пошаговую инструкцию по использованию всех модов вместе. С помощью нее вы быстро и эффективно изучите возможности различных модов и взаимодействие между ними. Сложность квеста определяет награду, которую вы получите за его выполнение - больше сложность, лучше награда. 
 
 В моей сборке, большинство рецептов изменено с целью использования множества модов для достижения цели. Квесты подходят как для новичков, так и для опытных игроков. 
 
@@ -18,207 +18,205 @@ ddss.quest.0.10.desc=§l§1§0§0§2§2§1§2§2§1§2§3§4§5§6§7§8§9§a§
 ddss.quest.1.10.name=Побили дерево?
 ddss.quest.1.10.desc=Хватит бить дерево кулаком (прямо как Майк Тайсон), используй Медный топор в своем инвентаре :D
 
-§1§2- 5x деревесины (Любая древесина)
-- 2x палки (Любые палки)
-ddss.quest.2.10.name=Лучше, чем верстак!
+§1§2- 5x Древесины (Любая древесина)
+- 2x Палки (Любые палки)
+ddss.quest.2.10.name=Лучше, чем Верстак!
 ddss.quest.2.10.desc=Теперь сделайте Инженерный верстак и немного деревянных инструментов. Использование Инженерного верстака вместо обычного позволяет предметам внутри верстака оставаться, даже, если отойдете от него.
 
-§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x инженерный верстак
-- 1x деревянная кирка
-- 1x деревянная лопата
+§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x Инженерный верстак
+- 1x Деревянная кирка
+- 1x Деревянная лопата
 ddss.quest.3.10.name=Простые ресурсы 
 ddss.quest.3.10.desc=Теперь соберите различные ресурсы для убежища и выживания.
 
-§1§2- 16x земли
-§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 16x булыжника (Любой булыжник)
-- 16x песка (Любой песок)
-- 16x глины
-- 16x гравия
+§1§2- 16x Земли
+§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 16x Булыжника (Любой булыжник)
+- 16x Песка (Любой песок)
+- 16x Глины
+- 16x Гравия
 ddss.quest.4.10.name=Каменный век!
 ddss.quest.4.10.desc=Сбор ресурсов с помощью деревянных инструментов долгий и скучный, пора развиваться. Теперь сделайте Печь и улучшенные инструменты.
 
-§1§2- 1x печь
-§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x каменная кирка
-- 1x каменная лопата
-- 1x каменный меч
-- 1x каменная мотыга
+§1§2- 1x Печь
+§1§7§8§a§b§c§c§d§e§f§9§8§7§5§4§3§2§1§0§2§3§4§6§6§7§9§9§8§7§f§e§d§c§b§a§9§8§7§6§6§5§4§3§2§1§0§1§2§2§3§2§1§2- 1x Каменная кирка
+- 1x Каменная лопата
+- 1x Каменный меч
+- 1x Каменная мотыга
 ddss.quest.5.10.name=Простые металлы #1
 ddss.quest.5.10.desc=Самые первые слитки в игре. Соберите немного Медной руды.
 
-§1§2- 10x медных слитков
+§1§2- 10x Медных слитков
 ddss.quest.6.10.name=Ручная пила
 ddss.quest.6.10.desc=В плотничестве и обработке дерева, ручные пилы используются для резки древесины на доски и прочие части. Ручная пила похожа на обычную пилу для распила, но с одним острым краем.
 
-§1§2- 1x медная ручная пила
-ddss.quest.7.10.name=Газовая горелка!
-ddss.quest.7.10.desc=Газовая горелка это устройство, которое делает контролируемое пламя с помощью смешивания газа, вроде метана, сингаза или аргона с окислителем вроде воздуха или чистого кислорода.
+§1§2- 1x Медная ручная пила
+ddss.quest.7.10.name=Gas Burner!
+ddss.quest.7.10.desc=A gas burner is a device that produces a controlled flame by mixing a fuel gas such as methane, syngas, or argon with an oxidizer such as the ambient air or supplied oxygen, and allowing for ignition and combustion.
 
-§o§3§4§6§7§8§9§b§d§e§d§k§f§5§3§2§3§oГорелки работают только с Метаном, Аргоном или Сингазом в Кузнечной мастерской.
+§o§3§4§6§7§8§9§b§d§e§d§k§f§5§3§2§3§oBurners works only with Methane, Argon or Syngas in a Blacksmith Workshop.
 
-§1§2- 1x горелка (Любой материал)
+§1§2- 1x Burner (Any Material)
 ddss.quest.8.10.name=Ступка и пестик
 ddss.quest.8.10.desc=Ступка и пестик издавна используются для подготовки размалывания различных ингридиентов в порошок, обычно используется на кухне или в фармацевтике.
 
-§1§2- 1x медная ступка и пестик
+§1§2- 1x Медная ступка и пестик
 
 ddss.quest.9.10.name=Медные сундуки!
 ddss.quest.9.10.desc=Деревянные сундуки это прошлый век, время для новых Медных сундуков!
 
-§1§2- 1x медный сундук
+§1§2- 1x Медный сундук
 ddss.quest.10.10.name=Используй молот!
 ddss.quest.10.10.desc=Молот это инструмент с большой, плоской металлической головкой и короткой ручкой. Размер головки позволяет молоту воздействовать на предметы сильнее, чем обычный молоток. Может быть использован для создания пластин из слитков.
 
-§1§2- 1x медный молот
+§1§2- 1x Медный молот
 
 ddss.quest.11.10.name=Простые пластины #1
 ddss.quest.11.10.desc=Сделайте несколько медных пластин с вашим новеньким молотом (Artisan Hammer). Позже вы сможете использовать машины или плавильню, чтобы экономить ресурсы.
 
-§1§2- 4x медные пластины
+§1§2- 4x Медные пластины
 
 ddss.quest.12.10.name=Еще эффективнее!
 ddss.quest.12.10.desc=Распил древесины с помощью ручной пилы увеличивает количество досок! (+100%)
 
-§1§2- 10x деревянные доски (Любые доски)
+§1§2- 10x Деревянные доски (Любые доски)
 ddss.quest.13.10.name=Сито
 ddss.quest.13.10.desc=Просеивание это простая техника для отделения частиц других размеров. Например, вы можете использовать Сито для просеивания гравия, получив при этом Кремень. 
 
-§1§2- 1x медное сито
+§1§2- 1x Медное сито
 ddss.quest.14.10.name=Гравий в кремень
 ddss.quest.14.10.desc=Поместите гравий в сито, чтобы получить кремень.
 
-§1§2- 5x кремня
+§1§2- 5x Кремня
 ddss.quest.15.10.name=Простые металлы #2
 ddss.quest.15.10.desc=В процессе игры вам понадобится огромное количество железа! Соберите Железную руду и сделайте слитки.
 
-§1§2- 10x железных слитков
+§1§2- 10x Железных слитков
 
 ddss.quest.16.10.name=Простые пластины #2
 ddss.quest.16.10.desc=Сделайте Железные пластины с помощью вашего молота (Artisan Hammer). 
 
-§1§2- 4x железные пластины
-
+§1§2- 4x Железные пластины
 ddss.quest.17.10.name=Продвинутый верстак?
 ddss.quest.17.10.desc=Продвинутый верстак используется для создания инструментов, компонентов и машин в сетке 5x5.
 
-§1§2- 1x продвинутый верстак
+§1§2- 1x Продвинутый верстак
 
 ddss.quest.18.10.name=Железные сундуки!
 ddss.quest.18.10.desc=Улучшите ваше хранилище до нового уровня. Сделайте Железный сундук.
 
-§1§2- 1x железный сундук
+§1§2- 1x Железный сундук
 ddss.quest.19.10.name=Как сделать костную муку
 ddss.quest.19.10.desc=Используйте ступку для получения костной муки из костей.
 
-§1§2- 3x костных муки
+§1§2- 3x Костных муки
 ddss.quest.20.10.name=Медное улучшение!
 ddss.quest.20.10.desc=Настало время сделать медные инструменты!
 
-§1§2- 1x медная кирка
-§1§2- 1x медная лопата
-§1§2- 1x медный меч
+§1§2§1§2- 1x Медная кирка
+§1§2- 1x Медная лопата
+§1§2- 1x Медный меч
 ddss.quest.21.10.name=Лейки!
 ddss.quest.21.10.desc=Полейте почву и ускорьте рост растений.
 
-§1§2- 1x простая лейка
+§1§2- 1x Простая лейка
 ddss.quest.22.10.name=Древесный уголь
-ddss.quest.22.10.desc=Древесный уголь делается простым методом. Сжигая доски в печи вы получите угольки, а сжав два уголька вы получите древесный уголь.
+ddss.quest.22.10.desc=Древесный уголь делается простым методом. Сжигая доски в печи вы получите крошечный древесный уголь, а сжав два штуки, вы получите древесный уголь.
 
-§1§2- 4x кусочка древесного угля
-- 2x древесных угля
+§1§2- 4x Крошечных древесных угля
+- 2x Древесных угля
 ddss.quest.23.10.name=Натуральное топливо
 ddss.quest.23.10.desc=Уголь это горючая черная или коричнево-черная порода, обычно встречается в виде слоев или жил.
 Добудьте 10 угля.
 
-§1§2- 10x угля
+§1§2- 10x Угля
 ddss.quest.24.10.name=Немного другой факел
 ddss.quest.24.10.desc=Палка с горючим материалом на одном конце, при зажигании используется как источник света.
 
 У вас кончилась древесина? Тогда сделайте каменные факелы ;D
 
-§1§2- 4x каменных факела
+§1§2- 4x Каменных факела
 ddss.quest.25.10.name=Все о силиконе #2
 ddss.quest.25.10.desc=Сделайте песочно-угольную смесь.
 
-§1§2- 2x песочно-угольных смеси
+§1§2- 2x Песочно-угольных смеси
 ddss.quest.26.10.name=Все о силиконе #3
-ddss.quest.26.10.desc=Расплавьте песочно-угольную смесь в печи и получите Силиконовое Буле. 
-Разрежьте его, для получения силиконовых кусочков.
+ddss.quest.26.10.desc=Расплавьте песочно-угольную смесь в печи и получите кремниевый монокристалл.
+Разрежьте его, для получения Кремния.
 
-§1§2- 2x силиконовых буле
-- 6x Silicon
-ddss.quest.27.10.name=Clay What?
-ddss.quest.27.10.desc=The Clay Shears is a tool from Ceramics. They function like normal Vanilla Shears, except that they have less durability, and break blocks faster. Used against Cobweb, Wool, or any leaf block, the Clay Shears is 18% faster than the normal Shears.
+§1§2- 2x Кремниевых монокристалла
+- 6x Кремния
+ddss.quest.27.10.name=Глиняные что???
+ddss.quest.27.10.desc=Глиняные ножницы это инструмент из мода Ceramics. Они функционируют также, как и обычные ножницы, но имеют меньшую прочность, а блоки ломают быстрее. Используются для Паутины, Шерсти или для любой листвы. Глиняные ножницы на 18% быстрее, чем обычные.
 
-§1§2- 1x Clay Shears
-ddss.quest.28.10.name=Where are the Sheeps? Oo
-ddss.quest.28.10.desc=Animania is an immersive mod that replaces and improves the passive animals in Minecraft, adding multiple breeds, genders, new behaviors, and several new species.
-The new animals are found all over the overworld, located in different biomes and biome types more accurate to their species and breeds. Find some Sheeps to get Wool.
+§1§2- 1x Глиняные ножницы
+ddss.quest.28.10.name=Где все овцы? Oo
+ddss.quest.28.10.desc=Animania это мод, который заменяет и улучшает мирных мобов в Minecraf, добавляя множество новых механик и видов животных.
+Новые животные могут быть найдены в любом месте, каждый вид живет и размножается в своем биоме. Найдите несколько Овец, для получения Шерсти.
 
-§1§2- 3x Wool (Any Wool)
+§1§2- 3x Шерсти (Любая шерсть)
 §4§3
-§oHint: 
-Sheeps are found in:
+§oПодсказка: 
+Овцы могут быть найдены:
+Дорперская (Саванна, Равнины)
+Дорсерская (Скалы, Равнины
+Фризанская (Равнины)
+Мериносская (Равнины, Влажные биомы)
+Яковсий (Леса)
+Суффолский (Саванны)
+ddss.quest.29.10.name=Ночь живых мертвецов
+ddss.quest.29.10.desc=Что вы делаете, когда наступает ночь? Правильно, спите.
+Сделайте кровать.
 
-Dorper (Savanna, Plains)
-Dorset (Hills, Plains)
-Friesian (Plains)
-Merino (Plains, Dry biomes)
-Jacob (Forests)
-Suffolk (Mesa and Savanna)
-ddss.quest.29.10.name=Night of the Living Dead
-ddss.quest.29.10.desc=But what do you do when night falls? Sleep.
-Craft a Bed.
+§1§2- 1x Кровать (Любая кровать)
+ddss.quest.30.10.name=Первое ведро
+ddss.quest.30.10.desc=Глиняное ведро добавлено модом Ceramics. Работает также, как и обычное ведро, но сломается, если налить в него что-то горячее, вроде лавы. 
 
-§1§2- 1x Bed (Any Bed)
-ddss.quest.30.10.name=First Bucket
-ddss.quest.30.10.desc=The Clay Bucket is an item added by Ceramics. It works similarly to a Bucket, but will break after pouring out a hot liquid like Lava. 
+§1§2- 1x Глиняное ведро
+ddss.quest.31.10.name=Яблони
+ddss.quest.31.10.desc=Для сбора яблок, вы должны посадить несколько яблонь. Соберите несколько саженцев и проверьте свой Рюкзак.
 
-§1§2- 1x Clay Bucket
-ddss.quest.31.10.name=Apple Trees
-ddss.quest.31.10.desc=To collect apples, you need to plant a few apple trees. Collect some saplings and check your Backpack.
+§1§2- 2x Саженца яблони
+ddss.quest.32.10.name=В поисках семян
+ddss.quest.32.10.desc=Большинство семян может быть получено срыванием или просеиванием травы (в Сите). Но "дикий" рис может также произрастать рядом с водов. Соберите и посадите эти семена.
 
-§1§2- 2x Apple Sapling
-ddss.quest.32.10.name=Looking for Seeds
-ddss.quest.32.10.desc=The most seeds are obtained by breaking or sieving grass. (Sifter) But "Wild" Rice will occasionally spawn in the world (Near water). Collect and plant this seeds.
+§a§oВы можете выбрать: найти в траве срывая ее или просеять траву с помощью Сита.
 
-§a§oYou can choose if you want to search for them or build a sifter to craft them.
+§1§2- 4x Семечки пшеницы
+- 4x Семечки риса (Любой рис)
+ddss.quest.33.10.name=Рисовое тесто
+ddss.quest.33.10.desc=Рисовое тесто, это компонент, добавленный модом Actually Additions. С его помощью можно сделать Сырой рисовый хлеб.
 
-§1§2- 4x Wheat Seeds
-- 4x Rice Seeds (Any Rice)
-ddss.quest.33.10.name=Rice Dough
-ddss.quest.33.10.desc=Rice Dough is a component added by Actually Additions. It is used to create Raw Rice Bread.
-
-§1§2- 4x Rice Dough
-ddss.quest.34.10.name=Olive Trees
-ddss.quest.34.10.desc=Olive Trees grow naturally in the overworld. (Forests, Plains, Mountains) Olive Leaves drop Olive sapling. Collect olives and saplings for your garden.
+§1§2- 4x Рисовых теста
+ddss.quest.34.10.name=Оливковое дерево
+ddss.quest.34.10.desc=Оливковые деревья могут быть найдены в обычном мире (Леса, Равнины, Горы). Из оливковой листвы вы можете получить Оливковые саженцы. Соберите несколько оливок и саженцев для вашего сада.
 
 
-§1§2- Collect 5x Olives (Any)
+§1§2- Соберите 5x оливок (Любые)
 
 ddss.quest.35.10.name=Baking Potatos
 ddss.quest.35.10.desc=Nearly starved to death and totally exhausted, you decided to baking a few Potatos.
 
 §1§2- 5x Baked Potato
-ddss.quest.36.10.name=Raw Rice Bread
-ddss.quest.36.10.desc=Form Rice Dough to Raw Rice Bread.
+ddss.quest.36.10.name=Сырой рисовый хлеб
+ddss.quest.36.10.desc=Сформируйте Рисовое тесто в Сырой рисовый хлеб.
 
-§1§2- 2x Raw Rice Bread
-ddss.quest.37.10.name=Rice Bread
-ddss.quest.37.10.desc=Put Raw Rice Bread in the Furnace to obtain Cooked Rice Bread.
+§1§2- 2x Сырых рисовых хлеба
+ddss.quest.37.10.name=Рисовый хлеб
+ddss.quest.37.10.desc=Поместите Сырой рисовый хлеб в Печь и получите вкусный Рисовый хлеб.
 
-§1§2- 2x Rice Bread
-ddss.quest.38.10.name=First Fluid Tank
-ddss.quest.38.10.desc=The Wooden Fluid Tank is a block added by Large Fluid Tanks, used to store liquids. You can connect pipes or just right click fluid bucket to insert fluid. When broken, the tank retains the liquid it is holding. 
+§1§2- 2x Рисовых хлеба
+ddss.quest.38.10.name=Первый жидкостный резервуар
+ddss.quest.38.10.desc=Деревянный жидкостный резервуар это блок, который добавлен модом Large Fluid Tanks, может хранить жидкости. Вы можете присоединить трубы или кликнуть правкой кнопкой мыши с ведром в руке, чтобы поместить жидкость из ведра в резервуар. Когда ломается, жидкость, находящаяся в резервуаре не будет потеряна.
 
-§a§oThis mod allows you to store up to 1'048'576'000 mB of any fluid in a block and tanks can be joined vertically.
+§a§oЭтот мод позволяет хранить до 1'048'576'000 mB любой жидкости в блоке, резервуары также могут быть объединены в вертикальные колонны.
 
-§1§2- 1x Wooden Tank
-ddss.quest.39.10.name=Ready to Exploring?
-ddss.quest.39.10.desc=The "Hooked" mod adds terraria-styled hooks with different functionality to aid the player in all stages of the game, ranging from simple Wooden Hooks to versatile Diamond Hooks and the specialist Ender and Red Hooks.
+§1§2- 1x Деревянный резервуар
+ddss.quest.39.10.name=Готовы к исследованию мира?
+ddss.quest.39.10.desc=Мод "Hooked" добавляет крюки (как в Terraria) с различными возможностями, позволяя игроку взбираться на любые вершины. Крюки могут быть от простых деревянных до улучшенных алмазных, а также специальные эндер и красные крюки.
 
-§o§a§o-Hooks can be worn in any Baubles' slot.
+§o§a§o-Крюки можно носить в любом слоте мода Baubles.
 
-§1§2- 1x Wooden Hook
+§1§2- 1x Деревянный крюк
 ddss.quest.40.10.name=Necessary Preparations #1
 ddss.quest.40.10.desc=Ropes are components added by the mod "Hooked". It is used to craft various Hooks to simplify exploring.
 
@@ -227,54 +225,54 @@ ddss.quest.41.10.name=Necessary Preparations #2
 ddss.quest.41.10.desc=A handle (or "grip") is a attachment to an object that can be moved or used by hand. Handles for tools are an important part of their function, enabling the user to exploit the tools to maximum effect. 
 
 §1§2- 1x Grip
-ddss.quest.42.10.name=Silicon Plates
-ddss.quest.42.10.desc=Silicon Plates are used in a lot of recipes. Craft 2 of them.
+ddss.quest.42.10.name=Силиконовые пластины
+ddss.quest.42.10.desc=Силиконовые пластины используются во многих рецептах. Сделайте 2 пластины
 
-§1§2- 2x Silicon Plates
-ddss.quest.43.10.name=Saw Dust
-ddss.quest.43.10.desc=For Tinker's Construct Patterns we need a bunch of sawdust. Use a Mortar to obtain sawdast from wooden planks.
+§1§2- 2x Силиконовые пластины
+ddss.quest.43.10.name=Опилки
+ddss.quest.43.10.desc=Для создания схем мода Tinker's Construct Patterns потребуется куча опилок. Используйте Ступку, для получения опилок из деревянных досок.
 
-§1§2- 27x Sawdust
+§1§2- 27x Опилок
 ddss.quest.44.10.name=Move your Chests!
 ddss.quest.44.10.desc=The Chest Transporter is a tool to move your Chests. It comes in 8 variants with different durabilities. When used on a Chest (or other similar inventories such as Iron Chests or Storage Drawers), it will pick it up. Using the Transporter again while it is carrying a block will place it down, retaining the picked block's original inventory and reducing durability on the Transporter.
 
 §1§2- 1x Wooden Chest Transporter
-ddss.quest.45.10.name=Compressed Sawdust
-ddss.quest.45.10.desc=Compressed Sawdust is added by the Thermal Expansion mod. It is crafted from 9 Sawdust, and can be smelted into Charcoal or hammered to a Pattern.
+ddss.quest.45.10.name=Пресованные опилки
+ddss.quest.45.10.desc=Пресованные опилки добавлены модом Thermal Expansion. Они делаются из 9 опилок и могут быть обжарены в Древесный уголь или расплющены молотом в Схемы.
 
-§1§2- 3x Compressed Sawdust
-ddss.quest.46.10.name=All About Silicon #1
-ddss.quest.46.10.desc=Silicon is a required ingredient when crafting Machines, Tools or Electronic Circuits. You will need a lot of it!
-In the next steps you learn everything about Silicon Crafting. Lets start with a simply Clay Block.
+§1§2- 3x Пресованных опилок
+ddss.quest.46.10.name=Все о силиконе #1
+ddss.quest.46.10.desc=Силикон (Кремний) это обязательный компонент при крафте Машин, Инструментов и Электронных схем. Вам потребуется много силикона.
+В последующих шагах вы изучите всё о крафте силикона. Для начала, сделайте Блок глины.
 
-§1§2- 1x Clay Block
-ddss.quest.47.10.name=Clay Chestplate
-ddss.quest.47.10.desc=The Clay Chestplate provides 3 armor points at 64 durability.
+§1§2- 1x Блок глины
+ddss.quest.47.10.name=Глиняный нагрудник
+ddss.quest.47.10.desc=Глиняный нагрудник дает 3 единицы брони и 64 единицы прочности.
 
-§1§2- 1x Clay Chestplate
-ddss.quest.48.10.name=Clay Plates
-ddss.quest.48.10.desc=Clay Plates are components from Ceramics. It are used to create different Armors and Utensils. 
+§1§2- 1x Глиняный нагрудник
+ddss.quest.48.10.name=Глиняные пластины
+ddss.quest.48.10.desc=Глиняные пластины это компонент мода Ceramics. Они используются для для создания различной брони и посуды. 
 
-§1§2- 8x Clay Plate
-ddss.quest.49.10.name=Clay Leggings
-ddss.quest.49.10.desc=The Clay Leggings provides 2 armor points at 60 durability.
+§1§2- 8x Глиняных пластин
+ddss.quest.49.10.name=Глиняные поножи
+ddss.quest.49.10.desc=Глиняные поножи дают 2 единицы брони и 60 единиц прочности.
 
-§1§2- 1x Clay Leggings
-ddss.quest.50.10.name=Clay Helmet
-ddss.quest.50.10.desc=The Clay Helmet provides 1 armor point at 44 durability.
+§1§2- 1x Глиняные поножи
+ddss.quest.50.10.name=Глиняный шлем
+ddss.quest.50.10.desc=Глиняный шлем дает 1 единицу брони и 44 единицы прочности.
 
-§1§2- 1x Clay Helmet
-ddss.quest.51.10.name=Clay Boots
-ddss.quest.51.10.desc=The Clay Boots provides 1 armor point at 52 durability.
+§1§2- 1x Глиняный шлем
+ddss.quest.51.10.name=Глиняные ботинки
+ddss.quest.51.10.desc=Глиняные ботинки дают 1 единицу брони и 52 единицы прочности.
 
-§1§2- 1x Clay Boots
-ddss.quest.52.10.name=Unlock: Ores, Alloys & Smeltery T1
-ddss.quest.52.10.desc=The Tool Station is the most basic Tinkers' Construct crafting station, at which the most simplest advanced tools can be crafted.
+§1§2- 1x Глиняные ботинки
+ddss.quest.52.10.name=Разблокирует главу: Руды, Сплавы и Плавильня Ур.1
+ddss.quest.52.10.desc=Инженерная станция это самая простая станция для создания инструментов в Tinkers' Construct.
 
-§3§9§lUpon completion of this quest you will unlock the chapters: "Ores, Alloys & Smeltery [T1]"
+§3§9§lПосле выполнения этого квеста будет разблокирована глава: "Руды, Сплавы и Плавильня [Ур.1]"
 
 §3§1§0§3§4§5§6§4§7§8§a§9§a§b§c§9§8§9§o§m§l§r§l§o§b§9§
-§1§2- 1x Tool Station
+§1§2- 1x Инженерная странция
 ddss.quest.53.10.name=Kitchen Workshop!
 ddss.quest.53.10.desc=The Kitchen Workshop is used to combine several unit operations like mixing, cooking, kneading, shaping and forming. Everyone needs a Kitchen Workshop!
 
@@ -535,37 +533,37 @@ Maybe you've already built a Blast Furnace?
 
 
 §1§2- 1x Steel Burner
-ddss.quest.118.10.name=Steel Tools! #2
-ddss.quest.118.10.desc=Craft a Steel Hammer.
+ddss.quest.118.10.name=Стальные инструменты! #2
+ddss.quest.118.10.desc=Сделайте Стальной молот.
 
 
 
 
-§1§2- 1x Steel Hammer
-ddss.quest.119.10.name=Steel Armor
-ddss.quest.119.10.desc=Your first Steel Chestplate! Processing Steel requires a lot more fuel gas.
+§1§2- 1x Стальной молот
+ddss.quest.119.10.name=Стальная броня
+ddss.quest.119.10.desc=Ваш первый стальной нагрудник! Обработка стали требует довольно много топлива.
 
-§a§oHint: Mob drops are not recognized!
+§a§oПодсказка: Броня, выпавшая из мобов не засчитывается!
 
-§1§2- 1x Steel Chestplate
-ddss.quest.120.10.name=Steel Helmet
-ddss.quest.120.10.desc=Craft a Steel Helmet.
+§1§2- 1x Стальной нагрудник
+ddss.quest.120.10.name=Стальной шлем
+ddss.quest.120.10.desc=Сделайте Стальной шлем.
 
-§a§oHint: Mob drops are not recognized!
+§a§oПодсказка: Броня, выпавшая из мобов не засчитывается!
 
-§1§2- 1x Steel Helmet
-ddss.quest.121.10.name=Steel Leggings
-ddss.quest.121.10.desc=Craft Steel Leggins.
+§1§2- 1x Стальной шлем
+ddss.quest.121.10.name=Стальные поножи
+ddss.quest.121.10.desc=Сделайте Стальные поножи.
 
-§a§oHint: Mob drops are not recognized!
+§a§oПодсказка: Броня, выпавшая из мобов не засчитывается!
 
-§1§2- 1x Steel Leggings.
-ddss.quest.122.10.name=Steel Boots
-ddss.quest.122.10.desc=Craft a Steel Boots. 
+§1§2- 1x Стальные поножи
+ddss.quest.122.10.name=Стальные ботинки
+ddss.quest.122.10.desc=Сделайте Стальные ботинки.
 
-§a§oHint: Mob drops are not recognized!
+§a§o§a§oПодсказка: Броня, выпавшая из мобов не засчитывается!
 
-§2- 1x Steel Boots
+§2- 1x Стальные ботинки
 ddss.quest.123.10.name=Sprinkler
 ddss.quest.123.10.desc=This block is used to speed up the crop growing process and hydrate soil. Bonemeal can be put in the Sprinkler for an even faster rate of growth. It uses water to spray 4 blocks in each direction. Water is required to use the machine, which can be input directly from a liquid storage device, or a liquid transport device. Water must be input through the bottom face of the block. 
 
@@ -625,22 +623,22 @@ ddss.quest.136.10.name=Fish N' Chips!
 ddss.quest.136.10.desc=Put fries, cooked fish and salt in a cone.
 
 §1§2- 1x Fish N' Chips
-ddss.quest.137.10.name=Sugar Canes
-ddss.quest.137.10.desc=Search for Sugar Canes. It is always worthwhile walking 1000 Blocks to find this.
+ddss.quest.137.10.name=Сахарный тростник
+ddss.quest.137.10.desc=Найдите Сахарный тростник. Обычно приходится пробежать не менее 1000 блоков, чтобы найти его.
 
-§1§2- 4x Sugar Canes
-ddss.quest.138.10.name=Fresh Water!
-ddss.quest.138.10.desc=Use the clay bucket to produce some Fresh Water. This is the easiest way to obtain Fresh water at the beginning.
+§1§2- 4x Сахарных тростника
+ddss.quest.138.10.name=Свежая вода!
+ddss.quest.138.10.desc=Используйте глиняное ведро, чтобы получить немного Свежей воды. Это самый простой способ получить Свежую воду в начале игры.
 
-§1§2- 2x Fresh Water
-ddss.quest.139.10.name=Bricks
-ddss.quest.139.10.desc=To Craft Bricks you need tons of clay. It might be useful to craft a few ones.
+§1§2- 2x Свежих воды
+ddss.quest.139.10.name=Кирпичи
+ddss.quest.139.10.desc=Для создания Кирпичей требуются тонны глины. Сделайте несколько Кирпичей
 
-§1§2- 2x Bricks
-ddss.quest.140.10.name=Sandstone
-ddss.quest.140.10.desc=To press Paper we need first Sandstone.  
+§1§2- 2x Кирпича
+ddss.quest.140.10.name=Песчаник
+ddss.quest.140.10.desc=Для создания Бумаги, вам понадобится Песчаник.  
 
-§1§2- 4x Sandstone (red or white)
+§1§2- 4x Песчаника (красный или белый)
 ddss.quest.141.10.name=Butter
 ddss.quest.141.10.desc=Use Heavy Cream, Salt and Milk to craft Butter.
 
@@ -796,16 +794,16 @@ ddss.quest.177.10.name=Strings!
 ddss.quest.177.10.desc=Put cotton in a workbench to craft a few Strings.
 
 §1§2- 3x Strings
-ddss.quest.178.10.name=Paper
-ddss.quest.178.10.desc=Due to the smooth surface of sandstone-slabs, you can press paper in stunning quality! Use a Handsaw to cut Sandstone into slabs.
+ddss.quest.178.10.name=Бумага
+ddss.quest.178.10.desc=Благодаря гладкой поверхности плит песчаника, вы можете прессовать бумагу с потрясающим качеством! Используйте ручную пилу, чтобы разрезать Песчаник на плиты.
 
-§1§2- 4x Paper
-ddss.quest.179.10.name=Unlock: Kitchen Workshop!
-ddss.quest.179.10.desc=A Lunchbag can store 3 different food items at the same time. You need a bunch of paper for this.
+§1§2- 4x Бумаги
+ddss.quest.179.10.name=Разблокирует главу: Кухня!
+ddss.quest.179.10.desc=Мешочек для ланча может содержать 3 различных блюда одновременно. Для этого вам понадобится только кучка бумаги.
 
-§3§1§0§3§4§5§6§4§7§8§a§9§a§b§c§9§8§9§o§m§l§r§l§o§b§9§o§l§l§r§9§lUpon completion of this quest you will unlock the chapter: "Kitchen Workshop"
+§3§1§0§3§4§5§6§4§7§8§a§9§a§b§c§9§8§9§o§m§l§r§l§o§b§9§o§l§l§r§9§lПосле выполнения этого квеста будет разблокирована глава: "Кухня"
 
-§1§2- 1x Lunchbag
+§1§2- 1x Мешочек для ланча
 ddss.quest.180.10.name=Methane Gas
 ddss.quest.180.10.desc=Need Methan Gas? Buy some cells.
 ddss.quest.181.10.name=Olive Oil
@@ -1643,10 +1641,10 @@ ddss.quest.308.10.desc=The Coal Generator from Actually Additions will generate 
 §3§1§0§3§4§5§6§4§7§8§a§9§a§b§c§9§8§9§o§m§l§r§l§o§b§9§o§l§1§9§r§l§9§lUpon completion of this quest you will unlock the chapter: "Tier 1 - Main Questline"
 
 §1§2- 1x Generator (Actually Additions)
-ddss.quest.309.10.name=Protect your Base! #1
-ddss.quest.309.10.desc=The Wooden Spikes does 1 damage (0.5 hearts) every 0.5 seconds, unless the mob has only 1 health (0.5 hearts) left, in which case it will not be damaged. Mobs will not walk around the block, but will try to walk over it as if it were a regular solid block.
+ddss.quest.309.10.name=Защитите свою базу! #1
+ddss.quest.309.10.desc=Деревянные шипы наносят 1 единицу урона (0.5 сердца) кажды 0.5 секунды, пока у моба не остается 1 жизнь (0.5 сердца), после этого ему не будет наноситься урон. Мобы не будут ходить вокруг блока, а будут пытаться пройти по нему, как по обычному блоку.
 
-§1§2- 8x Wooden Spikes
+§1§2- 8x Деревянных шипов
 ddss.quest.310.10.name=Protect your Base! #2
 ddss.quest.310.10.desc=The Stone Spikes damages mobs that touch any side of it other than the bottom. The Spike does 2 damage (1 heart) every 0.5 seconds. Mobs will not walk around the block, but will try to walk over it as if it were a regular solid block.
 
@@ -1667,14 +1665,14 @@ ddss.quest.312.10.desc=Lapis lazuli ore is found at a depth of 31 and below. It 
 
 §2
 
-ddss.quest.313.10.name=Black Lotus
-ddss.quest.313.10.desc=Just look around in the wild a bit, and you will find one, then being able to craft some Black Dye that can be used instead of Ink Sacs so that you don't need to kill poor squids any longer.
+ddss.quest.313.10.name=Черный лотос
+ddss.quest.313.10.desc=Просто посмотрите вокруг и наверняка найдете один, лотос может быть использован для получения черного красителя и вам больше не придется убивать бедных кальмаров.
 
-§1§2- 1x Black Lotus (Actually Additions)
-ddss.quest.314.10.name=The Smiley Cloud
-ddss.quest.314.10.desc=The Smiley Cloud is a magical floating cloud which is getting put to life through the piece of Solidified Experience inside it. It hovers up and down in its place all jolly and fun, and when right-clicking, you can give it a name. When giving it certain special names like "Ellpeck" or "Etho", it will have some special items it carries!
+§1§2- 1x Чёрный лотос (Actually Additions)
+ddss.quest.314.10.name=Улыбающееся облачко
+ddss.quest.314.10.desc=Улыбающееся облачко это магические летающее облачко, которое оживает, благодаря частичке твердого опыта внутри него. Оно двигается вверх и вниз, а при нажатии правой кнопкой мыши вы можете дать ему имя. Если дать имя вроде "Ellpeck" или "Etho", у него окажутся специальные предметы!
 
-§1§2- 1x Smiley Cloud
+§1§2- 1x Улыбающееся облачко
 §4
 ddss.quest.315.10.name=The Power of the Sun!
 ddss.quest.315.10.desc=Solar Flux Reborn adds 12 different tiers of solar panels that generate FE or RF. The First Panel generate 4 RF/FE and is very inexpensive to manufacture!
@@ -3291,22 +3289,22 @@ ddss.quest.621.10.name=Green Slime
 ddss.quest.621.10.desc=Need Slimeballs? Buy some.
 ddss.quest.622.10.name=Leather
 ddss.quest.622.10.desc=Need Leather? Buy some.
-ddss.quest.623.10.name=More Efficiency! #2
-ddss.quest.623.10.desc=Cutting Planks with a handsaw, increases the ouptut of sticks! (+100%)
+ddss.quest.623.10.name=Еще эффективнее! #2
+ddss.quest.623.10.desc=Распил досок с помощью ручной пилы увеличивает количество палок! (+100%)
 
-§1§2- 10x Wooden Sticks (Any Sticks)
+§1§2- 12x Палок (Любые палки)
 ddss.quest.624.10.name=Ranged Weapons!
 ddss.quest.624.10.desc=Bows can be drawn back by using it. In order to use the bow, you must have at least one arrow in your inventory.
 
 §1§2- 1x Bow
-ddss.quest.625.10.name=Prepared Flesh!
-ddss.quest.625.10.desc=Rotten Flesh... How is this useful? Craft 4 Rotten Flesh to Prepared Flesh and we will see...
+ddss.quest.625.10.name=Подготовленная гнилая плоть!
+ddss.quest.625.10.desc=Гнилая плоть... Как ее использовать? Объедините 4 Гнилых плоти и получите Подготовленную гнилую плоть.
 
-§1§2- 1x Prepared Flesh
-ddss.quest.626.10.name=Leather?
-ddss.quest.626.10.desc=Put your Prepared Flesh in a Furnace and..... TADAAAA
+§1§2- 1x Подготовленная гнилая плоть
+ddss.quest.626.10.name=Кожа?
+ddss.quest.626.10.desc=Поместите Подготовленную гнилую плоть в печь и.... Тадааам
 
-§1§2- 1x Leather
+§1§2- 1x Кожа
 ddss.quest.627.10.name=Lava Bricks
 ddss.quest.627.10.desc=The Lava Bricks is a decorative block from Ceramics. It can be crafted into its slab, stair, and wall variants. This Block is also used to craft the Heat Conductor!
 
@@ -3744,10 +3742,10 @@ ddss.quest.711.10.name=Floral Fertilizer
 ddss.quest.711.10.desc=Need Floral Fertilizer? Buy some.
 ddss.quest.712.10.name=Mystical Fertilizer
 ddss.quest.712.10.desc=Need Mystical Fertilizer? Buy some.
-ddss.quest.713.10.name=Emergency Torch
-ddss.quest.713.10.desc=Yes, this is only for emergencys.
-ddss.quest.714.10.name=Emergency Burger
-ddss.quest.714.10.desc=Yes, this is only for emergencys.
+ddss.quest.713.10.name=Экстренный факел
+ddss.quest.713.10.desc=Да, это на экстренный случай
+ddss.quest.714.10.name=Экстренный бургер
+ddss.quest.714.10.desc=Да, это на экстренный случай
 ddss.quest.715.10.name=Emergency Sword
 ddss.quest.715.10.desc=Yes, this is only for emergencys.
 ddss.quest.716.10.name=Emergency Pickaxe
@@ -4075,31 +4073,31 @@ It can be configured to only auto-collect items that match a given list of items
 
 §1§2- 1x Satchel
 
-ddss.quest.785.10.name=Sifting grass for Seeds
-ddss.quest.785.10.desc=Collect some grass (with shears) and combine them with a Sifter in a crafting grid to get different seeds. So you don't have to search for seeds anymore and you can start with more interesting tasks.
+ddss.quest.785.10.name=Просеивание травы ради семян
+ddss.quest.785.10.desc=Соберите немного травы (с помощью ножниц) и объедините ее с Ситом в верстаке, чтобы получить семена. Вам больше не нужно искать семена и вы сможете начать более интересные задания.
 
-§1§2- 10x Grass
-ddss.quest.786.10.name=Artisans Chisel
-ddss.quest.786.10.desc=This unique tool is used to convert underground biomes stone types to vanilla stone!
+§1§2- 10x Травы
+ddss.quest.786.10.name=Стамеска
+ddss.quest.786.10.desc=Это уникальный инструмент, используется для преобразования камня из подземных биомов в обычный каменьe!
 
-§a§oHint: This process must be performed in a workbench.
+§a§oПодсказка: Совместите камень и стамеску в верстаке
 
-§1§2- 1x Copper Artisan Chisel
+§1§2- 1x Медная стамеска
 
-ddss.quest.787.10.name=Vanilla Cobblestone
-ddss.quest.787.10.desc=Use your chisel to convert any kind of cobblestone to vanilla cobblestone.
+ddss.quest.787.10.name=Обычный булыжник
+ddss.quest.787.10.desc=Используйте вашу стамеску, чтобы преобразовать любой булыжник из подземных биомов в обычный.
 
-§1§2- 10x Vanilla Cobblestone
-ddss.quest.788.10.name=Vanilla "Clean-Stone"
-ddss.quest.788.10.desc=Use your chisel to convert any kind of "clean-stone" to vanilla "clean-stone".
+§1§2- 10x Булыжников
+ddss.quest.788.10.name=Обычный камень
+ddss.quest.788.10.desc=Используйте вашу стамеску, чтобы преобразовать любой камень из подземных биомов в обычный.
 
-§1§2- 10x Vanilla Clean-Stone
-ddss.quest.789.10.name=Update Quest Database
-ddss.quest.789.10.desc=Claim the reward after every update to automatically update the questbook.
+§1§2- 10x Камна
+ddss.quest.789.10.name=Обновить книгу квестов
+ddss.quest.789.10.desc=В качестве награды вы получаете автоматическое обновление книги квестов после каждого обновления сборки.
 
 
 
-§c§r§c§l§oI recommend to always enter this command manually in single player mode because sometimes quest book corruption occurs! 
+§c§r§c§l§oЯ рекомендую всегда вводить эту команду вручную при игре в одиночном режиме, так как иначе книга квестов может не обновиться! 
 
 /bq_admin default load
 ddss.quest.790.10.name=Elite Bin!
@@ -4338,10 +4336,10 @@ ddss.quest.840.10.name=Alloy Furnace
 ddss.quest.840.10.desc=The Alloy Furnace is used to blend two materials into a new product. E.g. Copper and Tin into Bronze. 
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Alloy Furnace
-ddss.quest.841.10.name=Zombie Hunter
-ddss.quest.841.10.desc=Too many Zombies in this game. Kill them all please!
+ddss.quest.841.10.name=Охотник на Зомби
+ddss.quest.841.10.desc=В этой игре слишком много зомби. Убей их всех пожалуйста!
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Zombie 
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Зомби 
 ddss.quest.842.10.name=Golden Lasso
 ddss.quest.842.10.desc=The Golden Lasso is used to transport passive entities, and also used to craft various utilities using the captured entity. Entities can be collected into the Golden Lasso by right-clicking them. When an entity is stored, the lasso's tooltip will display what kind of entity it is, and the lasso will have the enchantment glint. The entity can be placed by right-clicking the lasso again with an entity contained.
 
@@ -4354,84 +4352,84 @@ ddss.quest.843.10.desc=The Chunk Loading Ward is a block added by Extra Utilitie
 §a§2- 1x Chunk Loading Ward
 
 
-ddss.quest.844.10.name=Skeleton Hunter
-ddss.quest.844.10.desc=Kill them all, and you're a god.
+ddss.quest.844.10.name=Охотник на Скелетов
+ddss.quest.844.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Skeleton
-ddss.quest.845.10.name=Mother Spider Hunter
-ddss.quest.845.10.desc=Kill them all, and you're a god.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Скелетов
+ddss.quest.845.10.name=Охотник на Паучих
+ddss.quest.845.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 5x Mother Spider
-ddss.quest.846.10.name=Baby Spider Hunter
-ddss.quest.846.10.desc=Kill them all, and you're a god. So Cute!
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 5x Паучих
+ddss.quest.846.10.name=Охотник на Маленьких паучков
+ddss.quest.846.10.desc=Убей их всех, ты Бог. Они такие милые!
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Baby Spiders
-ddss.quest.847.10.name=Witch Hunter
-ddss.quest.847.10.desc=Kill them all, and you're a god.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Маленьких паучков
+ddss.quest.847.10.name=Охотник на Ведьм
+ddss.quest.847.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Witch
-ddss.quest.848.10.name=Wroughtnaut Hunter
-ddss.quest.848.10.desc=Lost underground many years ago, these heavily armored knights are not men nor are they statues. Are they guarding something? They have forgotten what. Are they waiting for something? They have forgotten when. Are they mourning someone? They have forgotten whom. All they know is to slay those who approach their chambers. There is only one way to damage a Ferrous Wroughtnaut; its weakness is for you to discover.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Ведьм
+ddss.quest.848.10.name=Охотник на Железного превратника
+ddss.quest.848.10.desc=Потерянные под землей много лет назад, эти рыцари в тяжелой броне не люди и не статуи. Они что-то охраняют? Они забыли что. Они чего-то ждут? Они забыли когда. Они оплакивают кого-то? Они забыли кого. Все, что они знают, это убивать тех, кто приближается к их комнатам. Есть только один способ нанести урон Железному Превратнику; его слабость проявляется во время атаки.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Wroughtnaut
-ddss.quest.849.10.name=Barako the Sun Chief!
-ddss.quest.849.10.desc=Barako is the chief of the Barakoa tribe, residing in a stationary seat upon a throne in Barakoa villages. He draws his power from the sun, calling forth sunstrikes, solar flares, and massive solar beams. He can also create Barakoa followers from masks to defend him during combat. As such, his masked children revere him as a god. Unequipped travelers should keep their distance from his villages, lest they be smitten by his heliomancy.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Превратник
+ddss.quest.849.10.name=Барако вождь Солнца
+ddss.quest.849.10.desc=Барако - вождь племени Баракоа, проживающий в стационарном кресле на троне в деревнях Баракоа. Он черпает силу от солнца, вызывая солнечные удары, солнечные вспышки и массивные солнечные лучи. Он также может создавать последователей Баракоа из масок, чтобы защитить его во время боя. Таким образом, его дети в масках почитают его как бога. Необеспеченные путешественники должны держаться подальше от его деревень, чтобы они не были поражены его гелиоманцией.
 
-Those strong enough to face and defeat him, however, are rewarded with his mask: the Sol Visage. This mask allows its wearers to breathe life into masks to create Barakoa followers. Unfortunately, the mask does not bestow heliomancy upon its bearer; this power is innately carried by Barako, and thus dies with him. Perhaps there is another way...?
+Однако те, кто достаточно силен, чтобы сразиться с ним и победить его, вознаграждаются его маской: Sol Visage. Эта маска позволяет владельцам вдохнуть жизнь в маски для создания последователей Баракоа. К сожалению, маска не дарует гелиомантии своему носителю; эта сила врожденно переносится Барако и, таким образом, умирает вместе с ним. Возможно, есть другой способ ...?
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Barako the Sun Chief
-ddss.quest.850.10.name=Frostmaw Hunter
-ddss.quest.850.10.desc=Frostmaws are dangerous beasts found rarely in snowy areas. Their massive size, impressive speed, and powerful ice breath make them near-impossible opponents. If, on your travels, you encounter one sleeping in your path, it's likely best to take a different route and let it lay. The beast guards a precious ice crystal that can unleash pure winter energy when wielded.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Барако - вождь Солнца
+ddss.quest.850.10.name=Охотник на Морозную пасть
+ddss.quest.850.10.desc=Морозные пасти - опасные звери, редко встречающиеся в заснеженных районах. Их массивный размер, впечатляющая скорость и мощное ледяное дыхание делают их почти невозможными противниками. Если во время путешествий вы встретите спящего на своем пути, лучше всего выбрать другой маршрут и оставить его лежать. Зверь охраняет драгоценный ледяной кристалл, который может использовать чистую зимнюю энергию.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Frostmaw
-ddss.quest.851.10.name=Barakoana
-ddss.quest.851.10.desc=Native to the savanna, the Barakoa tribesmen travel in small hunting packs. They are one with the masks on their heads, which cannot be removed. Some use bones as clubs as weapons while others use poisoned blowdarts. Each hunting pack is led by a Barakoana elite, wielding a traditional spear and shield. The Barakoa make traversing the savanna quite dangerous, as they can surround their prey quickly and put up a good chase.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Морозная пасть
+ddss.quest.851.10.name=Баракоана
+ddss.quest.851.10.desc=Родом из саванны, племена Баракоа путешествуют в небольших охотничьих группах. Они едины со своей маской и не могут их снимать. Некоторые используют кости как дубинки, в то время, как другие используют отравленные дротики. Каждую охотничью группу возглавляет элитный воин Баракоана, владеющий традиционным копьем и щитом. Баракоа делают пересечение саванны довольно опасным, поскольку они могут быстро окружить свою добычу и вести хорошую погоню.
 
-When defeated, the Barakoa will sometimes drop their masks as items that the player can wear. Each mask bestows a different, small buff.
+При поражении Баракоа иногда теряет маски в качестве предметов, которые игрок может носить. Каждая маска дает различный слабый эффект.
 
-Barakoa can also be found in villages scattered across the savanna plain.
+Баракоа также можно найти в деревнях, разбросанных по равнине саванны.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Barakoana
-ddss.quest.852.10.name=Barakoa
-ddss.quest.852.10.desc=Native to the savanna, the Barakoa tribesmen travel in small hunting packs. They are one with the masks on their heads, which cannot be removed. Some use bones as clubs as weapons while others use poisoned blowdarts. Each hunting pack is led by a Barakoana elite, wielding a traditional spear and shield. The Barakoa make traversing the savanna quite dangerous, as they can surround their prey quickly and put up a good chase.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Баракоана
+ddss.quest.852.10.name=Баракоа
+ddss.quest.852.10.desc=Родом из саванны, племена Баракоа путешествуют в небольших охотничьих группах. Они едины со своей маской и не могут их снимать. Некоторые используют кости как дубинки, в то время, как другие используют отравленные дротики. Каждую охотничью группу возглавляет элитный воин Баракоана, владеющий традиционным копьем и щитом. Баракоа делают пересечение саванны довольно опасным, поскольку они могут быстро окружить свою добычу и вести хорошую погоню.
 
-When defeated, the Barakoa will sometimes drop their masks as items that the player can wear. Each mask bestows a different, small buff.
+При поражении Баракоа иногда теряет маски в качестве предметов, которые игрок может носить. Каждая маска дает различный слабый эффект.
 
-Barakoa can also be found in villages scattered across the savanna plain.
+Баракоа также можно найти в деревнях, разбросанных по равнине саванны.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Barakoana
-ddss.quest.853.10.name=Enderman Hunter
-ddss.quest.853.10.desc=Kill them all, and you're a god.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Баракоа
+ddss.quest.853.10.name=Охотник на Эндерменов
+ddss.quest.853.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Enderman
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Эндерменов
 ddss.quest.854.10.name=Speed Upgrade!
 ddss.quest.854.10.desc=The Speed Upgrade increase the speed of Nuclearcraft machines but increase the power used per operation. 
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Speed Upgrade
-ddss.quest.855.10.name=Blaze Hunter
-ddss.quest.855.10.desc=Kill them all, and you're a god.
+ddss.quest.855.10.name=Охотник на Всполохов
+ddss.quest.855.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Blazes
-ddss.quest.856.10.name=Enderdragon Hunter!
-ddss.quest.856.10.desc=Kill the Enderdragon!
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Всполохов
+ddss.quest.856.10.name=Охотник на Эндер-Дракона
+ddss.quest.856.10.desc=Убей Эндер-Дракона
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Enderdragon
-ddss.quest.857.10.name=Witherboss Hunter!
-ddss.quest.857.10.desc=Kill the Witherboss!
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Эндер-Дракон
+ddss.quest.857.10.name=Охотник на Визера!
+ddss.quest.857.10.desc=Убей Визера!
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Witherboss
-ddss.quest.858.10.name=Ghast Hunter
-ddss.quest.858.10.desc=Kill them all, and you're a god.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Визер
+ddss.quest.858.10.name=Охотник на Гастов
+ddss.quest.858.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 5x Ghasts
-ddss.quest.859.10.name=Zombie Pigman Hunter
-ddss.quest.859.10.desc=Kill them all, and you're a god.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 5x Гастов
+ddss.quest.859.10.name=Охотник на Свинозомби
+ddss.quest.859.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Zombie Pigman
-ddss.quest.860.10.name=Wither Skeleton Hunter
-ddss.quest.860.10.desc=Kill them all, and you're a god.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Свинозомби
+ddss.quest.860.10.name=Охотник на Визер-скелета
+ddss.quest.860.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Wither Skeleton
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Визер-скелетов
 ddss.quest.861.10.name=Isotope Separator
 ddss.quest.861.10.desc=The Isotope Separator is used to convert an ingot or dust of a radioactive substance such as Uranium or Thorium into separate lumps of two different isotopes. NuclearCraft introduces a number of radioactive elements and specifies a few different isotopes for each one. Placing an ingot or dust of one of these substances into the Isotope Separator produces an amount of two different isotopes. For example:
 
@@ -4517,10 +4515,10 @@ ddss.quest.877.10.name=Empty Coolers
 ddss.quest.877.10.desc=Coolers remove heat from the reactor core. There are several different types of cooler and each has its own set of conditions under which it operates. First of all you need empty cooler blocks.
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 4x Empty Cooler
-ddss.quest.878.10.name=Naga Hunter!
-ddss.quest.878.10.desc=Kill a Naga in the Twilight Forest!
+ddss.quest.878.10.name=Охотник на Нагу!
+ddss.quest.878.10.desc=Убей Нагу в Сумеречном Лесу!
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Naga
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Нага
 ddss.quest.879.10.name=Water Coolers
 ddss.quest.879.10.desc=Water Coolers are able to cool down 60 H/t	. Must touch at least one Reactor Cell or active moderator block.
 Redstone Coolers are able to cool down 90 H/t	. Must touch at least one Reactor Cell.
@@ -4640,18 +4638,18 @@ ddss.quest.895.10.desc=The Cupronickel Heating Coil is a component item added by
 You need the Master Assembler to craft this.
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 3x Cupronickel Heating Coil
-ddss.quest.896.10.name=Onion Seeds
-ddss.quest.896.10.desc=Combine some grass with a sifter to get onion seeds. Check JEI.
+ddss.quest.896.10.name=Семена лука
+ddss.quest.896.10.desc=Объедините немного травы с Ситом для получения семян лука. Проверьте JEI.
 
-§1§2- 2x Onion Seeds
-ddss.quest.897.10.name=Corn Seeds
-ddss.quest.897.10.desc=Combine grass with a sifter to get corn seeds. Check JEI.
+§1§2- 2x Семечки лука
+ddss.quest.897.10.name=Семена кукурузы
+ddss.quest.897.10.desc=Объедините немного травы с Ситом для получения семян кукурузы. Проверьте JEI.
 
-§1§2- 2x Corn Seeds
-ddss.quest.898.10.name=Tomato Seeds
-ddss.quest.898.10.desc=Combine some grass with a sifter to get tomato seeds. Check JEI.
+§1§2- 2x Семечки кукурузы
+ddss.quest.898.10.name=Семена томата
+ddss.quest.898.10.desc=Объедините немного травы с Ситом для получения семян томата. Проверьте JEI.
 
-§1§2- 2x Tomato Seeds
+§1§2- 2x Семечки томата
 ddss.quest.899.10.name=Slime Bucket? oO
 ddss.quest.899.10.desc=If you beat a trasure slime into small "pieces", you can catch the babies with a bucket. When you let him go again it turns into a green slime. I'm sure you'll need slime later^^
 
@@ -4736,12 +4734,12 @@ ddss.quest.914.10.desc=The very first basic element do decompose is cellulose. T
 
 §a§2- 64x Cellulose (C6,H10,O5)
 
-ddss.quest.915.10.name=Find Kirby ;-(
-ddss.quest.915.10.desc=Help! I've been kidnapped! I'm in a chest in the middle of nowhere! Pls help me :(
+ddss.quest.915.10.name=Найдите Кирби :(
+ddss.quest.915.10.desc=Помогите! Я был похищен! Я в сундуке где-то в глуши! Пожалуйста, помогите мне :(
 
-§a§oWell, according to ancient legends... Kirby is find in chests near Astral Sorcery Shrines!
+§a§oХорошо, согласно древним легендам... Кирби находится в сундуке, около Астральных Волшебных Святынь!
 
-§1§2- Find 1x Kirby Plushie in a Dungeon Chest
+§1§2- Найдите 1х Кирби в Сундуке подземелья
 
 ddss.quest.916.10.name=H2O
 ddss.quest.916.10.desc=H2O is a byproduct while decomposing logs in a dissolver. This can be used to create Hydrogen and Oxygen.
@@ -5110,18 +5108,18 @@ ddss.quest.996.10.desc=The Solar panel T7 is very strong. It is used to generate
 §a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Solar Panel T7
-ddss.quest.997.10.name=Ur-Ghast Hunter!
-ddss.quest.997.10.desc=Kill a Ur-Ghast in the Twilight Forest!
+ddss.quest.997.10.name=Охотник на Тёмного гаста!
+ddss.quest.997.10.desc=Убей Тёмного гата в Сумеречном лесу!
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Urghast
-ddss.quest.998.10.name=Kobold
-ddss.quest.998.10.desc=Kill all Kobolds!!
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Тёмный гаст
+ddss.quest.998.10.name=Охотник на Кобольтов
+ddss.quest.998.10.desc=Убей всех кобольтов!!!
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Kobold
-ddss.quest.999.10.name=Captain Jack Sparrow
-ddss.quest.999.10.desc=Kill them all, and you're a god.
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Кобольтов
+ddss.quest.999.10.name=Капитан Джек Воробей
+ddss.quest.999.10.desc=Убей их всех, ты Бог.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Pirates
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Скелетов-пиратов
 ddss.quest.1000.10.name=Inferium Seeds T4
 ddss.quest.1000.10.desc=The Inferium Seeds (Tier 4) can be craftet with Superium Essences. The plant drops 4 Inferium Essences!
 
@@ -5701,14 +5699,14 @@ ddss.quest.1127.10.name=60K Coolant Cells
 ddss.quest.1127.10.desc=Suitable for heavy machines so that they do not overheat.
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x 60K Coolant Cell
-ddss.quest.1128.10.name=Akashic Tome?
-ddss.quest.1128.10.desc=In your starter backpack, you'll find a book called "Akashic Tome".
+ddss.quest.1128.10.name=Том Акаши?
+ddss.quest.1128.10.desc=В вашем стартовом инвентаре вы найдте книгу "Том Акаши".
 
-The Akashic Tome can be combined with mods' documentation books, and can store as many as you can fit in there. 
+Том Акаши может быть совмещен с книгами из других модов и вы можете хранить их столько, сколько сможете 
 
-§2§aTo add a book to it, simply combine them in the crafting table. You can have as many as you want, including duplicates.
+§2§aЧтобы добавить книгу в том, просто объедините их в верстаке. Вы можете иметь столько книг внутри, сколько захотите, включая одинаковые.
 
-To morph the tome into another mod's documentation book that is added to it, simply right click and pick the one you want. I already set you up with some books.
+Для преобразования тома в книгу из другого мода, которая добавлена в него, просто кликните правой кнопкой мыши  и выберите книгу, которая вам нужна. Я уже положил внутрь несколько книг, которые вам понадобятся.
 
 ddss.quest.1129.10.name=/dank /null
 ddss.quest.1129.10.desc=This item is very useful for any longer mining tour!
@@ -6066,14 +6064,13 @@ ddss.quest.1200.10.name=White Magic Utensils 1
 ddss.quest.1200.10.desc=Before we can move towards white magic we need some utensils.
 
 §1§2- 9x Leather
-ddss.quest.1201.10.name=Set Home?
-ddss.quest.1201.10.desc=There's a way to set your home where you can teleport back. But only at the cost of hunger! If sum of saturation, hunger and food from your toolbar is not enough for teleportation, mod wil cancel teleportation and nothing happens.
+ddss.quest.1201.10.name=Выбрали место для дома?
+ddss.quest.1201.10.desc=После выбора места для будущего дома, вы можете сделать точку телепорта в дом. Платой за телепорт будет голод. Если сытости и еды у вас не хватает для телепортации, то мод просто отменит телепортацию и ничего не произойдет.
 
-
-§a/sethome or /createhome - to set spawnpoint
-/back - to teleport back
+§a/sethome или /createhome - для создания точки телепорта
+/back - для возврата обратно
 ddss.lines.0.10.name=Уровень 0 - Основной квест
-ddss.lines.0.10.desc=В первом обучающем блоке большинство предметов производятся руками, это сделано для изучения модов и взаимодействия между ними. Позже сложность будет увеличиваться как в техническом, так и в магическом плане. 
+ddss.lines.0.10.desc=В первом обучающем блоке большинство предметов производятся руками, это сделано для изучения модов и взаимодействия между ними. Позже сложность будет увеличиваться как в техническом, так и в магическом плане.
 ddss.lines.1.10.name=Кухня
 ddss.lines.1.10.desc=Приготовление еды, фермерство, рыбалка и многое другое!
 ddss.lines.2.10.name=Кузнечная мастерская
@@ -6082,25 +6079,25 @@ ddss.lines.3.10.name=Игровой магазин!
 ddss.lines.3.10.desc=Купите различные предметы!
 ddss.lines.4.10.name=Уровень 1 - Основной квест
 ddss.lines.4.10.desc=Это первые задачи, которые нужно выполнить, чтобы приступить к работе с новыми технологиями; это не всегда просто в ходе ежедневных операций.
-ddss.lines.5.10.name=Белая магия [Уровень 1]
+ddss.lines.5.10.name=Белая магия [Ур. 1]
 ddss.lines.5.10.desc=Если вы интересуетесь белой магией и модом Botania, то здесь вы сможете ощутить всю красоту белой магии среди Цветов и Звезд ;0
-ddss.lines.6.10.name=Руды, Сплавы и Плавильня [Уровень 1]
+ddss.lines.6.10.name=Руды, Сплавы и Плавильня [Ур. 1]
 ddss.lines.6.10.desc=Здесь вы найдете почти все, что связано с рудами, сплавами, инструментами Tinkers Construct и плавильней!
-ddss.lines.7.10.name=Мистические растения [Уровень 1]
+ddss.lines.7.10.name=Мистические растения [Ур. 1]
 ddss.lines.7.10.desc=В данной главе вы познакомитесь с модом Mystical Agriculture, научитесь получать ресурсы из растений, как альтернативу карьерами и фермам мобов. Эта часть очень важна для защиты будущих ресурсов!
-ddss.lines.8.10.name=Темная магия [Уровень 1]
-ddss.lines.8.10.desc=Если мы откажемся от наших знаний о черной магии, мы обречем все человечество ....
+ddss.lines.8.10.name=Темная магия [Ур. 1]
+ddss.lines.8.10.desc=Если мы откажемся от наших знаний о черной магии, мы обречем все человечество...
 ddss.lines.9.10.name=Уровень 2 - Основной квест
 ddss.lines.9.10.desc=Эта часть помогает получить выгоду от ваших разработов и инженерных ноу-хау и вывести ваши технологии на новый уровень!
-ddss.lines.10.10.name=Руды, Сплавы и Плавильня [Уровень 2]
+ddss.lines.10.10.name=Руды, Сплавы и Плавильня [Ур. 2]
 ddss.lines.10.10.desc=Вы готовы к следующему этапу!
 ddss.lines.11.10.name=Уровень 3 - Основной квест
 ddss.lines.11.10.desc=И сейчас у меня для вас сюрприз! Вы готовы перейти в век Ирридия?
 ddss.lines.12.10.name=Дикая охота
-ddss.lines.12.10.desc=Я знаю, что вы забыли: лес, лошадь и дикую охоту.
+ddss.lines.12.10.desc=Я знаю, что вам не хватает: лес, лошадь и дикой охоты.
 ddss.lines.13.10.name=Защитники земли
 ddss.lines.13.10.desc=Вы защитник секретного замка?
-ddss.lines.14.10.name=Мистические растения [Уровень 2]
+ddss.lines.14.10.name=Мистические растения [Ур. 2]
 ddss.lines.14.10.desc=Без описания
 ddss.lines.15.10.name=Уровень 4 - Основной квест
 ddss.lines.15.10.desc=Небо это предел! ... ты так думаешь? ^^
