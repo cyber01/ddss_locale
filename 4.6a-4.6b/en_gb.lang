@@ -13,8 +13,8 @@ Overview:
 §8§4§3§2§1§9§b§d§e§e§fT2- Silver Coins - (can also be found in dungeons)
 §6§eT3- Gold Coins - (can also be found in dungeons)
 §3T4- Platinum Coins
-§6§6§8§9§a§9§9§a§b§c§d§d§e§f§c§dT5- Lumium Coins
-§2§f§a§a§2T6- Enderium Coins
+§6§6§8§9§a§9§9§a§b§c§d§d§e§f§c§dT5- Lumium Coins (can also be found in Legendary Lootbags)
+§2§f§a§a§2T6- Enderium Coins (can also be found in Artifact Lootbags)
 ddss.quest.1.10.name=Punching Wood? Nope =)
 ddss.quest.1.10.desc=Stop punching wood with your (Mike Tyson) fist and use that Copper Axe in your Inventory :D
 
@@ -49,17 +49,17 @@ ddss.quest.5.10.desc=The very first Basic Ingots in the whole game. Collect some
 ddss.quest.6.10.name=Handsaw
 ddss.quest.6.10.desc=In woodworking and carpentry, hand saws, are used to cut pieces of wood into different planks or shapes. The hand saw is a bit like a tenon saw, but with one flat, sharp edge.
 
-§1§2- 1x Copper Handsaw
+§1§2- 1x Artisan Handsaw (Any Material)
 ddss.quest.7.10.name=Gas Burner!
 ddss.quest.7.10.desc=A gas burner is a device that produces a controlled flame by mixing a fuel gas such as methane, syngas, or argon with an oxidizer such as the ambient air or supplied oxygen, and allowing for ignition and combustion.
 
-§o§3§4§6§7§8§9§b§d§e§d§k§f§5§3§2§3§oBurners works only with Methane, Argon or Syngas in a Blacksmith Workshop.
+§o§3§4§6§7§8§9§b§d§e§d§k§f§5§3§2§3§o§a§oHint: Burners works only with Methane, Argon or Syngas in a Blacksmith's Workshop.
 
 §1§2- 1x Burner (Any Material)
 ddss.quest.8.10.name=Mortar & Pestle
 ddss.quest.8.10.desc=Mortar and pestle are used since ancient times to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, medicine and pharmacy.
 
-§1§2- 1x Copper Mortar & Pestle
+§1§2- 1x Mortar & Pestle (Any Material)
 
 ddss.quest.9.10.name=Copper Chests!
 ddss.quest.9.10.desc=Wooden chests are History. Time for a fancy Copper Chest!
@@ -68,7 +68,7 @@ ddss.quest.9.10.desc=Wooden chests are History. Time for a fancy Copper Chest!
 ddss.quest.10.10.name=Hammer Time!
 ddss.quest.10.10.desc=This sledgehammer is a tool with a large, flat, metal head, attached to a short handle. The size of its head allows a sledgehammer to apply more force than other hammers of similar size. Can be used to craft ingots into plates.
 
-§1§2- 1x Copper Hammer
+§1§2- 1x Artisan Hammer (Any Material)
 
 ddss.quest.11.10.name=Basic Plates #1
 ddss.quest.11.10.desc=Craft a few Copper Plates with your new sledgehammer (Artisan Hammer). Later you can use machines or a smeltery to save material.
@@ -82,7 +82,7 @@ ddss.quest.12.10.desc=Cutting logs with a handsaw, increases the ouptut of woode
 ddss.quest.13.10.name=Sifter
 ddss.quest.13.10.desc=Sieving is a simple technique for separating particles of different sizes. For example you can use Sifters to separate flint from gravel. 
 
-§1§2- 1x Copper Sifter
+§1§2- 1x Artisan Sifter (Any Material)
 ddss.quest.14.10.name=Gravel to Flint
 ddss.quest.14.10.desc=Put gravel in a Sifter to get flint.
 
@@ -292,7 +292,7 @@ ddss.quest.56.10.name=Spruce Saplings
 ddss.quest.56.10.desc=Need spruce saplings? Buy some.
 ddss.quest.57.10.name=Jungle Saplings
 ddss.quest.57.10.desc=Need jungle saplings? Buy some.
-ddss.quest.58.10.name=AcaciaSaplings
+ddss.quest.58.10.name=Acacia Saplings
 ddss.quest.58.10.desc=Need acacia saplings? Buy some.
 ddss.quest.59.10.name=Dark Oak Saplings
 ddss.quest.59.10.desc=Need dark oak saplings? Buy some.
@@ -329,7 +329,7 @@ ddss.quest.74.10.desc=Need "clean" stone? Buy some.
 ddss.quest.75.10.name=Needle
 ddss.quest.75.10.desc=A needle ,for hand-sewing, is a long slender tool with a pointed tip at one end and a hole (or eye) at the other. 
 
-§1§2- 1x Copper Needle
+§1§2- 1x Needle (Any Material)
 ddss.quest.76.10.name=Cotton Seeds
 ddss.quest.76.10.desc=Cotton Seeds are a crop from the Natura or Pams Harvestcraft mod. They can be obtained by bashing tall grass, or breaking existing Cotton plants. Cotton Seeds, though can be found on grass, must be planted on tilled farmland.
 
@@ -359,14 +359,14 @@ ddss.quest.81.10.desc=The Compost is a block added by Actually Additions. It is 
 
 §1§2- 4x Compost Block
 ddss.quest.82.10.name=Squeezing Gas? Lol?
-ddss.quest.82.10.desc=The easiest way to obtain Methane Gas is to put Biomass in a squeezer and jump of it! It is not very efficient but at the same time, this process dont need a source of energy. In the longer term, however, its annoying. :D
+ddss.quest.82.10.desc=The easiest way to obtain Methane Gas is to put Biomass in a squeezer and jump on top of it! It is not very efficient but at the same time, this process dont need a source of energy. In the longer term, however, its annoying. :D
 Use a Redstone Signal to reset the position of the Squeezer.
 
 §a§oHint: The Squeezer can also be used to double ores!
 
 §1§2- 1x Squeezer
 ddss.quest.83.10.name=Compost
-ddss.quest.83.10.desc=Next Step: compost. I hope you have sow some seeds?
+ddss.quest.83.10.desc=Next Step: compost. I hope you have sown some seeds?
 
 §1§2- 4x Compost
 ddss.quest.84.10.name=Biomass
@@ -514,7 +514,7 @@ ddss.quest.112.10.desc=Humus can be manually crafted for use in manual-mode Mult
 §1§2- 2x Humus
 ddss.quest.113.10.name=Fluid Extractor
 ddss.quest.113.10.desc=When a wood log or Humus block is placed in front of the black side of the Fluid Extractor, the Fluid Extractor will slowly break the log/block and generate Latex or Methane Gas in its internal tank.
-The Fluid Extractor dosent need a source of energy.
+The Fluid Extractor doesn't need a source of energy.
 
 §1§2- 1x Fluid Extractor
 ddss.quest.114.10.name=Fluiductomatic Oo
@@ -1029,7 +1029,7 @@ ddss.quest.215.10.desc=The first thing you will need to do in order to get start
 
 
 ddss.quest.216.10.name=Aquamarine
-ddss.quest.216.10.desc=Aquamarine gems §6§r§l§l§rcan't be found in rivers and lakes. These gems must be processed in a mage's workshop!
+ddss.quest.216.10.desc=Aquamarine gems §6§r§l§l§r§l§l§r§lcan't §rbe found in rivers and lakes. These gems must be processed in a mage's workshop!
 
 §2- 5x Aquamarine
 
@@ -1043,7 +1043,7 @@ ddss.quest.217.10.desc=Once you have found a large shrine you will want to dig i
 ddss.quest.218.10.name=Crystal Ore
 ddss.quest.218.10.desc=With this wand in hand at NIGHT time, walk around the surface of the world and you will see glowing light effects coming from the ground. These markers are locations for Crystal Ore. Crystal Ore spawns around Y-level 4 and below. 
 
-§6§6§6§2§1§4§5§7§8§9§a§9§o§6§oIt requires a Diamond pickaxe or a pickaxe with Mining Level Obsidian!
+§6§6§6§2§1§4§5§7§8§9§a§9§o§6§oHint: It requires a Diamond pickaxe or a pickaxe with Mining Level Obsidian!
 
 §2- Mine 1x Crystal Ore
 
@@ -1051,7 +1051,7 @@ ddss.quest.218.10.desc=With this wand in hand at NIGHT time, walk around the sur
 ddss.quest.219.10.name=Luminous Crafting Table
 ddss.quest.219.10.desc=The Luminous Crafting Table is used to craft most things within Astral Sorcery but this is the FIRST tier Table. This Table must be placed somewhere open to the sky to work. 
 
-§a§oHint: Craftet in the in the Mage's Workshop.
+§a§oHint: Crafted in the Mage's Workshop.
 
 §2- 1x Luminous Crafting Table
 
@@ -1221,7 +1221,7 @@ You must place a Blank Pattern in the Stencil Table and select the required butt
 
 §2- 1x Pickaxe Head Pattern
 - 1x Axe Head Pattern
-- 1x Sovel Head Pattern
+- 1x Shovel Head Pattern
 - 1x Tool Rod Pattern
 - 1x Binding Pattern
 ddss.quest.247.10.name=Flint Tools!
@@ -1368,7 +1368,9 @@ ddss.quest.268.10.desc=Time to craft some Bronze Tools!
 §2§2- 1x Bronze Wide Guard
 
 ddss.quest.269.10.name=Sharpening Kit
-ddss.quest.269.10.desc=Sharpening Kits allow you to upgrade the tool level quickly to mine higher level materials or repair your tools while your deep in the uncerground or far away from Home.
+ddss.quest.269.10.desc=Sharpening Kits allow you to repair your tools while your deep in the underground or far away from Home. 
+
+§a§oHint: You can't upgarde the mining level of a pickaxe.
 
 §2- 1x Sharpening Kit Cast
 §2
@@ -1503,8 +1505,8 @@ Making Steel requires either the Crude Blast Furnace or the Industrial Blast Fur
 
 ddss.quest.286.10.name=Random Rabbit
 ddss.quest.286.10.desc=Need Rabbits? Buy some Eggs.
-ddss.quest.287.10.name=Lama
-ddss.quest.287.10.desc=Need Lamas? Buy some Eggs.
+ddss.quest.287.10.name=Llama
+ddss.quest.287.10.desc=Need Llamas? Buy some Eggs.
 ddss.quest.288.10.name=Parrot
 ddss.quest.288.10.desc=Need Parrots? Buy some Eggs.
 ddss.quest.289.10.name=Blazes Rods?
@@ -1584,7 +1586,7 @@ ddss.quest.299.10.desc=Nickel ore is about as common as gold ore, but it occurs 
 §2
 
 ddss.quest.300.10.name=Platinum Ore!
-ddss.quest.300.10.desc=Platinum Ore is very very rare! They're more rare than Diamonds! It is used for tools, armor and some hig-end tier machines.
+ddss.quest.300.10.desc=Platinum Ore is very very rare! They're more rare than Diamonds! It is used for tools, armor and some high-end tier machines.
 
 
 §2- 64x Platinum Ingots
@@ -1684,12 +1686,12 @@ ddss.quest.313.10.desc=Just look around in the wild a bit, and you will find one
 
 §1§2- 1x Black Lotus (Actually Additions)
 ddss.quest.314.10.name=The Smiley Cloud
-ddss.quest.314.10.desc=The Smiley Cloud is a magical floating cloud which is getting put to life through the piece of Solidified Experience inside it. It hovers up and down in its place all jolly and fun, and when right-clicking, you can give it a name. When giving it certain special names like "Ellpeck" or "Etho", it will have some special items it carries!
+ddss.quest.314.10.desc=The Smiley Cloud is a magical cloud which is getting put to life through the piece of Solidified Experience inside it. It hovers up and down in its place all jolly and fun, and when right-clicking, you can give it a name. When giving it certain special names like "Ellpeck" or "Etho", it will have some special items it carries!
 
 §1§2- 1x Smiley Cloud
 §4
 ddss.quest.315.10.name=The Power of the Sun!
-ddss.quest.315.10.desc=Solar Flux Reborn adds 12 different tiers of solar panels that generate FE or RF. The First Panel generate 4 RF/FE and is very inexpensive to manufacture!
+ddss.quest.315.10.desc=Solar Flux Reborn adds 12 different tiers of solar panels that generate FE or RF. The First Panel generate 4 RF/FE and is very inexpensive to craft.
 
 §a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
 
@@ -1705,11 +1707,11 @@ ddss.quest.316.10.desc=Osmium is one of three basic metals in Mekanism. It is ma
 ddss.quest.317.10.name=Atomic Reconstructor
 ddss.quest.317.10.desc=The Atomic Reconstructor is used to create crystals and other items at the cost of 1,000 Energy. When powered, it will shoot a laser, and that laser will convert the blocks or items it hits into new blocks or items if they are convertible. 
 
-§a§oHint: Use a pressureplate in front of the reconstructor to be able to throw items at it!
+§a§o§c§o§l§a§o§lHint: Use a pressureplate in front of the reconstructor to be able to throw items at it!
 
 §2- 1x Atomic Reconstructor
 ddss.quest.318.10.name=Basic Circuits
-ddss.quest.318.10.desc=The Basic Electronic Circuit is a component for several low - medium Tier machines. It must be craftet in a Engineers Workshop and needs Super Glue.
+ddss.quest.318.10.desc=The Basic Electronic Circuit is a component for several low - medium Tier machines. It must be crafted in a Engineers Workshop and needs Super Glue.
 
 §2- 1x Basic Circuit
 ddss.quest.319.10.name=Circuit Plates
@@ -1733,7 +1735,7 @@ ddss.quest.323.10.desc=The Powered Furnace works like a furnace, however, it use
 
 §2- 1x Powered Furnace
 ddss.quest.324.10.name=Restonia Crystals
-ddss.quest.324.10.desc=One Redstone can be converted to one Restonia Crystal in an Atomic Reconstructor. One Block of Redstone be converted to one Resotnia Crystal Block. 
+ddss.quest.324.10.desc=One Redstone can be converted to one Restonia Crystal in an Atomic Reconstructor. One Block of Redstone be converted to one Restonia Crystal Block. 
 
 §2- 2x Restonia Crystal
 ddss.quest.325.10.name=Palis Crystals
@@ -1772,14 +1774,14 @@ ddss.quest.332.10.name=Super Glue!
 ddss.quest.332.10.desc=Put the Solid Glue Cells in a Furnace to obtain Super Glue Cells!
 
 §2- 5x Super Glue Cells
-ddss.quest.333.10.name=To Many Tools
+ddss.quest.333.10.name=Too Many Tools
 ddss.quest.333.10.desc=Cutters are pliers intended for the cutting of wire (they are generally not used to grab or turn anything). The plane defined by the cutting edges of the jaws intersects the joint rivet at an angle or "on a diagonal", hence the name.
 
 A screwdriver is a tool, manual or powered, for screwing and unscrewing (inserting and removing) screws. A typical simple screwdriver has a handle and a shaft, ending in a tip the user puts into the screw head before turning the handle. 
 
 
-§1§2- 1x Copper Cutter
-§1§2- 1x Copper Driver
+§1§2- 1x Artisan Cutter (Any material)
+§1§2- 1x Artisan Driver (Any material)
 
 ddss.quest.334.10.name=Storage Crates
 ddss.quest.334.10.desc=Storage Crates are big. Really big. They hold tons of items, more than 4 chests worth of them. Not only that, but they can be upgraded in size!
@@ -1897,7 +1899,7 @@ ddss.quest.359.10.desc=The Leadstone Fluxduct is a "cable" from Thermal Dynamics
 ddss.quest.360.10.name=Batteries
 ddss.quest.360.10.desc=Batteries are a good way to store Energy to move around. They can be charged in an Energizer. When holding them in hand, they can be sneak-right-clicked to put them into discharge mode. This means that they will charge any other items in your inventory.
 
-§2- 2x Single Battery
+§2- 1x Single Battery
 ddss.quest.361.10.name=Double Batteries!
 ddss.quest.361.10.desc=Bigger-Better-Worth!
 
@@ -1937,13 +1939,13 @@ ddss.quest.369.10.desc=The Breaker breaks blocks in front of it. It can be orien
 
 §2- 1x Auto Breaker
 ddss.quest.370.10.name=The Long Range Breaker
-ddss.quest.370.10.desc=The Long-Range Breaker is an upgraded version of Auto-Breaker. It will break up to 8 blocks in front of it, but at a cost of Energy per block. Amazing for Sugarcane farms! Using a Solarpanel T1 should be enoguh. 
+ddss.quest.370.10.desc=The Long-Range Breaker is an upgraded version of Auto-Breaker. It will break up to 8 blocks in front of it, but at a cost of Energy per block. Amazing for Sugarcane farms! Using a Solarpanel T1 should be enough. 
 
 §2- 1x Long Range Breaker
 ddss.quest.371.10.name=Menril Trees?
 ddss.quest.371.10.desc=The Menril Tree spawns occasionally in the Overworld and abundantly in Meneglin biomes. Menril Wood can be made into Menril Wood Planks, which can then be made into stairs or doors. 
 
-§a§oMenril Wood can also be processed in a Squeezer or Mechanical Squeezer into Menril Resin, making them the main source of Crystalized Menril. 
+§a§oHint: Menril Wood can also be processed in a Squeezer or Mechanical Squeezer into Menril Resin, making them the main source of Crystalized Menril!!
 
 §2- 2x Mernil Sapling
 ddss.quest.372.10.name=Fluiduct
@@ -1985,7 +1987,7 @@ Ok, let's go on with ..... Onions!
 ddss.quest.379.10.name=Onion Soup!
 ddss.quest.379.10.desc=Onion soups have been popular at least as far back as Roman times. Throughout history, they were seen as food for poor people, as onions were plentiful and easy to grow. 
 
-§1§2- 5x Onoin Soup
+§1§2- 5x Onion Soup
 ddss.quest.380.10.name=Chili Pepper!
 ddss.quest.380.10.desc=Collect over 30 different seeds and Vegetables! That is the biggest and longest adventure in your garden. 
 On the one hand because it is an excellent opportunity to learn more about different types of food and on the other because it is a fabulous way to obtain more coins!
@@ -2020,7 +2022,7 @@ ddss.quest.385.10.desc=First of all you need Basic Crafting Seeds.
 §2
 
 ddss.quest.386.10.name=Nature Seeds
-ddss.quest.386.10.desc=After harvesting a fully grown plant of Nature Seeds, you get Natrue Essences.
+ddss.quest.386.10.desc=After harvesting a fully grown plant of Nature Seeds, you get Nature Essences.
 
 §2- 4x Nature Seeds
 §2
@@ -2044,7 +2046,7 @@ ddss.quest.388.10.desc=Use Nature Essence to craft Cactus.
 §2
 
 ddss.quest.389.10.name=Ice Seeds
-ddss.quest.389.10.desc=After harvesting a fully grown plant of Ice Seeds, you get IceEssences.
+ddss.quest.389.10.desc=After harvesting a fully grown plant of Ice Seeds, you get Ice Essences.
 
 §2- 4x Ice Seeds
 §2
@@ -2108,7 +2110,7 @@ ddss.quest.396.10.desc=Craft Prudentium Essence with the help of your Infusion C
 §2
 
 ddss.quest.397.10.name=Inferium Seeds Tier 2
-ddss.quest.397.10.desc=The Inferium Seeds (Tier 2) can be craftet with Prudentium Essences. The plant drops 2 Inferium Essences.
+ddss.quest.397.10.desc=The Inferium Seeds (Tier 2) can be crafted with Prudentium Essences. The plant drops 2 Inferium Essences.
 
 §2- 3x Inferium Seeds Tier 2
 §2
@@ -2116,7 +2118,7 @@ ddss.quest.397.10.desc=The Inferium Seeds (Tier 2) can be craftet with Prudentiu
 §2
 
 ddss.quest.398.10.name=Crafting Seed T2
-ddss.quest.398.10.desc=T2 Crafting Seeds are more powerfull and can be used as well in many recipes.
+ddss.quest.398.10.desc=T2 Crafting Seeds are more powerful and can be used as well in many recipes.
 
 §2- 4x Crafting Seeds T2
 §2
@@ -2260,7 +2262,7 @@ ddss.quest.421.10.desc=Mystical Essences can be used to craft all kinds of Mysti
 §2
 
 ddss.quest.422.10.name=Crafting Seed T3
-ddss.quest.422.10.desc=T3 Crafting Seeds are much more powerfull then T2 and can be used in many important recipes.
+ddss.quest.422.10.desc=T3 Crafting Seeds are much more powerful then T2 and can be used in many important recipes.
 
 §2- 4x Crafting Seeds T3
 §2
@@ -2276,7 +2278,7 @@ ddss.quest.423.10.desc=Craft Intermedium Essence with a Infusion Crystal.
 §2
 
 ddss.quest.424.10.name=Inferium Seeds Tier 3
-ddss.quest.424.10.desc=The Inferium Seeds (Tier 3) can be craftet with Intermedium Essences. The plant drops 3 Inferium Essences!
+ddss.quest.424.10.desc=The Inferium Seeds (Tier 3) can be crafted with Intermedium Essences. The plant drops 3 Inferium Essences!
 
 §2- 3x Inferium Seeds Tier 3
 §2
@@ -2308,7 +2310,7 @@ ddss.quest.431.10.desc=The Intermedium Furnace is the tier 3 Furnace added by My
 
 §2
 
-ddss.quest.432.10.name=Intermeidum Coal!
+ddss.quest.432.10.name=Intermedium Coal!
 ddss.quest.432.10.desc=Intermedeium Coal burns for a long time! 6x longer than normal Coal!
 
 §2- 4x Intermedium Coal
@@ -2318,8 +2320,8 @@ ddss.quest.432.10.desc=Intermedeium Coal burns for a long time! 6x longer than n
 ddss.quest.433.10.name=Mystical Feather & Sticks
 ddss.quest.433.10.desc=Mystical Feathers & Mystical Sticks are used to craft various Arrows.
 
+§2- 2x Mystical Sticks
 §2- 2x Mystical Feathers
-- 2x Mystical Sticks
 §2
 
 §2
@@ -2428,26 +2430,26 @@ ddss.quest.446.10.desc=Dark Gem Essences can only be used to craft Dark Gems.
 
 §2
 
-ddss.quest.447.10.name=Redstone Seeds
-ddss.quest.447.10.desc=Craft a few Redstone Seeds.
+ddss.quest.447.10.name=Obsidian Seeds
+ddss.quest.447.10.desc=Craft a few Obsidian Seeds.
 
-§2- 4x Redstone Seeds
+§2- 4x Obsidian Seeds
 §2
 
 §2
 
-ddss.quest.448.10.name=Redstone Essence!
-ddss.quest.448.10.desc=After harvesting a fully grown plant of Redstone Seeds, you get Redstone Essences.
+ddss.quest.448.10.name=Obsidian Essence!
+ddss.quest.448.10.desc=After harvesting a fully grown plant of Obsidian Seeds, you get Obsidian Essences.
 
-§2- 9x Redstone Essence
+§2- 9x Obsidian Essence
 §2
 
 §2
 
-ddss.quest.449.10.name=Redstone!
-ddss.quest.449.10.desc=Redstone Essences can only be used to craft Redstone.
+ddss.quest.449.10.name=Obsidian!
+ddss.quest.449.10.desc=Obsidian Essences can only be used to craft Obsidian.
 
-§2- 6x Redstone
+§2- 8x Obsidian
 §2
 
 §2
@@ -2485,26 +2487,26 @@ ddss.quest.453.10.desc=Silicon Essences can only be used to craft Silicon.
 
 §2
 
-ddss.quest.454.10.name=Bronze Seeds
-ddss.quest.454.10.desc=Craft a few Bronze Seeds.
+ddss.quest.454.10.name=Sulfur Seeds
+ddss.quest.454.10.desc=Craft a few Sulfur Seeds.
 
-§2- 4x Bronze Seeds
+§2- 4x Sulfur Seeds
 §2
 
 §2
 
-ddss.quest.455.10.name=Bronze Essence!
-ddss.quest.455.10.desc=After harvesting a fully grown plant of Bronze Seeds, you get Bronze Essences.
+ddss.quest.455.10.name=Sulfur Essence!
+ddss.quest.455.10.desc=After harvesting a fully grown plant of Sulfur Seeds, you get Sulfur Essences.
 
-§2- 8x Bronze Essence
+§2- 9x Sulfur Essence
 §2
 
 §2
 
-ddss.quest.456.10.name=Bronze!
-ddss.quest.456.10.desc=Bronze Essences can only be used to craft Bronze Ingots.
+ddss.quest.456.10.name=Sulfur!
+ddss.quest.456.10.desc=Sulfur Essences can only be used to craft Sulfur.
 
-§2- 2x Bronze Ingots
+§2- 12x Sulfur
 §2
 
 §2
@@ -2577,7 +2579,7 @@ ddss.quest.471.10.name=Thermoelectric Generator
 ddss.quest.471.10.desc=The Thermoelectric Generator generates energy based on the difference in temperature between blocks/liquids adjacent to it. For example, Ice and Lava together will generate 16 Energy/t.
 
 §2- 1x Thermoelectric Generator
-ddss.quest.472.10.name=Glowstones Seeds
+ddss.quest.472.10.name=Glowstone Seeds
 ddss.quest.472.10.desc=Craft a few Glowstone Seeds.
 
 §2- 4x Glowstone Seeds
@@ -2626,7 +2628,7 @@ ddss.quest.479.10.desc=Energy Batteries can be combined in any crafting grid, co
 
 §2- 1x 2'000'000 RF Energy Battery
 ddss.quest.480.10.name=4M Energy Storage oO?
-ddss.quest.480.10.desc=Combine Energy Batterys up to 4'000'000 RF Storage.
+ddss.quest.480.10.desc=Combine Energy Batteries up to 4'000'000 RF Storage.
 
 §a§l§oThis battery only outputs energy when a redstone signal is supplied!
 
@@ -2639,7 +2641,7 @@ Ok, let's go on with ..... Bellpepper!
 
 §1§2- 10x Bellpepper Seeds 
 - 64x Bellpepper 
-ddss.quest.482.10.name=Potatos O'Brien!
+ddss.quest.482.10.name=Potatoes O'Brien!
 ddss.quest.482.10.desc=Potatoes O'Brien is a dish of pan-fried potatoes along with green and red bell peppers. The potatoes and the bell peppers are fried and are served hot. 
 
 
@@ -2669,13 +2671,13 @@ ddss.quest.485.10.desc=Probably one of the first "Dark Magic" items you will cra
 ddss.quest.486.10.name=Dark Gems
 ddss.quest.486.10.desc=EvilCraft adds only one new ore to the world generation, called dark ore. This ore spawns from Y-levels 15 to 55 and drops dark gems upon breaking. You will at least need an iron tier pickaxe (mininglevel diamond) to mine it and fortune does have an effect on the drop rate. 
 
-§2§6§o§a§oIf you don't have found an iron pickaxe somewhere, you should unlock the Blacksmith's Workshop to craft one.
+§2§6§o§a§oIf you haven't found an iron pickaxe somewhere, you should unlock the Blacksmith's Workshop to craft one.
 
 §1§2- 4x Dark Gems
 ddss.quest.487.10.name=Spikes
 ddss.quest.487.10.desc=The Spike is a component added by EvilCraft. It can be used to craft various tools, such as the Blood Extractor or Spiked Plates.
 
-§1§2- 16x Spikes
+§1§2- 2x Spikes
 ddss.quest.488.10.name=Getting Started with Black Magic!
 ddss.quest.488.10.desc=Well, you can really get your first start as soon as you have some Redstone, Iron, Gold, Lapis Lazuli, and a couple of Diamonds. But delving deeper into Blood Magic and Evilcraft, can get quite expensive..... :-0
 
@@ -2729,7 +2731,7 @@ ddss.quest.499.10.desc=Blank Slates are a crafting ingredient in Blood Magic tha
 
 §2- 2x Blank Slates
 ddss.quest.500.10.name=Water Reagent
-ddss.quest.500.10.desc=Reagents are used to craft Sigils and ohther important Suff. Only craftable in the Hellfire Forge. Lets tart with the Water Reagent.
+ddss.quest.500.10.desc=Reagents are used to craft Sigils and ohther important Suff. Only craftable in the Hellfire Forge. Lets start with the Water Reagent.
 
 §2- 1x Water Reagent
 ddss.quest.501.10.name=Divination Sigil
@@ -2826,7 +2828,7 @@ ddss.quest.524.10.desc=Your Altar is more than just a single block. Well, okay, 
 
 §2- 8x Blank Runes
 ddss.quest.525.10.name=Dark Magic Dust
-ddss.quest.525.10.desc=Dark Magic Dust is very Powerfull.... But what's the point?
+ddss.quest.525.10.desc=Dark Magic Dust is very Powerful.... But what's the point?
 In time, you'll have a better understanding for this ;-)
 
 §1§9§lUpon completion of this quest you will unlock the chapter: "Black Magic [Tier 2]"
@@ -2892,7 +2894,7 @@ ddss.quest.539.10.desc=Bowl of Promises are used to craft the first Tier of Upgr
 
 §2- 1x Bowl of Promises
 ddss.quest.540.10.name=Dark Sticks
-ddss.quest.540.10.desc=Use Undead Planks and a Dark Gem to craftf some Dark Sticks.
+ddss.quest.540.10.desc=Use Undead Planks and a Dark Gem to craft some Dark Sticks.
 
 §2- 4x Dark Sticks
 ddss.quest.541.10.name=Vengeance Pickaxe!
@@ -2912,7 +2914,7 @@ ddss.quest.544.10.desc=Put Mossy Cobblestone in the Blood Infuser to obtain Bloo
 
 §2- 2x Bloody Cobblestone
 ddss.quest.545.10.name=Blood Potash
-ddss.quest.545.10.desc=Blood Potash double your Bonemal efficiency!
+ddss.quest.545.10.desc=Blood Potash double your Bonemeal efficiency!
 
 §2- 4x Blood Potash
 ddss.quest.546.10.name=Blood Waxed Coal
@@ -3121,7 +3123,7 @@ ddss.quest.583.10.desc=The Energy Laser Relay will wirelessly transmit RF/FE to 
 
 §2- 2x Energy Laser Relay
 ddss.quest.584.10.name=Solar panel T2
-ddss.quest.584.10.desc=The Solar panel T2 is the next Tier in the Solar Flux Reborn Series. It is used to generate 8 RF/FE/t when reciving light. 
+ddss.quest.584.10.desc=The Solar panel T2 is the next Tier in the Solar Flux Reborn Series. It is used to generate 8 RF/FE/t when receiving light. 
 
 §a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
 
@@ -3147,7 +3149,7 @@ ddss.quest.589.10.desc=Exchangers are used to exchange (swap) blocks in the worl
 
 §2- 1x Wooden Exchanger
 ddss.quest.590.10.name=Basic bins!
-ddss.quest.590.10.desc=The Basic bin is a block that can stock a very significative quantity of a single item (up to 4,096). The items can either be put in manually, or automatically, by the logistical transporter. However, once in it, the items can't be retrivered manually. This block has two attachements points for logistical transporters, up and down. To work, it doesn't requires any type of power. And it shows the quantity of the item on the front, what is very useful.
+ddss.quest.590.10.desc=The Basic bin is a block that can stock a very significative quantity of a single item (up to 4,096). The items can either be put in manually, or automatically, by the logistical transporter. This block has two attachements points for logistical transporters, up and down. To work, it doesn't requires any type of power. And it shows the quantity of the item on the front, what is very useful.
 
 §2- 1x Basic bin
 ddss.quest.591.10.name=Finally Refined Storage!
@@ -3190,10 +3192,10 @@ ddss.quest.600.10.desc=The Empowerer is a mid-tier block that can be used to emp
 §a§2- 1x Empowerer
 
 
-ddss.quest.601.10.name=Advancet Circuits!
-ddss.quest.601.10.desc=The Advanced Circuit is used in a variety of mid and high tier crafting recipies such as the Empowerer and the Quantum Compressor!
+ddss.quest.601.10.name=Advanced Circuits!
+ddss.quest.601.10.desc=The Advanced Circuit is used in a variety of mid and high tier crafting recipes such as the Empowerer and the Carpenter!
 
-§aIf you don't know how to create Steel, look into the following chapter: "Ores, Alloys & Smeltery T1" or you have to consider other options like platnium or terrasteel.
+§aIf you don't know how to create Steel, look into the following chapter: "Ores, Alloys & Smeltery T1" or you have to consider other options like platinum or terrasteel.
 
 §a§2- 1x Advancet Circuit
 
@@ -3307,7 +3309,7 @@ ddss.quest.622.10.desc=Need Leather? Buy some.
 ddss.quest.623.10.name=More Efficiency! #2
 ddss.quest.623.10.desc=Cutting Planks with a handsaw, increases the ouptut of sticks! (+100%)
 
-§1§2- 10x Wooden Sticks (Any Sticks)
+§1§2- 12x Wooden Sticks (Any Sticks)
 ddss.quest.624.10.name=Ranged Weapons!
 ddss.quest.624.10.desc=Bows can be drawn back by using it. In order to use the bow, you must have at least one arrow in your inventory.
 
@@ -3382,7 +3384,7 @@ Check JEI for more Fluid Infos.
 ddss.quest.636.10.name=Numismatic Dynamo!
 ddss.quest.636.10.desc=Finally you can use your Reward Coins to create some Energy!
 
-§a§2- 1x Numismatic Danamo
+§a§2- 1x Numismatic Dynamo
 
 
 ddss.quest.637.10.name=Celery!
@@ -3418,7 +3420,7 @@ ddss.quest.641.10.desc=Celery is used in weight-loss diets, where it provides lo
 
 §1§2- 5x Celery Soup
 ddss.quest.642.10.name=Drinking Glass
-ddss.quest.642.10.desc=Drinking Glasses are used mainly fors Smoothies.
+ddss.quest.642.10.desc=Drinking Glasses are used mainly for Smoothies.
 
 §1§2- 3x Drinking Glass
 ddss.quest.643.10.name=Smoothies!
@@ -3431,7 +3433,7 @@ ddss.quest.644.10.desc=The Herbs and Flowers that grow wild around the grounds a
 §1§2- 1x Poppy
 - 1x Dandelion
 ddss.quest.645.10.name=Magic Compound
-ddss.quest.645.10.desc=Mix Flowers, Magic Apatite and water to obtain Magic Compound. It is used to brew magical potions and also for the Toxic Mixture. (You can also use mushrooms ore spices instead of flowers)
+ddss.quest.645.10.desc=Mix Flowers, Magic Apatite and water to obtain Magic Compound. It is used to brew magical potions and also for the Toxic Mixture. (You can also use mushrooms or spices instead of flowers)
 
 §1§2- 2x Magic Compound
 ddss.quest.646.10.name=Alchemic Condenser
@@ -3569,7 +3571,7 @@ ddss.quest.674.10.desc=The Advanced Bin is a storage block which can hold 8192 o
 §a§2- 1x Advanced Bin
 
 ddss.quest.675.10.name=Data Storage Circuit!
-ddss.quest.675.10.desc=The Data Storage Circuit is a component used in the crafting for Elite, Ultimate and Ultra Ultimate Circuits. It is also used in a few machines.
+ddss.quest.675.10.desc=The Data Storage Circuit is a component used in the crafting for data orbs and ultimate circuits. But it is mainly used in a few machines.
 
 §a§2- 1x Data Storage Circuit
 
@@ -3648,7 +3650,7 @@ ddss.quest.694.10.desc=Shibuichi is an historically Japanese copper alloy. Shibu
 
 §2- 10 Shibuichi Ingots
 ddss.quest.695.10.name=Signalum
-ddss.quest.695.10.desc=Signalum is an alloy used in the crafting of many various items, including the Plate Frame and the Flux-Plated Fluiduct. Signalum can be made by mixing Shibuichi Alloy with Destabilized Redstone in a Alloy Smelter / Induction Smelter.
+ddss.quest.695.10.desc=Signalum is an alloy used in the crafting of many various items, including the Plate Frame and the Flux-Plated Fluiduct. Signalum can be made by mixing Constantan with Destabilized Redstone.
 
 §2- 20 Signalum Ingots
 ddss.quest.696.10.name=Tiberium! [Danger!]
@@ -3664,7 +3666,7 @@ ddss.quest.697.10.desc=When you find a lot of sand, dilithium propably is not fa
 
 §2- 8 Dilithium Crystals
 ddss.quest.698.10.name=Triberium
-ddss.quest.698.10.desc=Triberium is uesed mainly for more advanced alloys. Triberium can be made by mixing Tiberium with Basalt or Dilithium. 
+ddss.quest.698.10.desc=Triberium is used mainly for more advanced alloys. It can be made by mixing Tiberium with Basalt or Dilithium. 
 
 §4§3§2§6§7§6§9§a§lNOTE: This is one of 3 Alloys which are needed for creating Dyonite used to reach mining-level Duranite! And you've got quite a long way to go....
 
@@ -3758,13 +3760,13 @@ ddss.quest.711.10.desc=Need Floral Fertilizer? Buy some.
 ddss.quest.712.10.name=Mystical Fertilizer
 ddss.quest.712.10.desc=Need Mystical Fertilizer? Buy some.
 ddss.quest.713.10.name=Emergency Torch
-ddss.quest.713.10.desc=Yes, this is only for emergencys.
+ddss.quest.713.10.desc=Yes, this is only for emergencies.
 ddss.quest.714.10.name=Emergency Burger
-ddss.quest.714.10.desc=Yes, this is only for emergencys.
+ddss.quest.714.10.desc=Yes, this is only for emergencies.
 ddss.quest.715.10.name=Emergency Sword
-ddss.quest.715.10.desc=Yes, this is only for emergencys.
+ddss.quest.715.10.desc=Yes, this is only for emergencies.
 ddss.quest.716.10.name=Emergency Pickaxe
-ddss.quest.716.10.desc=Yes, this is only for emergencys.
+ddss.quest.716.10.desc=Yes, this is only for emergencies.
 ddss.quest.717.10.name=Eezo
 ddss.quest.717.10.desc=Sometimes the world is exposed to solar storms and strong magnetism, which particularly affects the void: it begins to oscillate. Sometimes single peaks reach bedrock and fuse to this rare element: Eezo ore.
 
@@ -3817,7 +3819,7 @@ ddss.quest.726.10.name=Dyonite!
 ddss.quest.726.10.desc=Finally Dyonite! Mix Triberium, Seismium, Fractum and Osram in a smeltery to obtain Dyonite.
 
 
-§2- 1x Dyonite Ingot
+§2- 3x Dyonite Ingot
 ddss.quest.727.10.name=Dyonite Pickaxe!
 ddss.quest.727.10.desc=This material has mining level Duranite and allows you to mine new stronger ores! It's time for the next Upgrade.
 
@@ -3841,6 +3843,7 @@ ddss.quest.730.10.desc=Palladium is a crystalline ore found in the end. Its glow
 ddss.quest.731.10.name=Prometheum Ore
 ddss.quest.731.10.desc=Some scientists believe that prometheum ore emerges naturally, caused by heavy pressure and heat it has to absorb in the depth of the nether. It is kind of glowing and has a radioactive decay.
 
+§4§2§1§a§oHint: Very rare Nether ore between layers Y 5 - 25
 
 §2- 5x Prometheum Ore
 ddss.quest.732.10.name=Niob Alloy
@@ -3870,13 +3873,16 @@ ddss.quest.735.10.desc=This material has mining level Valyrium :0 and allows you
 
 §2- 1x Nucelum Pickaxe Head
 ddss.quest.736.10.name=Uru Ore
-ddss.quest.736.10.desc=Legends say, that just the gods were able to melt down uru ore. They say they have forged mystical weapons out of uru. Mjolnir has been one of them. Uru is found inside of floating obsidiorite cuboids.
+ddss.quest.736.10.desc=Legends say, that just the gods were able to melt down uru ore. They say they have forged mystical weapons out of uru. Mjolnir has been one of them. 
+
+§e§oHint: Uru is found in the End inside of floating obsidiorite cuboids.
 
 
 §2- 5x Uru Ore
 ddss.quest.737.10.name=Valyrium Ore
 ddss.quest.737.10.desc=The old valyrian people were the first to discover this unique kind of metal which they called valyrium. It is very rare and hard to find in the surroundings of the nether.
 
+§4§2§1§a§oHint: Very rare Nether ore between layers Y 10 - 35
 
 §2- 2x Valyrium Ore
 ddss.quest.738.10.name=Solarium Alloy
@@ -3934,7 +3940,7 @@ ddss.quest.748.10.desc=Tin - Silver Alloy is used mainly to craft Lumium. The ra
 
 §2- 10x Tin Silver Alloy
 ddss.quest.749.10.name=Hard Carbon Alloy
-ddss.quest.749.10.desc=Hard Carbon Alloy is made by blending two Graphite Ingots and Crushed Diamond in an Alloy Furnace. It can also be craftet in a smeltery with Liquifactet Coal and molten Diamond.
+ddss.quest.749.10.desc=Hard Carbon Alloy is made by blending two Graphite Ingots and Crushed Diamond in an Alloy Furnace. It can also be crafted in a smeltery with Liquifactet Coal and molten Diamond.
 
 §2- 10x Hard Carbon Ingots
 ddss.quest.750.10.name=Lead - Platin Alloy
@@ -3942,14 +3948,14 @@ ddss.quest.750.10.desc=Lead - Platin Alloy is used mainly to craft Enderium. The
 
 §2- 10x Lead Platin Alloy
 ddss.quest.751.10.name=T4 Solar Panel
-ddss.quest.751.10.desc=The Solar panel T4 is the next Tier in the Solar Flux Reborn Series. It is used to generate 128 RF/FE/t when reciving light. 
+ddss.quest.751.10.desc=The Solar panel T4 is the next Tier in the Solar Flux Reborn Series. It is used to generate 128 RF/FE/t when receiving light. 
 
 §a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
 
 §a§2- 1x Solar panel T4
 
 ddss.quest.752.10.name=Solar panel T3
-ddss.quest.752.10.desc=The Solar panel T3 is the next Tier in the Solar Flux Reborn Series. It is used to generate 32 RF/FE/t when reciving light. 
+ddss.quest.752.10.desc=The Solar panel T3 is the next Tier in the Solar Flux Reborn Series. It is used to generate 32 RF/FE/t when receiving light. 
 
 §a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
 
@@ -4080,11 +4086,11 @@ ddss.quest.783.10.name=Potion Shelf!
 ddss.quest.783.10.desc=The potion shelf is designed to hold up to 12 potions or other related type items from mods. It can be used with or without a GUI. The potion shelf also comes in the 6 different vanilla woods.
 
 
-§a§2- 1x Potion Shelf (Oak)
+§a§2- 1x Potion Shelf (Any Material)
 
 
 ddss.quest.784.10.name=Satchel?
-ddss.quest.784.10.desc=A satchel is able to automatically store items picked up by its user. This is called auto-collect. Auto-collect can be enabled and disabled by pressing “Cycle Item Mode” (V by default) while holding the satchel. 
+ddss.quest.784.10.desc=A satchel is able to automatically store items picked up by its user. This is called auto-collect. Auto-collect can be enabled and disabled by pressing “Keybind --> Cycle Item Mode” while holding the satchel. 
 
 It can be configured to only auto-collect items that match a given list of items. This can be done by using the satchel while sneaking. It has various options that determine how this list is used to match items.
 
@@ -4099,7 +4105,7 @@ ddss.quest.786.10.desc=This unique tool is used to convert underground biomes st
 
 §a§oHint: This process must be performed in a workbench.
 
-§1§2- 1x Copper Artisan Chisel
+§1§2- 1x Artisan Chisel (Any Material)
 
 ddss.quest.787.10.name=Vanilla Cobblestone
 ddss.quest.787.10.desc=Use your chisel to convert any kind of cobblestone to vanilla cobblestone.
@@ -4130,7 +4136,9 @@ ddss.quest.791.10.desc=The Diamond Hook can travel to its maximum range of 24 bl
 
 
 ddss.quest.792.10.name=Wrench!
-ddss.quest.792.10.desc=Beware when breaking Tech Reborn machines, as most of them you will need to use a Wrench to ensure that you get the original machine back. If you do not use a Wrench you may only get a Standard Machine Casing back. You have been warned!
+ddss.quest.792.10.desc=Beware when breaking Tech Reborn machines, as most of them you will need to use a Wrench to ensure that you get the original machine back. 
+
+§c§lIf you do not use a Wrench you may only get a Standard Machine Casing back. You have been warned!
 
 
 §a§2- 1x Wrench (Tech Reborn)
@@ -4416,7 +4424,7 @@ When defeated, the Barakoa will sometimes drop their masks as items that the pla
 
 Barakoa can also be found in villages scattered across the savanna plain.
 
-§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Barakoana
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Barakoa
 ddss.quest.853.10.name=Enderman Hunter
 ddss.quest.853.10.desc=Kill them all, and you're a god.
 
@@ -4487,7 +4495,7 @@ ddss.quest.867.10.desc=Grassoline is a fluid obtained by processing biocrude in 
 §a§2- 1x Grassoline Cell
 
 ddss.quest.868.10.name=Solar panel T5
-ddss.quest.868.10.desc=The Solar panel T5 is the next Tier in the Solar Flux Reborn Series. It is used to generate 512 RF/FE/t when reciving light. A Rune of Summer from Botania is required to craft this solar panel!
+ddss.quest.868.10.desc=The Solar panel T5 is the next Tier in the Solar Flux Reborn Series. It is used to generate 512 RF/FE/t when receiving light. A Rune of Summer from Botania is required to craft this solar panel!
 
 §a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
 
@@ -4542,10 +4550,10 @@ ddss.quest.879.10.name=Water Coolers
 ddss.quest.879.10.desc=Water Coolers are able to cool down 60 H/t	. Must touch at least one Reactor Cell or active moderator block.
 Redstone Coolers are able to cool down 90 H/t	. Must touch at least one Reactor Cell.
 
-§a§oFor your first Fission reactor with 2 reactor cells and 1 moderator block you need at least 2 water coolers and 4 redstone coolers to prevent meltdown! 2 Redsotne Cooler you will get as a present =)
+§a§oFor your first Fission reactor with 2 reactor cells and 1 moderator block you need at least 2 water coolers and 4 redstone coolers to prevent meltdown! 2 Redstone Cooler you will get as a present =)
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 2x Water Cooler
-- 2x Redsotne Cooler
+- 2x Redstone Cooler
 ddss.quest.880.10.name=Fission Reactor Port
 ddss.quest.880.10.desc=The Fission Reactor Port is placed in the walls of a Fission Reactor frame. (Not i the top or bottom side!) If a block is attached to the reactor structure, than its inventory and stored energy can be accessed by automation through this block.
 
@@ -4591,7 +4599,7 @@ ddss.quest.885.10.desc=Vanadium has several uses. Coolant parts, alloys, dragon 
 §2
 
 ddss.quest.886.10.name=Ovium
-ddss.quest.886.10.desc=Ovium is one of the three etherical ores. You can find it in natural veins. You can get ovium as an alternative through a galena - vanadium alloy. This is a very heat resistant metal and can be used for progressive cooling mechanisms.
+ddss.quest.886.10.desc=Ovium is one of the three etherical ores. You can find it in natural DIORITE veins. You can get ovium as an alternative through a galena - vanadium alloy. This is a very heat resistant metal and can be used for progressive cooling mechanisms.
 
 §2- 6x Ovium Ingots
 §2
@@ -4760,7 +4768,7 @@ ddss.quest.914.10.desc=The very first basic element do decompose is cellulose. T
 ddss.quest.915.10.name=Find Kirby ;-(
 ddss.quest.915.10.desc=Help! I've been kidnapped! I'm in a chest in the middle of nowhere! Pls help me :(
 
-§a§oWell, according to ancient legends... Kirby is find in chests near Astral Sorcery Shrines!
+§a§oWell, according to ancient legends... Kirby is found in chests near Astral Sorcery Shrines!
 
 §1§2- Find 1x Kirby Plushie in a Dungeon Chest
 
@@ -4794,7 +4802,7 @@ ddss.quest.922.10.desc=Use the chemical dissolver to produce Phosphorus. The mos
 
 §a§2- 8x Phosphorus (P)
 ddss.quest.923.10.name=Industrial Blast Furnace!
-ddss.quest.923.10.desc=The Indutrial Blast furnace is a multi-block machine used to smelt tough metals and can produce Steel very fast! It has an input rate of 512 FE/tick and an internal buffer for 40.000 FE. The smelting abilities depends on the casings used for the multi-block. This ist only the core component!
+ddss.quest.923.10.desc=The Indsutrial Blast furnace is a multi-block machine used to smelt tough metals and can produce Steel very fast! It has an input rate of 512 FE/tick and an internal buffer for 40.000 FE. The smelting abilities depends on the casings used for the multi-block. This ist only the core component!
 
 §6§5§7§8§9§a§b§c§f§k§l§r§a§lUse a wrench to dismantle this machine!
 
@@ -4908,7 +4916,7 @@ ddss.quest.943.10.desc=An athame is a ceremonial blade, generally with a black h
 
 
 ddss.quest.944.10.name=Resonating Gems!
-ddss.quest.944.10.desc=The Resonating Gem is mainly used in crafting of end-game items and blocks in Astral Sorcery.
+ddss.quest.944.10.desc=The Resonating Gem is mainly used in crafting of end-game items and blocks in Astral Sorcery. The only way to craft these is to use the Blast Furnace.
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 2x Resonating Gem
 ddss.quest.945.10.name=Compressed Air
@@ -5010,7 +5018,7 @@ ddss.quest.974.10.name=Mining Dynamite!
 ddss.quest.974.10.desc=This creates a powerful explosion that does not hurt players or mobs. It does break blocks, but unlike regular explosions no blocks are lost, so it acts like mining.
 
 
-§2- 4x Combat Dynamite
+§2- 4x Mining Dynamite
 ddss.quest.975.10.name=Fence Defense T1
 ddss.quest.975.10.desc=This fence hurts all mobs that come into contact with it. The better the fence (T1-T5), the more damage it deals and the more resistant it becomes against explosions.
 
@@ -5023,7 +5031,7 @@ ddss.quest.976.10.desc=This (fancy!) wall has no special functions except to be 
 §a§oThey are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
 
 §2- 6x Hardened Wall T1
-ddss.quest.977.10.name=Storage Drawer Diamond Upgrade!
+ddss.quest.977.10.name=Storage Drawer Void Upgrade!
 ddss.quest.977.10.desc=The Void upgrade is an upgrade added by Storage Drawers. This item will turn the drawer into a void drawer, voiding any items coming in once it's full. 
 
 
@@ -5037,9 +5045,9 @@ ddss.quest.978.10.desc=Every turret hast to stay on a turret base block. This is
 
 §2- 2x Turret Base T1
 ddss.quest.979.10.name=Disposible Item Turret T1
-ddss.quest.979.10.desc=Disposible Item Turrets needs earth or sand as ammunition. The damage is small but it can help.
+ddss.quest.979.10.desc=Disposible Item Turrets need planks or vanilla cobblestone as ammunition. The damage is small but it can help.
 
-§E§oEvery turret needs energy. If you're not ready yet, I recommend unlocking first "Tier 1 - Main Questline"
+§E§oEvery turret need energy. If you're not ready yet, I recommend unlocking first "Tier 1 - Main Questline"
 
 §2- 2x Disposible Item Turrets
 ddss.quest.980.10.name=Hardened Blocks T2
@@ -5112,7 +5120,7 @@ ddss.quest.992.10.desc=The incendiary turret need blazing clay as ammunition. He
 
 
 §2- 1x Incendiary Turret 
-ddss.quest.993.10.name=Bullets!
+ddss.quest.993.10.name=Blazing Clay!
 ddss.quest.993.10.desc=Craft blazing clay for your incendiary turret.
 
 
@@ -5128,7 +5136,7 @@ ddss.quest.995.10.desc=Titanium is used in a large variety of recipes. Put titan
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 8x Titanium Ingots
 ddss.quest.996.10.name=Solar Panel T7
-ddss.quest.996.10.desc=The Solar panel T7 is very strong. It is used to generate 8192 RF/FE/t when reciving light. 
+ddss.quest.996.10.desc=The Solar panel T7 is very strong. It is used to generate 8192 RF/FE/t when receiving light. 
 
 §a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
 
@@ -5146,53 +5154,53 @@ ddss.quest.999.10.desc=Kill them all, and you're a god.
 
 §4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Pirates
 ddss.quest.1000.10.name=Inferium Seeds T4
-ddss.quest.1000.10.desc=The Inferium Seeds (Tier 4) can be craftet with Superium Essences. The plant drops 4 Inferium Essences!
+ddss.quest.1000.10.desc=The Inferium Seeds (Tier 4) can be crafted with Superium Essences. The plant drops 4 Inferium Essences!
 
 §2- 3x Inferium Seeds Tier 4
 ddss.quest.1001.10.name=Crafting Seeds T4
 ddss.quest.1001.10.desc=T4 Crafting Seeds are much more powerfull then T3 and can be used in many important recipes.
 
 §2- 4x Crafting Seeds T4
-ddss.quest.1002.10.name=Gold Seeds
-ddss.quest.1002.10.desc=Craft a few Gold Seeds.
+ddss.quest.1002.10.name=Ruby Seeds
+ddss.quest.1002.10.desc=Craft a few Ruby Seeds.
 
-§2- 4x Gold Seeds
-ddss.quest.1003.10.name=Gold Essence
-ddss.quest.1003.10.desc=After harvesting a fully grown plant of Gold Seeds, you get Gold Essences.
+§2- 2x Ruby Seeds
+ddss.quest.1003.10.name=Ruby Essence
+ddss.quest.1003.10.desc=After harvesting a fully grown plant of Ruby Seeds, you get Ruby Essences.
 
-§2- 30x Gold Essence
-ddss.quest.1004.10.name=Gold Ingots
-ddss.quest.1004.10.desc=Gold Essences can only be used to craft Gold Ingots.
+§2- 30x Ruby Essence
+ddss.quest.1004.10.name=Rubys
+ddss.quest.1004.10.desc=Ruby Essences can only be used to craft Rubys.
 
-§2- 64x Gold Ingots
+§2- 64x Ruby
 ddss.quest.1005.10.name=Blaze Seeds
 ddss.quest.1005.10.desc=Craft a few Blaze Seeds.
 
-§2- 4x Blaze Seeds
-ddss.quest.1006.10.name=Lapis Seeds
-ddss.quest.1006.10.desc=Craft a few Lapis Seeds.
+§2- 2x Blaze Seeds
+ddss.quest.1006.10.name=Boron Seeds
+ddss.quest.1006.10.desc=Craft a few Boron Seeds.
 
-§2- 4x Lapis Seeds
+§2- 2x Boron Seeds
 ddss.quest.1007.10.name=Blaze Essence
 ddss.quest.1007.10.desc=After harvesting a fully grown plant of Blaze Seeds, you get Blaze Essences.
 
 §2- 30x Blaze Essence
-ddss.quest.1008.10.name=Lapis Essence
-ddss.quest.1008.10.desc=After harvesting a fully grown plant of Lapis Seeds, you get Lapis Essences.
+ddss.quest.1008.10.name=Boron Essence
+ddss.quest.1008.10.desc=After harvesting a fully grown plant of Boron Seeds, you get Boron Essences.
 
-§2- 30x Lapis Essence
+§2- 30x Boron Essence
 ddss.quest.1009.10.name=Blaze Rods
 ddss.quest.1009.10.desc=Blaze Essences can be used to craft Blaze Rods.
 
 §2- 40x Blaze Rods
-ddss.quest.1010.10.name=Lapisplazuli
-ddss.quest.1010.10.desc=Lapis Essences can only be used to craft Lapislazuli gems.
+ddss.quest.1010.10.name=Boron Ingots
+ddss.quest.1010.10.desc=Boron Essences can only be used to craft Boron Ingots.
 
-§2- 64x Lapis
+§2- 64x Boron Ingots.
 ddss.quest.1011.10.name=Aluminum Seeds
 ddss.quest.1011.10.desc=Craft a few Aluminum Seeds.
 
-§2- 4x Aluminum Seeds
+§2- 2x Aluminum Seeds
 ddss.quest.1012.10.name=Aluminum Essence
 ddss.quest.1012.10.desc=After harvesting a fully grown plant of Aluminum Seeds, you get Aluminum Essences.
 
@@ -5204,7 +5212,7 @@ ddss.quest.1013.10.desc=Aluminum Essences can be used to craft Aluminum Ingots.
 ddss.quest.1014.10.name=Steel Seeds
 ddss.quest.1014.10.desc=Craft a few Steel Seeds.
 
-§2- 4x Steel Seeds
+§2- 2x Steel Seeds
 ddss.quest.1015.10.name=Steel Essence
 ddss.quest.1015.10.desc=After harvesting a fully grown plant of Steel Seeds, you get Steel Essences.
 
@@ -5214,21 +5222,21 @@ ddss.quest.1016.10.desc=Steel Essences can only be used to craft Steel Ingots.
 
 §2- 64x Steel Ingots
 ddss.quest.1017.10.name=Special infused Iron Seeds
-ddss.quest.1017.10.desc=Craft a few Sepcial Infused Iron Seeds.
+ddss.quest.1017.10.desc=Craft a few Special Infused Iron Seeds.
 
-§2- 4x Sepcial Infused Iron Seeds
-ddss.quest.1018.10.name=Sepcial Infused Iron Essences
-ddss.quest.1018.10.desc=After harvesting a fully grown plant of Sepcial Infused Iron Seeds, you get Sepcial Infused Iron Essences.
+§2- 2x Special Infused Iron Seeds
+ddss.quest.1018.10.name=Special Infused Iron Essences
+ddss.quest.1018.10.desc=After harvesting a fully grown plant of Special Infused Iron Seeds, you get Special Infused Iron Essences.
 
-§2- 30x Sepcial Infused Iron Essences
-ddss.quest.1019.10.name=Sepcial Infused Iron Ingots
-ddss.quest.1019.10.desc=Sepcial Infused Iron Essences can only be used to craft Sepcial Infused Iron ingots.
+§2- 30x Special Infused Iron Essences
+ddss.quest.1019.10.name=Special Infused Iron Ingots
+ddss.quest.1019.10.desc=Special Infused Iron Essences can only be used to craft Special Infused Iron ingots.
 
-§2- 64x Sepcial Infused Iron Ingots
+§2- 64x Special Infused Iron Ingots
 ddss.quest.1020.10.name=End Seeds
 ddss.quest.1020.10.desc=Craft a few End Seeds.
 
-§2- 4x End Seeds
+§2- 2x End Seeds
 ddss.quest.1021.10.name=End Essence
 ddss.quest.1021.10.desc=After harvesting a fully grown plant of End Seeds, you get End Essences.
 
@@ -5237,22 +5245,22 @@ ddss.quest.1022.10.name=Endstone
 ddss.quest.1022.10.desc=End Essences can be used to craft Endstone and Purpur blocks.
 
 §2- 64x Endstone
-ddss.quest.1023.10.name=Invar Seeds
-ddss.quest.1023.10.desc=Craft a few Invar Seeds.
+ddss.quest.1023.10.name=Mithril Seeds
+ddss.quest.1023.10.desc=Craft a few Mithril Seeds.
 
-§2- 4x Invar Seeds
-ddss.quest.1024.10.name=Invar Essences
-ddss.quest.1024.10.desc=After harvesting a fully grown plant of Invar Seeds, you get Invar Essences.
+§2- 2x Mithril Seeds
+ddss.quest.1024.10.name=Mithril Essences
+ddss.quest.1024.10.desc=After harvesting a fully grown plant of Mithril Seeds, you get Mithril Essences.
 
-§2- 30x Invar Essences
-ddss.quest.1025.10.name=Invar Ingots
-ddss.quest.1025.10.desc=Invar Essences can only be used to craft Invar ingots.
+§2- 30x Mithril Essence
+ddss.quest.1025.10.name=Mana Infused Ingots
+ddss.quest.1025.10.desc=Mithril essence can only be used to craft Mana Infused ingots.
 
-§2- 64x Invar Ingots
+§2- 64x Mana Infused Ingots
 ddss.quest.1026.10.name=Alumite Seeds
 ddss.quest.1026.10.desc=Craft a few Alumite Seeds.
 
-§2- 4x Alumite Seeds
+§2- 2x Alumite Seeds
 ddss.quest.1027.10.name=Alumite Essence
 ddss.quest.1027.10.desc=After harvesting a fully grown plant of Alumite Seeds, you get AlumiteEssences.
 
@@ -5285,13 +5293,13 @@ ddss.quest.1033.10.desc=T5 Crafting Seeds are much more powerfull then T4 and ca
 
 §2- 4x Crafting Seeds T5
 ddss.quest.1034.10.name=Inferium Seeds T5
-ddss.quest.1034.10.desc=The Inferium Seeds (Tier 5) can be craftet with Supremium Essences. The plant drops 5 Inferium Essences!
+ddss.quest.1034.10.desc=The Inferium Seeds (Tier 5) can be crafted with Supremium Essences. The plant drops 5 Inferium Essences!
 
 §2- 3x Inferium Seeds Tier 5
 ddss.quest.1035.10.name=Aquamarine Seeds
 ddss.quest.1035.10.desc=Craft a few Aquamarine Seeds.
 
-§2- 4x Aquamarine Seeds
+§2- 2x Aquamarine Seeds
 ddss.quest.1036.10.name=Aquamarine Essence
 ddss.quest.1036.10.desc=After harvesting a fully grown plant of Aquamarine Seeds, you get Aquamarine Essences.
 
@@ -5359,9 +5367,9 @@ ddss.quest.1048.10.desc=Step 6: Melt boron and Arsenic dust in the melter.
 - 1x Molten Boron Cell
 
 ddss.quest.1049.10.name=Boron - Aresenic Mix #Step7
-ddss.quest.1049.10.desc=Step 7: Put both liquids in the chemical reactor to obtain molten boron arsenic.
+ddss.quest.1049.10.desc=Step 7: Put both liquids in the chemical reactor to obtain molten boron arsenide.
 
-§a§2- 1x Molten Boron Aresinc Cell
+§a§2- 1x Molten Boron Arsenide Cell
 
 ddss.quest.1050.10.name=Ingot Former #Step8
 ddss.quest.1050.10.desc=Step 8: Craft an Ingot Former.
@@ -5369,11 +5377,11 @@ ddss.quest.1050.10.desc=Step 8: Craft an Ingot Former.
 §a§2- 1x Ingot Former
 
 ddss.quest.1051.10.name=Boron Arsenide Crystal #Step9
-ddss.quest.1051.10.desc=Step 9: Put molten boron-arsenic in the ingot former to craft some boron-arsenid crystals.
+ddss.quest.1051.10.desc=Step 9: Put molten boron-arsenic in the ingot former to craft some boron-arsenide crystals.
 
-§a§2- 3x Boron Arenide Crystal
+§a§2- 3x Boron Arsenide Crystal
 
-ddss.quest.1052.10.name=Exrtreme Alloy
+ddss.quest.1052.10.name=Extreme Alloy
 ddss.quest.1052.10.desc=Extreme Alloy is made by blending tough alloy and hard carbon alloy in a Alloy Furnace.
 
 §2- 4x Extreme Alloy
@@ -5391,6 +5399,7 @@ ddss.quest.1055.10.name=I R I D I U M!
 ddss.quest.1055.10.desc=Finally Iridium! Put thermoconducting alloy and essence of the gods in the fluid infuser to obtain IRIDIUM ingots!
 
 §3§9§lUpon completion of this quest you will unlock the chapters: "Tier 4 - Main Questline"
+
 §a§2- 1x Iridium Ingot
 
 ddss.quest.1056.10.name=Fluid infuser #Step12
@@ -5401,7 +5410,7 @@ ddss.quest.1056.10.desc=Step 12: Craft the Fluid Infuser.
 ddss.quest.1057.10.name=Uranium Seeds
 ddss.quest.1057.10.desc=Craft a few Uranium Seeds.
 
-§2- 4x Uranium Seeds
+§2- 2x Uranium Seeds
 ddss.quest.1058.10.name=Uranium Essence
 ddss.quest.1058.10.desc=After harvesting a fully grown plant of Uranium Seeds, you get Uranium Essences.
 
@@ -5421,11 +5430,11 @@ ddss.quest.1061.10.desc=Diamond Essences can be used to craft.... Diamond.
 ddss.quest.1062.10.name=Diamond Seeds
 ddss.quest.1062.10.desc=Craft a few Diamond Seeds.
 
-§2- 4x Diamond Seeds
+§2- 2x Diamond Seeds
 ddss.quest.1063.10.name=Emerald Seeds
 ddss.quest.1063.10.desc=Craft a few Emerald Seeds.
 
-§2- 4x Emerald Seeds
+§2- 2x Emerald Seeds
 ddss.quest.1064.10.name=Emerald Essence
 ddss.quest.1064.10.desc=After harvesting a fully grown plant of Emerald Seeds, you get Emerald Essences.
 
@@ -5437,7 +5446,7 @@ ddss.quest.1065.10.desc=Emerald Essences can be used to craft.... Emeralds...
 ddss.quest.1066.10.name=Starmetal Seeds
 ddss.quest.1066.10.desc=Craft a few Starmetal Seeds.
 
-§2- 4x Starmetal Seeds
+§2- 2x Starmetal Seeds
 ddss.quest.1067.10.name=Starmetal Essence
 ddss.quest.1067.10.desc=After harvesting a fully grown plant of Starmetal Seeds, you get Starmetal Essences.
 
@@ -5449,7 +5458,7 @@ ddss.quest.1068.10.desc=Starmetal Essences can be used to craft Starmetal Ingots
 ddss.quest.1069.10.name=Chrome Seeds
 ddss.quest.1069.10.desc=Craft a few Chrome Seeds.
 
-§2- 4x Chrome Seeds
+§2- 2x Chrome Seeds
 ddss.quest.1070.10.name=Chrome Essence
 ddss.quest.1070.10.desc=After harvesting a fully grown plant of Chrome Seeds, you get Chrome Essences.
 
@@ -5469,11 +5478,11 @@ ddss.quest.1073.10.desc=Manyullyn Essences can be used to craft Manyullyn Ingots
 ddss.quest.1074.10.name=Manyullyn Seeds
 ddss.quest.1074.10.desc=Craft a few Manyullyn Seeds.
 
-§2- 4x Manyullyn Seeds
+§2- 2x Manyullyn Seeds
 ddss.quest.1075.10.name=Terrasteel Seeds
 ddss.quest.1075.10.desc=Craft a few Terrasteel Seeds.
 
-§2- 4x Terrasteel Seeds
+§2- 2x Terrasteel Seeds
 ddss.quest.1076.10.name=Terrasteel Essence
 ddss.quest.1076.10.desc=After harvesting a fully grown plant of Terrasteel Seeds, you get Terrasteel Essences.
 
@@ -5485,7 +5494,7 @@ ddss.quest.1077.10.desc=Terrasteel Essences can be used to craft Terrasteel Ingo
 ddss.quest.1078.10.name=Refined Obsidian Seeds
 ddss.quest.1078.10.desc=Craft a few Refined Obsidian Seeds.
 
-§2- 4x Refined Obsidian Seeds
+§2- 2x Refined Obsidian Seeds
 ddss.quest.1079.10.name=Refined Obsidian Essence
 ddss.quest.1079.10.desc=After harvesting a fully grown plant of Refined Obsidian Seeds, you get Refined Obsidian Essences.
 
@@ -5549,7 +5558,7 @@ ddss.quest.1092.10.desc=The Iron Pot has a durability of 350.
 ddss.quest.1093.10.name=Diamond Juicer *.*
 ddss.quest.1093.10.desc=The Diamond Juicer has a durability of 1000.
 
-§1§2- 1x Dimaond Juicer
+§1§2- 1x Diamaond Juicer
 ddss.quest.1094.10.name=Diamond Pot!
 ddss.quest.1094.10.desc=The Diamond Pot has a durability of 1000!
 
@@ -5653,7 +5662,7 @@ ddss.quest.1115.10.desc=Buy some Veggie Baits.
 ddss.quest.1116.10.name=Fish Bait
 ddss.quest.1116.10.desc=Buy some Fish Baits.
 ddss.quest.1117.10.name=Hardened Block T3
-ddss.quest.1117.10.desc=The next Tier of hardened walls!
+ddss.quest.1117.10.desc=The next Tier of hardened blocks!
 
 §a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
 
@@ -5764,9 +5773,9 @@ ddss.quest.1135.10.desc=Demon metal is created by throwing Gold Ingots into a la
 §2
 
 ddss.quest.1136.10.name=Emergency Shovel
-ddss.quest.1136.10.desc=Yes, this is only for emergencys.
+ddss.quest.1136.10.desc=Yes, this is only for emergencies.
 ddss.quest.1137.10.name=Emergency Axe
-ddss.quest.1137.10.desc=Yes, this is only for emergencys.
+ddss.quest.1137.10.desc=Yes, this is only for emergencies.
 ddss.quest.1138.10.name=The Phantom Booster!
 ddss.quest.1138.10.desc=The Phantom Booster is used to increase the range of the Phantomface and the Vertical Digger, as well as other blocks. The range increase depends on the block in question, but usually only three Phantom Boosters can be used. They are placed on top of each other, on top of the now upgraded block.
 
@@ -5775,14 +5784,14 @@ ddss.quest.1138.10.desc=The Phantom Booster is used to increase the range of the
 ddss.quest.1139.10.name=Arc Furnace (Arc Recycler)!
 ddss.quest.1139.10.desc=The Arc Furnace is a 5x5x5 Multiblock machine. It is used to quickly smelt Ores, Grit and create Steel and other alloys, as well as to recycle tools and armor! 
 
-This great furnace can melt like anything except titanium, chrome and tungsteen. This has to be done in the Industrial Blust Furnace.
+This great furnace can melt like anything except titanium, chrome and tungsteen. This has to be done in the Industrial Blast Furnace.
 
 §a§21x Engineer's Blueprint (Arc Furnace Electrodes)
 
 §a§r§a§oIf you decide to build one I will guide you through the preparations with a questline. But you have to be aware that you need TONS of steel and other stuff for this giant machine!
 
 ddss.quest.1140.10.name=Light Engineering Block
-ddss.quest.1140.10.desc=First we need Light Engineereing Blocks, Redstone Engineereing Blocks and a cauldorn and graphite electrodes.
+ddss.quest.1140.10.desc=First we need Light Engineereing Blocks, Redstone Engineereing Blocks, a cauldorn and graphite electrodes.
 
 §a§2- 8x Light Engineereing Blocks
 §a§2- 1x Redstone Engineereing Blocks
@@ -5818,11 +5827,11 @@ The GUI is fairly simple. Putting the upgradable item/tool in the center slot op
 ddss.quest.1146.10.name=The Profiling Bench!
 ddss.quest.1146.10.desc=This is an automatic machine used to cast various metal and glass parts. 
 
-§a§oRight-clicking it with bare hands, will scroll through the used patterns, indicated by the label in front of it. 
-Left-clicking the machine with a valid ingredient will place it on the platform, remove it, or remove the casting resulting item. The machine can be automated for a continous work.
+§a§oLeft-clicking it with bare hands, will scroll through the used patterns, indicated by the label in front of it. 
+Right-clicking the machine with a valid ingredient will place it on the platform, remove it, or remove the casting resulting item. The machine can be automated for a continous work.
 
 §2- 1x Profiling Bench
-ddss.quest.1147.10.name=Phyto Gyro? What?
+ddss.quest.1147.10.name=Phyto Gro? What?
 ddss.quest.1147.10.desc=When used on blocks, Phyto-Gro grows plants like bone meal, but in a 3x3 area. It is the weakest of its kind, being surpassed by the rich and fluxed versions.
 
 
@@ -5847,7 +5856,7 @@ ddss.quest.1151.10.name=Astrium!
 ddss.quest.1151.10.desc=You can create Astrium by mixing Aurorium and Terrax in a smeltery. It is mainly used to craft T7 Solar Panels.
 
 §2- 5x Astrium Ingots
-ddss.quest.1152.10.name=Voilium!
+ddss.quest.1152.10.name=Violium!
 ddss.quest.1152.10.desc=You can create Violium by mixing Aurorium and Ardite in a smeltery. 
 
 
@@ -5857,7 +5866,7 @@ ddss.quest.1153.10.desc=The Alloy Kiln is a multi-block added by Immersive Engin
 
 §2- 8x Compressed Sand [1x compressed]
 §2- 8x Compressed Gravel [1x compressed]
-- 8x Nether Bricks
+- 8x Nether Bricks (Any)
 - 2x Bricks
 - 16x Sandstone
 - 8x Bronze Plate
@@ -5923,8 +5932,8 @@ ddss.quest.1163.10.desc=Craft some fluid pipes in the Engineer's workshop.
 ddss.quest.1164.10.name=Important materials!
 ddss.quest.1164.10.desc=Get the following items:
 
-§2- 1x Redstone Engineereing Blocks
-§2§a§2- 4x Light Engineereing Blocks
+§2- 1x Redstone Engineereing Block
+§2§a§2- 4x Light Engineereing Block
 §a§2- 4x Iron Sheetmetal
 ddss.quest.1165.10.name=Mixer!
 ddss.quest.1165.10.desc=You're wondering why you have to get all this?^^ 
@@ -5960,7 +5969,7 @@ ddss.quest.1169.10.desc=The Thermionic Fabricator is used to melt sand or glass 
 ddss.quest.1170.10.name=Magma Blocks
 ddss.quest.1170.10.desc=Magma blocks are light-emitting naturally-occurring blocks found in the Nether and the Overworld, which cause fire damage when stepped on. 
 
-§a§oHint: Magma blocks can also be craftet.
+§a§oHint: Magma blocks can also be crafted.
 
 §a§2- 5x Magma Blocks
 ddss.quest.1171.10.name=Liquid Magma!
@@ -5982,7 +5991,7 @@ ddss.quest.1174.10.desc=You probably already know this process. Nevertheless I s
 §a§2- 1x Liquid Crystalline Cell
 ddss.quest.1175.10.name=Yrdeen!
 ddss.quest.1175.10.desc=Remember when I said we needed concrete one day? Now the time has come. 
-Put liquid concrete, liquid crystaslline and nitroxite in a a smeltery to obtain yrdeen! 
+Put liquid concrete, liquid crystaslline and nitronite in a a smeltery to obtain molten yrdeen! 
 
 §a§oHint: Yrdeen is very important for advanced cooling cells!
 
@@ -6183,10 +6192,10 @@ ddss.quest.1220.10.desc=The Oxygen Mask is one part of the Oxygen System used to
 
 §a§2- 1x Oxygen Mask
 ddss.quest.1221.10.name=Ultimate Crafting Table
-ddss.quest.1221.10.desc=It's time to work on your rocket: First up, build the Ultimate Crafting Table!
+ddss.quest.1221.10.desc=It's time to work on your first rocket: First up, build the Ultimate Crafting Table!
 
 §a§2- 1x Ultimate Crafting Table
-ddss.quest.1222.10.name=Call of Duty Plating!
+ddss.quest.1222.10.name=Call of Duty Plates!
 ddss.quest.1222.10.desc=Heavy-Duty Plating is a component used in the creation of the Rocket Engine, Nose Cone, Rocket Fin and Spaceship. They cost TONS of resources...
 
 §a§2- 54x Heavy-Duty Plating
@@ -6231,6 +6240,644 @@ ddss.quest.1229.10.desc=Put your majestic dust in the centrifugal separator to o
 
 
 §a§2- 18x Majestium Elements
+ddss.quest.1230.10.name=Concentrated Compound
+ddss.quest.1230.10.desc=Concentrated Compound is mainly used to produce chemical compound.
+
+
+§a§2- 2x Concentrated Compound
+ddss.quest.1231.10.name=Concentrated Compound
+ddss.quest.1231.10.desc=Chemical Compound has many possible uses. The most important is the production of majestic ingots. Combine water, concentrated compound, energetic blend and a mana vial to obtain this mixture.
+
+
+§a§2- 4x Chemical Compound
+ddss.quest.1232.10.name=Sodium Hydroxid
+ddss.quest.1232.10.desc=Sodium hydroxide is a chemical with various uses. It can also be processed into other chemicals. Use the alchemical imbuer with water and salt to produce this liquid.
+
+§a§oHint: It is advisable to produce larger quantities of them. The production costs are low and the benefit for this chemical is quite large.
+
+§a§2- 2x Sodium Hydroxid Cells
+ddss.quest.1233.10.name=Majestic Ingots!
+ddss.quest.1233.10.desc=No doubt you know these ingots are very important. Now it's time to make them yourself. Use the Carpenter along with all the prepared components to craft a few majestic ingots.
+
+§a§2- 2x Majestic Ingots
+ddss.quest.1234.10.name=Ender Hook!
+ddss.quest.1234.10.desc=The Ender Hook has a range of 64 blocks, travels to its destination in 1 tick and pulls the player at a speed of 45 blocks per second, making it the fastest hook in minecraft!
+
+§a§2- 1x Ender Hook!
+ddss.quest.1235.10.name=Highly Advanced machine Frames
+ddss.quest.1235.10.desc=Highly Advanced Machine Frames are the highest tier of machine frames in Tech Reborn and are used to craft high end machines and parts.
+
+
+§a§2- 20x Highly Advanced machine Frames
+ddss.quest.1236.10.name=Nichrome Heating Coils
+ddss.quest.1236.10.desc=The Nichrome Heating Coil is used to upgrade the machine parts of the Industrial Blast Furnace. 
+
+
+§a§2- 40x Nichrome Heating Coils
+ddss.quest.1237.10.name=Expensive Plates
+ddss.quest.1237.10.desc=And now... you need a bunch of chrome and titanium plates. Yes.. this chapter is hard. Don't be mad. The Modpack creator only wants the best for you ;-)
+
+
+§a§2- 64x Chrome Plates
+- 64x Titanium Plates
+ddss.quest.1238.10.name=Obsidian Electron Tubes
+ddss.quest.1238.10.desc=Obsidian Electron Tubes are mainly used for TechReborn advanced machine casings.
+
+
+§a§2- 40x Obsidian Electron Tubes
+ddss.quest.1239.10.name=Advanced Machine Casing!
+ddss.quest.1239.10.desc=The Advanced Machine Casing is a component used in various advanced recipes. 
+
+§aExchange all casings of the blast furnace with the new ones to increase heat and power. Keep the old casings for later steps.
+§4§3§4§5§7§8§9§a§c§c§l
+!!!Don't forget to dismantle the casings only with a Wrench!!!
+
+
+§a§2- 30x Advanced Machine Casing
+ddss.quest.1240.10.name=Fishing Net
+ddss.quest.1240.10.desc=Buy some Fishing Nets.
+ddss.quest.1241.10.name=Basic Circuits
+ddss.quest.1241.10.desc=Buy some basic circuits!
+ddss.quest.1242.10.name=CPU Core B500
+ddss.quest.1242.10.desc=Buy some CPU Cores!
+ddss.quest.1243.10.name=Data Storage Circuits
+ddss.quest.1243.10.desc=Buy some data storage circuits!
+ddss.quest.1244.10.name=Transistors
+ddss.quest.1244.10.desc=Buy some transistors!
+ddss.quest.1245.10.name=Combat Dynamite
+ddss.quest.1245.10.desc=For hard days...
+ddss.quest.1246.10.name=Mining Dynamite!
+ddss.quest.1246.10.desc=Better than any pickaxe! Maybe...
+ddss.quest.1247.10.name=10k Coolant Cells
+ddss.quest.1247.10.desc=Need Coolant Cells? Buy some!
+ddss.quest.1248.10.name=Crushed Endstone!
+ddss.quest.1248.10.desc=It's time to get some endstone and crush it.
+
+
+§a§2- 64x Crushed Endstone
+ddss.quest.1249.10.name=Tungsten & Helium
+ddss.quest.1249.10.desc=With crushed endstone you can not only generate tungsten but also helium cells.
+
+§aHint: Of course you can just collect tungsten ore in the end, but if the ore is exhausted one day, you still have an alternative if you don't have a Mystical Acriculture farm. Helium will also become important. 
+
+
+§a§2- 4x Small Pile of Tungsten
+- 4x Helium Cell
+- 4x Helium 3 Cell
+ddss.quest.1250.10.name=Tungsten Ingots!
+ddss.quest.1250.10.desc=Put your tungsten dust in your upgraded blast Furnace to obtain ingots. One run requires a lot of energy...
+
+
+§a§2- 3x Tungsten Ingots
+ddss.quest.1251.10.name=Blizz Seeds
+ddss.quest.1251.10.desc=Craft a few Blizz Seeds.
+
+§2- 4x Blizz Seeds
+§2
+
+§2
+
+ddss.quest.1252.10.name=Blizz Essence!
+ddss.quest.1252.10.desc=After harvesting a fully grown plant of Blizz Seeds, you get Blizz Essences.
+
+§2- 8x Blizz Essence
+§2
+
+§2
+
+ddss.quest.1253.10.name=Blizz Rods
+ddss.quest.1253.10.desc=Blizz Essences can only be used to craft blizz rods.
+
+§2- 4x Blizz Rods
+§2
+
+§2
+
+ddss.quest.1254.10.name=Supercooler!
+ddss.quest.1254.10.desc=The Supercooler is used to chill gases and fluids to very low temperatures. It is mainly used to convert Helium into Liquid Helium and Water into Crushed Ice.
+
+
+§a§2- 1x Supercooler
+ddss.quest.1255.10.name=Crushed Ice!
+ddss.quest.1255.10.desc=Crushed ice has different uses. When placed in combustion engines, it lasts much longer as a coolant! But the most important thing is you need it to make cryotheum dust.
+
+§a§2- 2x Crushed ice Cells
+ddss.quest.1256.10.name=Transistor
+ddss.quest.1256.10.desc=The Transistor is a basic crafting component required to craft various electric and electronic blocks and items.
+
+§2- 4x Transistor
+ddss.quest.1257.10.name=Energy Cell
+ddss.quest.1257.10.desc=The Basic Energy Cell can store up to 1,000,000 RF/FE. It receives and transmits energy simultaneously (different sides) at a rate of up to 1,000 RF per tick.
+
+§a§oHint: This values can be significantly improved later with upgrade kits.
+
+§2- 1x Energy Cell Basic
+ddss.quest.1258.10.name=Liquid Crystalline
+ddss.quest.1258.10.desc=Need Liquid Crystalline? Buy some cells.
+ddss.quest.1259.10.name=Crushed Ice
+ddss.quest.1259.10.desc=Need Crushed Ice? Buy some cells.
+ddss.quest.1260.10.name=Blazing Juggernaut
+ddss.quest.1260.10.desc=Kill them all, and you're a god.
+
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 10x Blazing Juggernauts
+ddss.quest.1261.10.name=Alpha Yeti Hunter!
+ddss.quest.1261.10.desc=Kill a Alpha Yeti in the Twilight Forest!
+
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Alpha Yeti
+ddss.quest.1262.10.name=Wights
+ddss.quest.1262.10.desc=Wights are the husk that is left over when a corrupted player parishes in the Nether. Their attacks pack a freezing punch that leaves players unable to move for 15 seconds. It may seem like a long time but players do have a chance of thawing before the 15 seconds are up.
+
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 5x Wights
+ddss.quest.1263.10.name=Cryotheum Dust!
+ddss.quest.1263.10.desc=Cryotheum Dust is mainly used to create Gelid Cryotheum. It is also used to create various upgrades.
+
+§a§2- 8x Cryotheum Dust
+ddss.quest.1264.10.name=Cryotheum Cooler
+ddss.quest.1264.10.desc=The Cryotheum Cooler is placed inside your Nuclearcraft - Fission Reactor reaction chamber and provides cooling. It's the best passive cooling you can get!
+
+§a§2- 1x Cryotheum Cooler
+ddss.quest.1265.10.name=Gelid Cryotheum!
+ddss.quest.1265.10.desc=Put cryotheum dust in a magma crucible / melter to obtain gelid cryotheum. It is an extremely cold lava-like fluid. It can be used in the Compression Dynamo as a powerful coolant. It can be placed in the world, in which case it will flow at lava speed to a distance of 5 blocks. The presence of fluid Gelid Cryotheum causes Snow to generate on nearby blocks. 
+
+Any entities that touch fluid Gelid Cryotheum will be slowed and take damage similar to if they had touched flowing Lava.
+
+§a§2- 2x Gelid Cryotheum Cells
+ddss.quest.1266.10.name=Hot Tungstensteel!
+ddss.quest.1266.10.desc=Tungstensteel is a high-quality alloy that has to be produced with a certain amount of effort. You first have to use the Blast Furnace to make Hot Tungstensteel. 
+
+§a§2- 2x Hot Tungstensteel
+ddss.quest.1267.10.name=Tungstensteel!
+ddss.quest.1267.10.desc=Use the fluid transposer or the fluid infuser together with gelid cryotheum to cool hot tungstensteel.
+
+§a§2- 2x Tungstensteel
+ddss.quest.1268.10.name=What's next?
+ddss.quest.1268.10.desc=We're about to start building a quantum compressor. But first you need some exclusive materials.
+
+§a§2- 1x Majestic Component
+§a§2- 1x Nether Star
+- 2x Elite Control Circuit
+- 2x Hyper Linking Card
+ddss.quest.1269.10.name=Quantum Compressor
+ddss.quest.1269.10.desc=The Quantum Compressor is a high tier RF/FE powered machine that can craft Singulairtys using high quantities of materials. Materials put inside of the Quantum Compressor go into a massive internal buffer. I'm sure this machine will be useful soon.
+
+§a§2- 1x Quantum Compressor
+ddss.quest.1270.10.name=Solar Panel T6
+ddss.quest.1270.10.desc=The Solar panel T6 generate 2048 RF/FE/t when receiving light. 
+
+§a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
+
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Solar Panel T6
+ddss.quest.1271.10.name=Ultimate Circuit?!?
+ddss.quest.1271.10.desc=The ultimate circuit is used in many higher tiered machines and items. Ultra expensive! Its better to craft them in a Carpenter to save material.
+
+§a§2- 1x Ultimate Circuit
+ddss.quest.1272.10.name=Interior Components
+ddss.quest.1272.10.desc=Craft the remaining interior components to make your first rocket.
+
+§a§2- 1x Shock Absorber
+§a§2- 1x Iron Tank
+ddss.quest.1273.10.name=Launch Pad
+ddss.quest.1273.10.desc=The Rocket Launch Pad is needed to launch your Spaceship out of the atmosphere in Galacticraft. The Rocket Launch Pad must be placed in a 3 x 3 Square to create a functional Launch Pad. 
+
+§a§2- 9x Rocket Launch Pad
+ddss.quest.1274.10.name=Fuel Loader
+ddss.quest.1274.10.desc=The Fuel Loader is a machine that is necessary in order to supply fuel to any type of Rocket or to a Moon Buggy. To use the Fuel Loader, it must be supplied with power (either by wire or a battery) and Fuel from a Refinery. It must be placed directly next to a Rocket Launch Pad or a Buggy Fueling Pad. 
+
+§a§2- 1x Fuel Loader
+ddss.quest.1275.10.name=Oxygen Sealer
+ddss.quest.1275.10.desc=The Oxygen Sealer is a machine that fills a room with oxygen (although the oxygen is generally not visible) up to 800 blocks allowing the user to breathe without Oxygen Gear. Unlike the Oxygen Bubble Distributor, the Oxygen Sealer confines the oxygen to the room it is in. The sealer must be supplied with power and sufficient oxygen 
+
+§a§2- 1x Oxygen Sealer
+ddss.quest.1276.10.name=Rocket T1!
+ddss.quest.1276.10.desc=The Tier 1 Rocket is a vehicle added by a Galacticraft and is used to fly on the Moon and a Space Station.
+This rocket can be loaded with 1000 mb of rocket fuel. 
+
+§2§9Congratulations for your efforts until here! This is where it gets fun. ;-)
+
+§a§oHint: Chests in the rocket are optional, they increase the storage space.
+
+§a§2- 1x Rocket T1
+ddss.quest.1277.10.name=Solar Panel T8
+ddss.quest.1277.10.desc=The Solar panel T8 is uuultra strong. It is used to generate 32'768 RF/FE/t when receiving light! Op?
+
+§a§oHint: You can recycle solar panels in a sawmill to recover most of the materials.
+
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Solar Panel T8
+ddss.quest.1278.10.name=Copper Singularity!
+ddss.quest.1278.10.desc=Singularities are highly compressed materials. A singularity requires 2500 items of the same type.
+
+§a§2- 1x Copper singularity 
+ddss.quest.1279.10.name=Crystaltin ingots!
+ddss.quest.1279.10.desc=Crystaltin ingots are mainly used to boost various work processes. For example, these ingots can be used to create large quantities of circuits at once.
+
+§a§2- 2x Crystaltin Ingots!
+ddss.quest.1280.10.name=Crushed Fluorite
+ddss.quest.1280.10.desc=Put Diorite in the rock crusher to obtain crushed fluorite.
+
+§a§2- 20x Crushed Fluorite
+ddss.quest.1281.10.name=Argon
+ddss.quest.1281.10.desc=Put crushed fluorite in a centrifugal separator to obtain argon (AR).
+
+§a§2- 20x Argon (AR)
+ddss.quest.1282.10.name=Liquid Argon
+ddss.quest.1282.10.desc=Mix sodium hydroxide with argon to obtain liquid argon.
+
+§a§2- 2x Liquid Argon Cells
+ddss.quest.1283.10.name=Dark Magic Essence
+ddss.quest.1283.10.desc=Put liquid argon in the fractionating still to produce some dark magic essence. 
+
+§b§aHint: This questline has shown you an alternative way for liquid dark magic essence without having to produce black magic dust. This essence is mainly needed to produce essence of the gods. You can also use it to craft some powerful magic items and even use it to make vinegar. Oo
+
+§a§2- 1x Dark Magic Essence Cell
+ddss.quest.1284.10.name=Moore Mana Infused Dust
+ddss.quest.1284.10.desc=Crush mana infused ingots to obtain mana infused dust. You will have already worked with this dust but there is another application I would like to show you.
+
+§a§2- 20x Mana Infused Dust
+ddss.quest.1285.10.name=Xenon (Xe)
+ddss.quest.1285.10.desc=Put mana infused dust in the centrifugal separator to obtain xenon (Xe).
+
+§a§2- 20x Xenon (Xe)
+ddss.quest.1286.10.name=Liquid Xenon
+ddss.quest.1286.10.desc=Mix sodium hydroxide with xenon to obtain liquid xenon.
+
+§a§2- 2x Liquid Xenon Cells
+ddss.quest.1287.10.name=White Magic Essence
+ddss.quest.1287.10.desc=Put liquid xenon in the fractionating still to produce some white magic essence. 
+
+§b§aHint: This questline has shown you an alternative way for liquid white magic essence without having to produce white magic dust. This essence is mainly needed to produce essence of the gods. You can also use it to craft tons of powerful magic items.
+
+§a§2- 1x White Magic Essence Cell
+ddss.quest.1288.10.name=Evaporator!
+ddss.quest.1288.10.desc=Use the evaporator together with water to make mineral salt. Mineral salt is much more effective in the production of sodium hydroxide.
+
+§a§2- 1x Evaporator
+ddss.quest.1289.10.name=Hardened Upgrade Kit
+ddss.quest.1289.10.desc=Upgrade kits are items used to incrementally upgrade thermal expansion blocks and machines to higher tiers. For example, you could upgrade the Energy cell with it!
+
+§2- 1x Hardened Upgrade Kit
+ddss.quest.1290.10.name=Straw!
+ddss.quest.1290.10.desc=The Straw is used to consume liquids from tanks and in-world. It may also be used to consume fluids from a machine's internal tank by shift right clicking. Fluids from Industrial Foregoing will inflict various status effects when consumed.
+
+§a§oHint: Place the clay bucket full of proteins that you get as a reward in the world and drink it with the straw. And then..... ???
+
+§1§2- 1x Straw
+ddss.quest.1291.10.name=Reinforced Upgrade Kit
+ddss.quest.1291.10.desc=Next Upgrade Kit! This only works on blocks that are at the immediately preceding tier.
+
+§a§2- 1x Reinforced Upgrade Kit
+
+
+ddss.quest.1292.10.name=Signalum Upgrade Kit!
+ddss.quest.1292.10.desc=For the signalum upgrade kit you need more iridium. If you haven't found any more ingots in dungeons, you need to continue the main quest until you learn how to make them.
+
+§a§2- 1x Signalum Upgrade Kit
+ddss.quest.1293.10.name=Resonant Upgrade Kit!
+ddss.quest.1293.10.desc=This is the last and best tier of the upgrade kits.
+
+
+§4§9§a§2§2§2§3§1§4§5§7§8§9§a§b§c§d§d§e§f§f§k§r§0§1§2- 1x Resonant Upgrade Kit
+ddss.quest.1294.10.name=First Jetpack Components
+ddss.quest.1294.10.desc=If you want, you can start working on your first jetpack. In addition to various materials, it is especially important that you have found ancient dust in a dungeon.
+
+
+§2- 1x Ancient Dust
+- 2x Basic Circuit
+- 2x CPU Core B500
+- 2x Copper Battery Cell
+
+
+
+ddss.quest.1295.10.name=First Jetpack Components #2
+ddss.quest.1295.10.desc=Go ahead with the following stuff:
+
+
+§2- 1x Triple Battery
+- 2x Configuration Cards
+- 6x 10k Coolant Cells
+- 6x Redstone Transmission Coil
+- 4x Redstone Reception Coil
+
+
+
+ddss.quest.1296.10.name=First Jetpack Components #3
+ddss.quest.1296.10.desc=Go ahead with the following stuff:
+
+
+§2- 4x Reactant Dynamo
+
+
+
+ddss.quest.1297.10.name=Leadstone Thrusters
+ddss.quest.1297.10.desc=Go ahead with the following stuff:
+
+
+§2- 4x Leadstone Thruster
+
+
+
+ddss.quest.1298.10.name=Leadstone Jetpack!
+ddss.quest.1298.10.desc=Finllay your first Jetpack! The Leadstone Jetpack is a Redstone Flux-powered (RF/FE) Tier 1 Jetpack and it can use the Iron Armor Plating for added protection.
+
+
+§2- 1x Leadstone Jetpack
+
+
+
+ddss.quest.1299.10.name=Energy Extractor
+ddss.quest.1299.10.desc=A simple device to simplify the exchange between energy sources. Used in some recipes.
+
+§2- 1x Energy Extractor
+ddss.quest.1300.10.name=Basic Energy Cube
+ddss.quest.1300.10.desc=An Energy Cube is an advanced type of battery that is compatible with multiple energy systems. Energy can be input from 5 sides, and output on 1 side. The output side has a special marking which looks like a small panel. Rotate the Cube by right-clicking with a wrench. 
+
+§2§a§oHint: The basic cube stores 800'000 RF/FE and can be upgraded.
+
+§2- 1x Basic Energy Cube
+ddss.quest.1301.10.name=Energy Tablet
+ddss.quest.1301.10.desc=The Energy Tablet is a portable, rechargeable battery pack that can be charged with energy and can then be used to power other devices. It is also an ingredient in many recipes.
+
+
+§2- 2x Energy Tablet
+
+
+ddss.quest.1302.10.name=Advanced Energy Cube
+ddss.quest.1302.10.desc=The Advanced Energy Cube stores 3'200'000 RF/FE and can be upgraded to the Elite Energy Cube.
+
+
+§2- 1x Advanced Energy Cube
+
+
+ddss.quest.1303.10.name=Elite Energy Cube!
+ddss.quest.1303.10.desc=The Elite Energy Cube stores 12'800'000 RF/FE and can be upgraded to the Ultimate Energy Cube.
+
+
+§2- 1x Elite Energy Cube
+ddss.quest.1304.10.name=Wind Generator?
+ddss.quest.1304.10.desc=A Wind Turbine's giant blades harness the force of the wind to generate power. Each Wind Turbine requires a fairly large 1x1x5 area. The machine will generate power day and night, in sun or rain, but the turbine must have a clear view of the sky.
+
+§a§oHint: The power output increases linearly with its elevation.
+
+
+§2- 1x Wind Turbine
+ddss.quest.1305.10.name=Redstone Singularity!
+ddss.quest.1305.10.desc=Singularities are highly compressed materials. A singularity requires 2500 items of the same type.
+
+§a§2- 1x Redstone singularity 
+ddss.quest.1306.10.name=Black Hole Unit!
+ddss.quest.1306.10.desc=The Black Hole Unit is used to store large quantities of items, with an internal inventory capable of holding 2,147,483,647 of a single item. Items can be added through the input slot of the GUI, or by using the 'Empty player inventory' button to collect all items of the same type from the player's inventory. 
+
+§a§oHint: The Black Hole Unit will keep its contents when broken and can be cleared by placing it in a crafting grid.
+
+§a§2- 1x Black Hole Unit
+ddss.quest.1307.10.name=Mob Slaughter Factory
+ddss.quest.1307.10.desc=The Mob Slaughter Factory is used to process mobs and animals into Liquid Meat and Pink Slime. The animals killed by this machine will not produce drops or experience. The default working area is 1x3x1 in front of the machine and can be expanded with Range Addons. 
+
+§a§oHint: Mobs killed will produce 5 mb of Liquid meat per HP and 1 mb of Pink Slime per HP
+
+§a§2- 1x Mob Slaughter Factory
+ddss.quest.1308.10.name=Fluid Sieving Machine
+ddss.quest.1308.10.desc=The Fluid Sieving Machine is mainly used to turn pink slime into pink slime ingots
+
+§o§a§oHint: 2000mb Pink Slime + Iron Ingot = Pink Slime Ingot
+
+
+§a§2- 1x Fluid Sieving Machine
+ddss.quest.1309.10.name=Pink Slime Ingots!
+ddss.quest.1309.10.desc=Pink slime ingots are mainly used to craft machines and tinker tools! (insane durability)
+
+
+§a§2- 10x Pink Slime Ingots
+ddss.quest.1310.10.name=Black Hole Controller!
+ddss.quest.1310.10.desc=The Black Hole Controller is used to hold up to 9 Black Hole Units, allowing for an effective inventory size of 2,147,483,647 for 9 separate items. Each unit will accept items from the inventory slot directly above it and keep a full stack of items in the inventory slot directly below it.
+
+§a§2- 1x Black Hole Controller
+ddss.quest.1311.10.name=Ring of the Flying Squid
+ddss.quest.1311.10.desc=The Ring of the Flying Squid is a magical ring that gives the wearer limited flight when activated by holding the jump key. It also eliminates all fall damage. Vertical movement is similar to that of creative mode flight, but horizontal speed is no faster than walking. It consumes 16 Grid Power (GP) passively. In addition to the GP requirement, the ring holds a fixed amount of charge which drains while the ring is active and is indicated by a progress bar above the player's hotbar. When the charge is fully drained, the ring ceases to function.
+
+§a§2- 1x Ring of the Flying Squid
+ddss.quest.1312.10.name=Liquid Meat!
+ddss.quest.1312.10.desc=Collect some liquid meat from the Mob Slaughter Factory.
+
+
+§a§2- 1x Liquid Meat Cell
+ddss.quest.1313.10.name=Meat Feeder!
+ddss.quest.1313.10.desc=The Meat Feeder is used to automatically keep the player fed while in their inventory. The Meat Feeder requires Liquid Meat to operate and can be filled or emptied by right-clicking a tank. When the player's hunger or saturation drops below full, the Meat Feeder will drain 400 mB of Liquid Meat and restore 1/2 shank of hunger and 1 saturation.
+
+
+§a§2- 1x Meat Feeder
+ddss.quest.1314.10.name=Second Jetpack Components #1
+ddss.quest.1314.10.desc=If you built your first jetpack in the previous chapter, then it's time to upgrade it now. But you need many materials including a Majestic Ingot. 
+
+§2- 1x Majestic Ingot
+- 2x Osram Ingots
+- 2x Advancet Control Circuits
+- 1x Lumium Gear
+ddss.quest.1315.10.name=Second Jetpack Components #2
+ddss.quest.1315.10.desc=Go ahead with the following stuff:
+
+§2- 2x Rune of Fire
+- 2x CPU Core 1000
+- 6x Redstone Transmission Coil
+- 2x 30k Coolant Cell
+ddss.quest.1316.10.name=Second Jetpack Components #3
+ddss.quest.1316.10.desc=Go ahead with the following stuff:
+
+§2- 4x Steam Dynamo
+- 2x Redstone Reception Coil
+ddss.quest.1317.10.name=Hardened Thruster!
+ddss.quest.1317.10.desc=Go ahead with the following stuff:
+
+§2- 4x Hardened Thruster
+ddss.quest.1318.10.name=Hardened Jetpack!
+ddss.quest.1318.10.desc=Finally your Tier 2 hardned jetpeck! It holds up to 3'000'000 RF/FE!
+
+§2- 1x Hardened Jetpack
+ddss.quest.1319.10.name=Starmetal Ingots!
+ddss.quest.1319.10.desc=An important part of Astral Sorcery are the Starmetal ingots. To make some you need the empowerer and special materials including ores from the end. If you are not ready yet then check back later to see how to make such ingots.
+
+§a§2- 3x Starmetal Ingots!
+
+
+ddss.quest.1320.10.name=Turret Base T3
+ddss.quest.1320.10.desc=This core block can carry the grenade launcher and the relativistic turret. It also has 1 upgrade slot and 2 addon slots.
+
+
+§2- 1x Turret Base T3
+ddss.quest.1321.10.name=Grenade Launcher
+ddss.quest.1321.10.desc=The grenade launcher need greandes as ammunition. You can increase range and shot strength with upgrades.
+
+
+§2- 1x Grenade Launcher Turret
+ddss.quest.1322.10.name=Grenades!
+ddss.quest.1322.10.desc=Craft some grenades for your greande launcher turret.
+
+
+§2- 64x Grenades
+ddss.quest.1323.10.name=Teleport Turret
+ddss.quest.1323.10.desc=The teleport turret teleports mobs on top of the turret. It can be useful if you then surround the turret with spikes or whatever or just use it as a range extender to bring mobs closer to your other turrets.
+
+§2- 1x Teleporter Turret
+ddss.quest.1324.10.name=Turret Base T4
+ddss.quest.1324.10.desc=This core block can carry the rocket launcher and the teleporter turret. It also has 1 upgrade slot and 2 addon slots.
+
+
+§2- 1x Turret Base T4
+ddss.quest.1325.10.name=Rocket Launcher
+ddss.quest.1325.10.desc=The rocket launcher need rocket as ammunition. You can increase range and shot strength with upgrades.
+
+
+§2- 1x Rocket Launcher Turret
+ddss.quest.1326.10.name=Rockets!
+ddss.quest.1326.10.desc=Craft some rockets for your rocket launcher turret.
+
+
+§2- 64x Rockets
+ddss.quest.1327.10.name=Addon - Serial Port
+ddss.quest.1327.10.desc=The addon "serial port" enables Opencomputers compatibility.
+
+
+§2- 1x Addon - Serial Port
+ddss.quest.1328.10.name=Upgrade - Efficniency
+ddss.quest.1328.10.desc=The efficniency upgrade saves ammunition and energy. This stacks up to 4 times.
+
+
+§2- 1x Upgrade - Efficniency
+ddss.quest.1329.10.name=Turret Base T5
+ddss.quest.1329.10.desc=This core block can carry the railgun and the laser turret. It also has 2 upgrade slot and 2 addon slots.
+
+
+§2- 1x Turret Base T5
+ddss.quest.1330.10.name=Rail Gun Turret
+ddss.quest.1330.10.desc=The rail gun turret need ferro-magnetic-slug as ammunition. You can increase range and shot strength with upgrades.
+
+
+§2- 1x Rail Gun Turret
+ddss.quest.1331.10.name=Ferro-Magnetic-Slugs
+ddss.quest.1331.10.desc=Craft some ferro-magnetic-slugs for your rail gun turret.
+
+
+§2- 32x Ferro-Magnetic-Slugs
+ddss.quest.1332.10.name=Zoesteria Palm Sapling Bundle
+ddss.quest.1332.10.desc=Buy some tree saplings from Zoesteria Biomes!
+ddss.quest.1333.10.name=String Mesh
+ddss.quest.1333.10.desc=Need more String Meshs? Buy Some!
+
+
+ddss.quest.1334.10.name=Blazing Pyrotheum
+ddss.quest.1334.10.desc=Need Blazing Pyrotheum? Buy some cells.
+ddss.quest.1335.10.name=Gelid Cryotheum
+ddss.quest.1335.10.desc=Need Gelid Cryotheum? Buy some cells.
+ddss.quest.1336.10.name=Microchip T1
+ddss.quest.1336.10.desc=Buy some Microchips!
+ddss.quest.1337.10.name=Basic Processor (Refined Storage)
+ddss.quest.1337.10.desc=Buy some Basic Processors!
+ddss.quest.1338.10.name=Laser Turret!
+ddss.quest.1338.10.desc=The Laser Turret requires no ammunition. It uses a lot of energy to fire strong energy shocks to the enemies.  
+
+
+§2- 1x Laser Turret
+ddss.quest.1339.10.name=Hardened Block T4
+ddss.quest.1339.10.desc=The next Tier of hardened blocks!
+
+§a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
+
+§2- 12x Hardened Block T4 (Open Modular Defense)
+ddss.quest.1340.10.name=Fence T4
+ddss.quest.1340.10.desc=The next Tier of defence fences.
+
+§a§oThey are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
+
+§2- 12x Fence T4 (Open Modular Defense)
+ddss.quest.1341.10.name=Hardened Wall T4
+ddss.quest.1341.10.desc=The next Tier of hardened walls!
+
+§a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
+
+§2- 6x Hardened Wall T4 (Open Modular Defense)
+ddss.quest.1342.10.name=Hardened Block T5
+ddss.quest.1342.10.desc=The next Tier of hardened blocks!
+
+§a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
+
+§2- 12x Hardened Block T5 (Open Modular Defense)
+ddss.quest.1343.10.name=Fence T5
+ddss.quest.1343.10.desc=The next Tier of defence fences.
+
+§a§oThey are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
+
+§2- 12x Fence T5 (Open Modular Defense)
+ddss.quest.1344.10.name=Hardened Wall T5
+ddss.quest.1344.10.desc=The next Tier of hardened walls!
+
+§a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
+
+§2- 6x Hardened Wall T5 (Open Modular Defense)
+ddss.quest.1345.10.name=Revolver!
+ddss.quest.1345.10.desc=The Revolver is a ranged weapon added by Immersive Engineering. It shoots Cartridges.
+
+To load the gun, shift right-click with the Revolver in hand to open its GUI. Only one Cartridge/item can be put into each of the 8 slots. Right-clicking with the gun in hand will make it shoot. When a Cartridge is used, the Empty Casing or Empty Shell will remain behind.
+
+
+§2- 1x Revolver
+ddss.quest.1346.10.name=Extended Magazine!
+ddss.quest.1346.10.desc=The Extended Magazine is an upgrade for the Revolver. Like all upgrades, it's applied in the Engineer's Workbench. If you haven't built one yet, now would be the time.....
+
+§a§oHint: It makes the Revolver gain six more slots, for additional Cartridges.
+
+
+§2- 1x Extended Magazine
+ddss.quest.1347.10.name=Un-Prepaired Space Suite T1
+ddss.quest.1347.10.desc=For space, you need special equipment to withstand radiation and pressure. First of all you have to create aluminium base equipment which you will improve later.
+
+§a§2- 1x Un-Prepared Space Suite Helmet
+- 1x Un-Prepared Space Suite Chestplate
+- 1x Un-Prepared Space Suite Leggins
+- 1x Un-Prepared Space Suite Boots
+ddss.quest.1348.10.name=Radiation & Pressure Layers T1
+ddss.quest.1348.10.desc=Craft the following materials to enhance your space suite.
+
+§a§2- 12x T1 Radiation Layer
+- 12x T1 Pressure Chestplate
+-   8x T1 Armour Layer
+ddss.quest.1349.10.name=Space Suite T1!
+ddss.quest.1349.10.desc=Now you can improve your space equipment so that you are prepared for your first moon landing.
+
+§a§2- 1x T1 Space Suite Helmet
+- 1x T1 Space Suite Chestplate
+- 1x T1 Space Suite Leggins
+- 1x T1 Space Suite Boots
+ddss.quest.1350.10.name=Empty Casings!
+ddss.quest.1350.10.desc=The Empty Casing is used in the creation of the Casull Cartridge, the Armor-Piercing Cartridge and the High-Explosive Cartridge and much more!
+
+
+§2- 10x Empty Casing
+ddss.quest.1351.10.name=Casull Cartridge
+ddss.quest.1351.10.desc=The Casull Cartridge is a Cartridge for your Revolver. It is the most simple Cartridge, and it takes 10 health from the mob it is shot at.
+
+§2- 10x Casull Cartridge
+ddss.quest.1352.10.name=Armor-Piercing Cartridge
+ddss.quest.1352.10.desc=The Armor-Piercing Cartridge inflicts 10 points of damage to the target mob and bypasses armor protection!
+
+§2- 10x Armor-Piercing Cartridge
+ddss.quest.1353.10.name=EFLN!
+ddss.quest.1353.10.desc=EFLN is thrown like a snowball and, upon impacting a surface, will explode with a radius of about 5 blocks, destroying all but the most blast resistant blocks. Since destroyed blocks are always dropped as items, the EFLN is a potentially useful mining tool.
+
+
+§2- 4x EFLN
+ddss.quest.1354.10.name=White Shulker Box!
+ddss.quest.1354.10.desc=Buy some shulker boxes!
+ddss.quest.1355.10.name=Orange Shulker Box!
+ddss.quest.1355.10.desc=Buy some shulker boxes!
+ddss.quest.1356.10.name=Magenta Shulker Box!
+ddss.quest.1356.10.desc=Buy some shulker boxes!
+ddss.quest.1357.10.name=Light Blue Shulker Box!
+ddss.quest.1357.10.desc=Buy some shulker boxes!
+ddss.quest.1358.10.name=Yellow Shulker Box!
+ddss.quest.1358.10.desc=Buy some shulker boxes!
+ddss.quest.1359.10.name=Lime Shulker Box!
+ddss.quest.1359.10.desc=Buy some shulker boxes!
+ddss.quest.1360.10.name=Red Shulker Box!
+ddss.quest.1360.10.desc=Buy some shulker boxes!
 ddss.lines.0.10.name=Tier 0 - Main Questline
 ddss.lines.0.10.desc=In the first training block, a lot is still produced by hand in order to learn the fundamentals, and the training course becomes increasingly technical and magical as it progresses. 
 ddss.lines.1.10.name=Kitchen Workshop
