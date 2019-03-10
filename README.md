@@ -30,9 +30,9 @@ You need to make a Fork repository, translate the localization file (create a ne
 ## Для русскоязычной аудитории:
 # Файлы локализации для сборки Dungeons, Dragons and Space Shuttles
 
-**Ссылка на сборку**: https://minecraft.curseforge.com/projects/dungeons-dragons-and-space-shuttles
-**Автор сборки**: https://minecraft.curseforge.com/members/Freebi85
-**Русский перевод**: cyber01
+**Ссылка на сборку**: https://minecraft.curseforge.com/projects/dungeons-dragons-and-space-shuttles  
+**Автор сборки**: https://minecraft.curseforge.com/members/Freebi85  
+**Русский перевод**: cyber01  
 
 ## Как установить?
 
