@@ -1059,12 +1059,18 @@ ddss.quest.221.10.desc=Положите Колодец под открытым �
 
 Предметы (от низших к высшим) по генерации и (от высших к низшим) по шансу разрушения:
 
-    - Аквамарин
-    - Резонирующие кристаллы
-    - Каменные кристаллы
-    - Настроенные каменные кристаллы
-    - Небесные кристаллы
-    - Настроенные Небесные кристаллы
+
+   - Аквамарин
+
+   - Резонирующие кристаллы
+
+   - Каменные кристаллы
+
+   - Настроенные каменные кристаллы
+
+   - Небесные кристаллы
+
+   - Настроенные Небесные кристаллы
 
 
 
@@ -4995,7 +5001,7 @@ ddss.quest.975.10.desc=Этот забор ранит всех мобов, ко�
 §a§oТолько тот, кто поставил блок сможет его сломать (используйте Shift+правую кнопку мыши с пустой рукой).
 
 §2- 12x Заборов Ур.1 (Open Modular Defense)
-ddss.quest.976.10.name=Закаленная стена T1
+ddss.quest.976.10.name=Закаленная стена Ур.1
 ddss.quest.976.10.desc=Это (красивая!) стена не имеет специальных функций, но она очень прочная. Чем выше уровень, тем больше прочность стены. 
 
 §a§oТолько тот, кто поставил блок сможет его сломать (используйте Shift+правую кнопку мыши с пустой рукой).
@@ -6633,160 +6639,160 @@ ddss.quest.1313.10.desc=Мясной питающий механизм буде�
 
 
 §a§2- 1x Мясной питающий механизм
-ddss.quest.1314.10.name=Second Jetpack Components #1
-ddss.quest.1314.10.desc=If you built your first jetpack in the previous chapter, then it's time to upgrade it now. But you need many materials including a Majestic Ingot. 
+ddss.quest.1314.10.name=!!!Компоненты второго реактивного ранца #1
+ddss.quest.1314.10.desc=Если вы сделали ваш первый реактивный ранец в предыдущей части, но тастало время улучшить его. Но вам понадобится много ресурсов, в том числе Величественные слитки. 
 
-§2- 1x Majestic Ingot
-- 2x Osram Ingots
-- 2x Advancet Control Circuits
-- 1x Lumium Gear
-ddss.quest.1315.10.name=Second Jetpack Components #2
-ddss.quest.1315.10.desc=Go ahead with the following stuff:
+§2- 1x Величественный слиток
+- 2x Слиток Осрама
+- 2x Продвинутая схема
+- 1x Люмиумная шестеренка
+ddss.quest.1315.10.name=!!!Компоненты второго реактивного ранца #2
+ddss.quest.1315.10.desc=Теперь сделайте следующие компоненты:
 
-§2- 2x Rune of Fire
-- 2x CPU Core 1000
-- 6x Redstone Transmission Coil
-- 2x 30k Coolant Cell
-ddss.quest.1316.10.name=Second Jetpack Components #3
-ddss.quest.1316.10.desc=Go ahead with the following stuff:
+§2- 2x Руны огня
+- 2x Процессора 1000
+- 6x Редстоуновая передающая катушка
+- 2x 30k Охлаждающих катушки
+ddss.quest.1316.10.name=!!!Компоненты второго реактивного ранца #3
+ddss.quest.1316.10.desc=Теперь сделайте следующие компоненты:
 
-§2- 4x Steam Dynamo
-- 2x Redstone Reception Coil
-ddss.quest.1317.10.name=Hardened Thruster!
-ddss.quest.1317.10.desc=Go ahead with the following stuff:
+§2- 4x Паровых генератора
+- 2x Редстоуновых принимающих катушки
+ddss.quest.1317.10.name=!!!Укрепленные ускорители!
+ddss.quest.1317.10.desc=Теперь сделайте следующие компоненты:
 
-§2- 4x Hardened Thruster
-ddss.quest.1318.10.name=Hardened Jetpack!
-ddss.quest.1318.10.desc=Finally your Tier 2 hardned jetpeck! It holds up to 3'000'000 RF/FE!
+§2- 4x Укрепленных ускорителя
+ddss.quest.1318.10.name=!!!Укрепленный реактивный ранец!
+ddss.quest.1318.10.desc=Наконец-то, у вас теперь есть реактивный ранец второго уровня! Он может хранить до 3'000'000 RF/FE!
 
-§2- 1x Hardened Jetpack
-ddss.quest.1319.10.name=Starmetal Ingots!
-ddss.quest.1319.10.desc=An important part of Astral Sorcery are the Starmetal ingots. To make some you need the empowerer and special materials including ores from the end. If you are not ready yet then check back later to see how to make such ingots.
+§2- 1x Укрепленный реактивный ранец
+ddss.quest.1319.10.name=!!!Слитки звездного металла!
+ddss.quest.1319.10.desc=Важная часть мода Astral Sorcery это слитки звездного металла. Чтобы сделать их, вам понадобится Усилитель и специальные материалы, включая руды из Края. Если вы не готовы, то можете вернуться к этому квесту позже.
 
-§a§2- 3x Starmetal Ingots!
-
-
-ddss.quest.1320.10.name=Turret Base T3
-ddss.quest.1320.10.desc=This core block can carry the grenade launcher and the relativistic turret. It also has 1 upgrade slot and 2 addon slots.
+§a§2- 3x Слитка звездного металла!
 
 
-§2- 1x Turret Base T3
-ddss.quest.1321.10.name=Grenade Launcher
-ddss.quest.1321.10.desc=The grenade launcher need greandes as ammunition. You can increase range and shot strength with upgrades.
+ddss.quest.1320.10.name=!!!Основа турели Ур.3
+ddss.quest.1320.10.desc=Эта основа может быть использована для гранатометной и релятивистской турелей. Имеет 1 слот улучшения и 2 слота расширения.
 
 
-§2- 1x Grenade Launcher Turret
-ddss.quest.1322.10.name=Grenades!
-ddss.quest.1322.10.desc=Craft some grenades for your greande launcher turret.
+§2- 1x Основа турели Ур.3
+ddss.quest.1321.10.name=!!!Гранатометая турель
+ddss.quest.1321.10.desc=Гранатометая турель использует гранаты в качестве боеприпасов. Вы можете увеличить дальность и силу выстрела с помощью улучшений.
 
 
-§2- 64x Grenades
-ddss.quest.1323.10.name=Teleport Turret
-ddss.quest.1323.10.desc=The teleport turret teleports mobs on top of the turret. It can be useful if you then surround the turret with spikes or whatever or just use it as a range extender to bring mobs closer to your other turrets.
-
-§2- 1x Teleporter Turret
-ddss.quest.1324.10.name=Turret Base T4
-ddss.quest.1324.10.desc=This core block can carry the rocket launcher and the teleporter turret. It also has 1 upgrade slot and 2 addon slots.
+§2- 1x Гранатометая турель
+ddss.quest.1322.10.name=!!!Гранаты!
+ddss.quest.1322.10.desc=Сделайте несколько гранат для вашей гранатометной турели.
 
 
-§2- 1x Turret Base T4
-ddss.quest.1325.10.name=Rocket Launcher
-ddss.quest.1325.10.desc=The rocket launcher need rocket as ammunition. You can increase range and shot strength with upgrades.
+§2- 64x Гранаты
+ddss.quest.1323.10.name=!!!Телепортирующая турель
+ddss.quest.1323.10.desc=Телепортирующая турель телепортирует мобов над турелью. Может быть использовано для подталкивания мобов на другие турели или шипы.
+
+§2- 1x Телепортирующая турель
+ddss.quest.1324.10.name=!!!Основа турели Ур.4
+ddss.quest.1324.10.desc=Эта основа может быть использована для ракетной и телепортирующей турелей. Имеет 1 слот улучшения и 2 слота расширения.
 
 
-§2- 1x Rocket Launcher Turret
-ddss.quest.1326.10.name=Rockets!
-ddss.quest.1326.10.desc=Craft some rockets for your rocket launcher turret.
+§2- 1x Основа турели Ур.4
+ddss.quest.1325.10.name=!!!Ракетная турель
+ddss.quest.1325.10.desc=Ракетная турель использует ракеты в качестве боеприпасов. Вы можете увеличить дальность и силу выстрела с помощью улучшений.
 
 
-§2- 64x Rockets
-ddss.quest.1327.10.name=Addon - Serial Port
-ddss.quest.1327.10.desc=The addon "serial port" enables Opencomputers compatibility.
+§2- 1x Ракетная турель
+ddss.quest.1326.10.name=!!!Ракеты!
+ddss.quest.1326.10.desc=Сделайте несколько ракет для вашей ракетной турели.
 
 
-§2- 1x Addon - Serial Port
-ddss.quest.1328.10.name=Upgrade - Efficniency
-ddss.quest.1328.10.desc=The efficniency upgrade saves ammunition and energy. This stacks up to 4 times.
+§2- 64x Ракеты
+ddss.quest.1327.10.name=!!!Дополнение - Консольный порт
+ddss.quest.1327.10.desc=Дополнение "Консольный порт" включает совместимость с модом OpenComputers.
 
 
-§2- 1x Upgrade - Efficniency
-ddss.quest.1329.10.name=Turret Base T5
-ddss.quest.1329.10.desc=This core block can carry the railgun and the laser turret. It also has 2 upgrade slot and 2 addon slots.
+§2- 1x Дополнение - Консольный порт
+ddss.quest.1328.10.name=!!!Улучшение - Эффективность
+ddss.quest.1328.10.desc=Улучшение "Эффективность" позволяет экономить энергию и боеприпасы. Максимально может быть установлено 4 улучшения.
 
 
-§2- 1x Turret Base T5
-ddss.quest.1330.10.name=Rail Gun Turret
-ddss.quest.1330.10.desc=The rail gun turret need ferro-magnetic-slug as ammunition. You can increase range and shot strength with upgrades.
+§2- 1x Улучшение - Эффективность
+ddss.quest.1329.10.name=!!!Основа турели Ур.5
+ddss.quest.1329.10.desc=Эта основа может быть использована для рельсовой и лазерной турелей. Имеет 2 слота улучшения и 2 слота расширения.
 
 
-§2- 1x Rail Gun Turret
-ddss.quest.1331.10.name=Ferro-Magnetic-Slugs
-ddss.quest.1331.10.desc=Craft some ferro-magnetic-slugs for your rail gun turret.
+§2- 1x Основа турели Ур.5
+ddss.quest.1330.10.name=!!!Рельсовая турель
+ddss.quest.1330.10.desc=Рельсовая турель использует ферро-магнитные пули в качестве боеприпасов. Вы можете увеличить дальность и силу выстрела с помощью улучшений.
 
 
-§2- 32x Ferro-Magnetic-Slugs
-ddss.quest.1332.10.name=Zoesteria Palm Sapling Bundle
-ddss.quest.1332.10.desc=Buy some tree saplings from Zoesteria Biomes!
-ddss.quest.1333.10.name=String Mesh
-ddss.quest.1333.10.desc=Need more String Meshs? Buy Some!
+§2- 1x Рельсовая турель
+ddss.quest.1331.10.name=!!!Ферро-магнитные пули
+ddss.quest.1331.10.desc=Сделайте несколько ферро-магнитных пуль для вашей рельсовой турели.
 
 
-ddss.quest.1334.10.name=Blazing Pyrotheum
-ddss.quest.1334.10.desc=Need Blazing Pyrotheum? Buy some cells.
-ddss.quest.1335.10.name=Gelid Cryotheum
-ddss.quest.1335.10.desc=Need Gelid Cryotheum? Buy some cells.
-ddss.quest.1336.10.name=Microchip T1
-ddss.quest.1336.10.desc=Buy some Microchips!
-ddss.quest.1337.10.name=Basic Processor (Refined Storage)
-ddss.quest.1337.10.desc=Buy some Basic Processors!
-ddss.quest.1338.10.name=Laser Turret!
-ddss.quest.1338.10.desc=The Laser Turret requires no ammunition. It uses a lot of energy to fire strong energy shocks to the enemies.  
+§2- 32x Ферро-магнитные пули
+ddss.quest.1332.10.name=!!!Набор саженцев Zoesteria
+ddss.quest.1332.10.desc=Купите несколько саженцев из биомов Zoesteria!
+ddss.quest.1333.10.name=!!!Строчная сетка
+ddss.quest.1333.10.desc=Нужна Строчная сетка? Здесь вы можете купить ее!
 
 
-§2- 1x Laser Turret
-ddss.quest.1339.10.name=Hardened Block T4
-ddss.quest.1339.10.desc=The next Tier of hardened blocks!
-
-§a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
-
-§2- 12x Hardened Block T4 (Open Modular Defense)
-ddss.quest.1340.10.name=Fence T4
-ddss.quest.1340.10.desc=The next Tier of defence fences.
-
-§a§oThey are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
-
-§2- 12x Fence T4 (Open Modular Defense)
-ddss.quest.1341.10.name=Hardened Wall T4
-ddss.quest.1341.10.desc=The next Tier of hardened walls!
-
-§a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
-
-§2- 6x Hardened Wall T4 (Open Modular Defense)
-ddss.quest.1342.10.name=Hardened Block T5
-ddss.quest.1342.10.desc=The next Tier of hardened blocks!
-
-§a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
-
-§2- 12x Hardened Block T5 (Open Modular Defense)
-ddss.quest.1343.10.name=Fence T5
-ddss.quest.1343.10.desc=The next Tier of defence fences.
-
-§a§oThey are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
-
-§2- 12x Fence T5 (Open Modular Defense)
-ddss.quest.1344.10.name=Hardened Wall T5
-ddss.quest.1344.10.desc=The next Tier of hardened walls!
-
-§a§oThe Blocks are owned and their owner can mine them instantly (using shift-rightclick with an empty hand currently).
-
-§2- 6x Hardened Wall T5 (Open Modular Defense)
-ddss.quest.1345.10.name=Revolver!
-ddss.quest.1345.10.desc=The Revolver is a ranged weapon added by Immersive Engineering. It shoots Cartridges.
-
-To load the gun, shift right-click with the Revolver in hand to open its GUI. Only one Cartridge/item can be put into each of the 8 slots. Right-clicking with the gun in hand will make it shoot. When a Cartridge is used, the Empty Casing or Empty Shell will remain behind.
+ddss.quest.1334.10.name=!!!Пылающий пиротеум
+ddss.quest.1334.10.desc=Нужен Пылающий пиротеум? Здесь вы можете купить капсулы с ним.
+ddss.quest.1335.10.name=!!!Жидкий пиротеум
+ddss.quest.1335.10.desc=нужен Жидкий пиротеум? Здесь вы можете купить капсулы с ним.
+ddss.quest.1336.10.name=!!!Микрочип Ур.1
+ddss.quest.1336.10.desc=Купите несколько Микрочипов!
+ddss.quest.1337.10.name=!!!Базовый процессор (Refined Storage)
+ddss.quest.1337.10.desc=Купите несколько Базовых процессоров!
+ddss.quest.1338.10.name=!!!Лазерная турель!
+ddss.quest.1338.10.desc=Для работы лазерной турели не требуются боеприпасы. Она использует энергию, чтобы поджигать и ранить противника.  
 
 
-§2- 1x Revolver
+§2- 1x Лазерная турель
+ddss.quest.1339.10.name=!!!Закаленный блок Ур.4
+ddss.quest.1339.10.desc=Это следующий уровень закаленных блоков!
+
+§a§oТолько тот, кто поставил блок сможет его сломать (используйте Shift+правую кнопку мыши с пустой рукой).
+
+§2- 12x Закаленных блоков Ур.4 (Open Modular Defense)
+ddss.quest.1340.10.name=!!!Защитный забор Ур.4
+ddss.quest.1340.10.desc=Следующий уровень защитного забора.
+
+§a§oТолько тот, кто поставил блок сможет его сломать (используйте Shift+правую кнопку мыши с пустой рукой).
+
+§2- 12x Защитного забора Ур.4 (Open Modular Defense)
+ddss.quest.1341.10.name=!!!Закаленная стена Ур.4
+ddss.quest.1341.10.desc=Следующий уровень закаленных стен!
+
+§a§oТолько тот, кто поставил блок сможет его сломать (используйте Shift+правую кнопку мыши с пустой рукой).
+
+§2- 6x Закаленных стен Ур.4 (Open Modular Defense)
+ddss.quest.1342.10.name=!!!Закаленный блок Ур.5
+ddss.quest.1342.10.desc=Это следующий уровень закаленных блоков!
+
+§a§oТолько тот, кто поставил блок сможет его сломать (используйте Shift+правую кнопку мыши с пустой рукой).
+
+§2- 12x Закаленных блоков Ур.5 (Open Modular Defense)
+ddss.quest.1343.10.name=!!!Защитный забор Ур.5
+ddss.quest.1343.10.desc=Следующий уровень защитного забора.
+
+§a§oТолько тот, кто поставил блок сможет его сломать (используйте Shift+правую кнопку мыши с пустой рукой).
+
+§2- 12x Защитного забора Ур.5 (Open Modular Defense)
+ddss.quest.1344.10.name=!!!Закаленная стена Ур.5
+ddss.quest.1344.10.desc=Следующий уровень закаленных стен!
+
+§a§oТолько тот, кто поставил блок сможет его сломать (используйте Shift+правую кнопку мыши с пустой рукой).
+
+§2- 6x Закаленных стен Ур.5 (Open Modular Defense)
+ddss.quest.1345.10.name=!!!Револьвер!
+ddss.quest.1345.10.desc=Револьвер это дальнобойное оружие, добавляемое модом Immersive Engineering. Он стреляет Кассетами.
+
+Чтобы зарядить оружие, нажмите Shift+правую кнопку мыши с револьвером в руках, чтобы открыть его интерфейс. В каждый из 8 слотов может быть помещена только одна кассета. Нажатие правой кнопки мыши с оружием в руке позволит вам выстрелить. Когда кассета использована, у вас останется мустая обойма.
+
+
+§2- 1x Револьвер
 ddss.quest.1346.10.name=Extended Magazine!
 ddss.quest.1346.10.desc=The Extended Magazine is an upgrade for the Revolver. Like all upgrades, it's applied in the Engineer's Workbench. If you haven't built one yet, now would be the time.....
 
@@ -6832,20 +6838,20 @@ ddss.quest.1353.10.desc=EFLN is thrown like a snowball and, upon impacting a sur
 
 
 §2- 4x EFLN
-ddss.quest.1354.10.name=White Shulker Box!
-ddss.quest.1354.10.desc=Buy some shulker boxes!
-ddss.quest.1355.10.name=Orange Shulker Box!
-ddss.quest.1355.10.desc=Buy some shulker boxes!
-ddss.quest.1356.10.name=Magenta Shulker Box!
-ddss.quest.1356.10.desc=Buy some shulker boxes!
-ddss.quest.1357.10.name=Light Blue Shulker Box!
-ddss.quest.1357.10.desc=Buy some shulker boxes!
-ddss.quest.1358.10.name=Yellow Shulker Box!
-ddss.quest.1358.10.desc=Buy some shulker boxes!
-ddss.quest.1359.10.name=Lime Shulker Box!
-ddss.quest.1359.10.desc=Buy some shulker boxes!
-ddss.quest.1360.10.name=Red Shulker Box!
-ddss.quest.1360.10.desc=Buy some shulker boxes!
+ddss.quest.1354.10.name=!!!Белый шалкеровый ящик!
+ddss.quest.1354.10.desc=Купите несколько шалкеровых ящиков!
+ddss.quest.1355.10.name=!!!Оранжевый шалкеровый ящик!
+ddss.quest.1355.10.desc=Купите несколько шалкеровых ящиков!
+ddss.quest.1356.10.name=!!!Пурпурный шалкеровый ящик!
+ddss.quest.1356.10.desc=Купите несколько шалкеровых ящиков!
+ddss.quest.1357.10.name=!!!Голубой шалкеровый ящик!
+ddss.quest.1357.10.desc=Купите несколько шалкеровых ящиков!
+ddss.quest.1358.10.name=!!!Желтый шалкеровый ящик!
+ddss.quest.1358.10.desc=Купите несколько шалкеровых ящиков!
+ddss.quest.1359.10.name=!!!Светло-зеленый шалкеровый ящик!
+ddss.quest.1359.10.desc=Купите несколько шалкеровых ящиков!
+ddss.quest.1360.10.name=!!!Красный шалкеровый ящик!
+ddss.quest.1360.10.desc=Купите несколько шалкеровых ящиков!
 ddss.lines.0.10.name=Уровень 0 - Основной квест
 ddss.lines.0.10.desc=В первом обучающем блоке большинство предметов производятся руками, это сделано для изучения модов и взаимодействия между ними. Позже сложность будет увеличиваться как в техническом, так и в магическом плане.
 ddss.lines.1.10.name=Кухня
