@@ -4,9 +4,9 @@
 **Author**: https://minecraft.curseforge.com/members/Freebi85  
 **Russian translation**: cyber01  
 
-Available languages: English, Russian (русский)
+**Available languages:** English, Russian (русский)
 
-Content:
+## Content
 Еach directory contains:
 
  - the original file with quests (with _original postfix)
@@ -34,6 +34,14 @@ You need to make a Fork repository, translate the localization file (create a ne
 **Автор сборки**: https://minecraft.curseforge.com/members/Freebi85  
 **Русский перевод**: cyber01  
 
+## Содержание
+Каждая директория содержит:
+
+ - оригинальный файл с квестами (с припиской _original в конце)
+ - файл квестов, подготовленный для локализации (DefaultQuests.json).
+ - файлы локализации (для каждого языка (локали) свой).
+ - Ресурс пак с файлами локализации, который нужно загрузить в сборку как и обычны ресурспак, а после этого активировать
+
 ## Как установить?
 
  - Скопируйте файл DefaultQuests.json в <папка со сборкой>/config/betterquesting/ с заменой
@@ -41,11 +49,3 @@ You need to make a Fork repository, translate the localization file (create a ne
  - Запустите сборку
  - Активируйте ресурспак
  - Запустите одиночную или сетевую игру
-
-## Содержание
-Каждя директория содержит:
-
- - оригинальный файл с квестами (с припиской _original в конце)
- - файл квестов, подготовленный для локализации (DefaultQuests.json).
- - файлы локализации (для каждого языка (локали) свой).
- - Ресурс пак с файлами локализации, который нужно загрузить в сборку как и обычны ресурспак, а после этого активировать
