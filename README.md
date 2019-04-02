@@ -1,6 +1,5 @@
 # Dungeons, Dragons and Space Shuttles locale files
 
-![GitHub All Releases](https://img.shields.io/github/downloads/cyber01/ddss_locale/total.svg)
 
 **Link**: https://minecraft.curseforge.com/projects/dungeons-dragons-and-space-shuttles  
 **Author**: https://minecraft.curseforge.com/members/Freebi85  
