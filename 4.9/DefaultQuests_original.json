@@ -53562,7 +53562,7 @@
           "partialMatch:1": 1,
           "autoConsume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "consume:1": 0,
           "requiredItems:9": {
@@ -53657,7 +53657,7 @@
           "partialMatch:1": 1,
           "autoConsume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "consume:1": 0,
           "requiredItems:9": {
@@ -99775,7 +99775,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Set Home?",
-          "desc:8": "There\u0027s a way to set your home where you can teleport back. But only at the cost of hunger! Be Carefull...\n\n\n§a/sethome or /createhome - to set spawnpoint\n/back - to teleport back"
+          "desc:8": "FTB Utilitis has many useful commands such as set your spawnpoint or teleporting you back there.\nRemember that on a server these commands may be blocked by an administrator.\n\n\n§a/sethome - to set spawnpoint\n/home - to teleport back"
         }
       },
       "tasks:9": {
@@ -112967,7 +112967,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Water \u0026 Fire Runes!",
-          "desc:8": "To obtain the Runes, right-click on the Runic Altar with with the required ingredients.  Then, throw a piece of Livingrock on top of the Runic Altar and right-click it with the Wand of the Forest. Once you see blue lightning coming from the altar, right-click it again with the Wand of the Forest. This is the same process required to craft all runes, with components changing to make different ones. \n\n§2- 1x Water Rune\n- 1x Fire Rune"
+          "desc:8": "To obtain the Runes, right-click on the Runic Altar with the required ingredients.  Then, throw a piece of Livingrock on top of the Runic Altar and right-click it with the Wand of the Forest. Once you see blue lightning coming from the altar, right-click it again with the Wand of the Forest. This is the same process required to craft all runes, with components changing to make different ones. \n\n§2- 1x Water Rune\n- 1x Fire Rune"
         }
       },
       "tasks:9": {
@@ -113377,7 +113377,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Manapearl!",
-          "desc:8": "The Mana Pearl is required for some crafting recipes in the mod. It cannot be thrown to teleport like a normal Ender Pearl. \n\n§2- 1x Mana Pearl"
+          "desc:8": "The Mana Pearl is required for some crafting recipes in Botania. It cannot be thrown to teleport like a normal Ender Pearl. \n\n§2- 1x Mana Pearl"
         }
       },
       "tasks:9": {
@@ -113610,7 +113610,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Gourmaryllis!",
-          "desc:8": "The Gourmaryllis is a generating flower. It generates Mana from food! Wonderful! Never waste food again. While a Gourmaryllis is digesting a piece of food, it will still pick up additional food items. However, all items after the first will be ignored and destroyed. The Gourmaryllis can store up to 9,000 Mana internally, and can be bound to a Mana Spreader within 6 blocks of itself to transfer its Mana. \n\n§2- 1x Gourmarylli"
+          "desc:8": "The Gourmaryllis is a generating flower. It generates Mana from food! Wonderful! Never waste food again. While a Gourmaryllis is digesting a piece of food, it will still pick up additional food items. However, all items after the first will be ignored and destroyed. The Gourmaryllis can store up to 9,000 Mana internally, and can be bound to a Mana Spreader within 6 blocks of itself to transfer its Mana. \n\n§2- 1x Gourmaryllis"
         }
       },
       "tasks:9": {
@@ -115848,7 +115848,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Rod of the Hells!",
-          "desc:8": "Using the Rod costs 900 Mana, and will create a ring of fire with a radius of 5 blocks. After 2 seconds any creature inside the ring will be set on fire for 4 seconds and repeatedly take fire damage until it leaves the ring. The ring will disappear after 15 seconds.\n\n§a§oHint: 60 seconds cooldown, wearing a full set of Manaweave Robes will decrease the cooldown to 30 seconds and decrease the mana cost by 35%\n\n§2- 1x Rod of the Molten Core"
+          "desc:8": "Using the Rod costs 900 Mana, and will create a ring of fire with a radius of 5 blocks. After 2 seconds any creature inside the ring will be set on fire for 4 seconds and repeatedly take fire damage until it leaves the ring. The ring will disappear after 15 seconds.\n\n§a§oHint: 60 seconds cooldown, wearing a full set of Manaweave Robes will decrease the cooldown to 30 seconds and decrease the mana cost by 35%\n\n§2- 1x Rod of the Hells"
         }
       },
       "tasks:9": {
@@ -116306,8 +116306,7 @@
     "1405:10": {
       "questID:3": 1405,
       "preRequisites:11": [
-        1404,
-        1427
+        1404
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -116710,7 +116709,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Special Platform?",
-          "desc:8": "Once your Starlight Crafting Altar is done you will notice that it no longer works. This is because it needs a special platform in order to work. If you look in your Tome it will show you how to build this platform and what materials you need (use the Sextant to help with the layout).\n\n§2- 21x Sooty Marble\n§2- 24x Marble Bricks\n- 28x Marble Bricks\n- 8x Chiseled Marble\n- 8x Marble Pillar\n\n"
+          "desc:8": "Once your Starlight Crafting Altar is done you will notice that it no longer works. This is because it needs a special platform in order to work. If you look in your Tome it will show you how to build this platform and what materials you need (use the Sextant to help with the layout).\n\n§2- 21x Sooty Marble\n§2- 24x Marble Bricks\n- 28x Marble Arch\n- 8x Chiseled Marble\n- 8x Marble Pillar\n\n"
         }
       },
       "tasks:9": {
@@ -128286,15 +128285,15 @@
         },
         "40:10": {
           "sizeX:3": 24,
-          "x:3": 156,
+          "x:3": 108,
           "y:3": 324,
           "id:3": 1404,
           "sizeY:3": 24
         },
         "41:10": {
           "sizeX:3": 24,
-          "x:3": 204,
-          "y:3": 252,
+          "x:3": 168,
+          "y:3": 276,
           "id:3": 1405,
           "sizeY:3": 24
         },
@@ -128447,8 +128446,8 @@
         },
         "63:10": {
           "sizeX:3": 24,
-          "x:3": 156,
-          "y:3": 180,
+          "x:3": 168,
+          "y:3": 228,
           "id:3": 1427,
           "sizeY:3": 24
         }
