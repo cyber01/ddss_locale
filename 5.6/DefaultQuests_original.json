@@ -127454,6 +127454,104 @@
           }
         }
       }
+    },
+    "1547:10": {
+      "questID:3": 1547,
+      "preRequisites:11": [
+        1109,
+        1105,
+        1495,
+        1488,
+        1097
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:mob_spawner",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Master Cook!",
+          "desc:8": "Now that you have mastered most of the culinary arts, it is time to prove your skills!\n\n§b§c§a§oIf you complete this quest, you will receive a Pig Spawner as reward! Bacon for days!\n\n§b§9§a§b§\n\n§1§2- 32x Gourmet Pork Burger\n- 32x Beef Wellington\n- 32x Corned Beef Hash"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "harvestcraft:gourmetporkburgeritem",
+              "Count:3": 32,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "harvestcraft:beefwellingtonitem",
+              "Count:3": 32,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "harvestcraft:cornedbeefhashitem",
+              "Count:3": 32,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:mob_spawner",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "mekanism:controlcircuit",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "2:10": {
+              "id:8": "thermalfoundation:coin",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 103
+            },
+            "3:10": {
+              "id:8": "lootbags:itemlootbag",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 11
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -132466,6 +132564,13 @@
           "y:3": 432,
           "id:3": 1503,
           "sizeY:3": 24
+        },
+        "112:10": {
+          "sizeX:3": 48,
+          "x:3": 228,
+          "y:3": 360,
+          "id:3": 1547,
+          "sizeY:3": 48
         }
       },
       "lineID:3": 1,
