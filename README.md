@@ -17,8 +17,13 @@
 
 ## How to install
 
+ - Go to releases page
+ - Choose version
+ - Download archive in attachments
+ - Unpack archive
  - Copy file DefaultQuests.json in <modpack_path>/config/betterquesting/ with replacement
  - Copy DDSS_Locales.zip in <modpack_path>/resourcepacks/
+ - *.lang is not needed for translating
  - Run modpack
  - Activate Resource pack
  - Run singleplayer or multiplayer
@@ -45,8 +50,13 @@ You need to make a Fork repository, translate the localization file (create a ne
 
 ## Как установить?
 
+ - Перейдите на страницу Релизов (Releases)
+ - Выберите нужную версию
+ - Скачайте приложенный архив
+ - Распакуйте архив
  - Скопируйте файл DefaultQuests.json в <папка со сборкой>/config/betterquesting/ с заменой
  - Скопируйте файл DDSS_Locales.zip в <папка со сборкой>/resourcepacks/
+ - Файлы *.lang вам не понадобятся
  - Запустите сборку
  - Активируйте ресурспак
  - Запустите одиночную или сетевую игру
