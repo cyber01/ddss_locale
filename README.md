@@ -27,6 +27,7 @@
  - Run modpack
  - Activate Resource pack
  - Run singleplayer or multiplayer
+ - Execute command /bq_admin default load
 
 ## How to contribute?
 
@@ -60,3 +61,4 @@ You need to make a Fork repository, translate the localization file (create a ne
  - Запустите сборку
  - Активируйте ресурспак
  - Запустите одиночную или сетевую игру
+ - Выполните команду /bq_admin default load
